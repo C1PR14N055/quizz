@@ -3,6 +3,7 @@
         <p class="question">{{ currentQA.question }}</p>
         <div *ngIf="currentQA.figure" class="d-flex justify-content-center m-5">
             <a
+                class="figure-zoom"
                 href="assets/imgs/figures/{{ currentQA.figure }}"
                 target="_blank"
             >

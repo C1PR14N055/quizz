@@ -10,9 +10,14 @@
     white-space: pre-wrap;
 }
 
-.figure {
+.figure-zoom {
     max-width: 80%;
     max-height: 300px;
+    cursor: zoom-in;
+}
+
+.figure {
+    width: 100%;
     cursor: zoom-in;
 }
 
