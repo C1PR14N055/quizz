@@ -1,0 +1,1243 @@
+[
+    {
+        "question": "A flight plan has been files for a flight departing at an uncontrolled aerodrome. When has the actual take-off time been transmitted to ATC? ",
+        "answers": [
+            { "text": "Upon request from ATC." },
+            { "text": "When landing is assured." },
+            { "text": "Immediately after take-off.", "correct": true },
+            {
+                "text": "At deviation from expected off-block time by more than 15 min."
+            }
+        ]
+    },
+    {
+        "question": "During a flight with a flight plan submitted, landing is conducted at an airfield other than the destination stated in the filed flight plan. Who has to be contacted by the pilot immediately? ",
+        "answers": [
+            {
+                "text": "Local office for aereal supervision."
+            },
+            { "text": "The flight manager on duty." },
+            {
+                "text": "Aeronatical Information Service (AIS).",
+                "correct": true
+            },
+            { "text": "The police department." }
+        ]
+    },
+    {
+        "question": "Exceeding the maximum allowed aircraft mass is... ",
+        "answers": [
+            {
+                "text": "not permissible and essentially dangerous.",
+                "correct": true
+            },
+            {
+                "text": "only relevant if the excess is more than 10 %."
+            },
+            {
+                "text": "compensated by the pilot's control inputs."
+            },
+            {
+                "text": "exceptionally permissible to avoid delays."
+            }
+        ]
+    },
+    {
+        "question": "The center of gravity has to be located... ",
+        "answers": [
+            {
+                "text": "between the front and the rear C.G. limit.",
+                "correct": true
+            },
+            { "text": "behind the rear C.G. limit." },
+            { "text": "in front of the front C.G. limit." },
+            { "text": "right of the lateral C. G. limit." }
+        ]
+    },
+    {
+        "question": "The result of a rear C.G. position is... ",
+        "answers": [
+            { "text": "an increased fuel consumption. " },
+            { "text": "a decrease of range." },
+            { "text": "a decrease of stability.", "correct": true },
+            { "text": "an increased stall speed. " }
+        ]
+    },
+    {
+        "question": "An aircraft must be loaded and operated in such a way that the center of gravity (CG) stays within the approved limits during all phases of flight. This is done to ensure... ",
+        "answers": [
+            {
+                "text": "that the aircraft does not exceed the maximum permissible airspeed during a descent."
+            },
+            { "text": "that the aircraft does not stall." },
+            {
+                "text": "that the aircraft does not tip over onits tail while it is being loaded."
+            },
+            {
+                "text": "both stability and controllability of the aircraft.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "The result of a front C.G. position is:\n\n1. Increase in stability\n2. Increase in fuel consumption\n3. Increase in stall speed\n4. Increase in range ",
+        "answers": [
+            { "text": "2, 4" },
+            { "text": "1, 2" },
+            { "text": "1, 2, 3", "correct": true },
+            { "text": "2, 3, 4" }
+        ]
+    },
+    {
+        "question": "The basic empty mass of an aircraft includes... ",
+        "answers": [
+            {
+                "text": "the total mass of the aeroplane ready for a specific type of operation excluding unusable fuel and traffic load. The mass includes items such as crew and crew baggage."
+            },
+            {
+                "text": "the total mass of an aeroplane ready for a specific type of operation including the required fuel and crew, but excluding traffic load."
+            },
+            {
+                "text": "the mass of the aeroplane plus standard items such as unusable fuel and other unusable liquids, lubricating oil in engine and auxiliary units, fire extinguishers, pyrotechnics, emergency oxygen equipment, supplementary electronic equipment.",
+                "correct": true
+            },
+            {
+                "text": "the total mass of the aeroplane ready for a specific type of operation including crew, navigation instruments and engine cowling."
+            }
+        ]
+    },
+    {
+        "question": "The empty weight and the corresponding center of gravity (CG) of an aircraft are initially determined... ",
+        "answers": [
+            { "text": "by weighing.", "correct": true },
+            {
+                "text": "through data provided by the aircraft manufacturer."
+            },
+            { "text": "by calculation." },
+            {
+                "text": "for one aircraft of a type only, since all aircraft of the same type have the same mass and CG position. "
+            }
+        ]
+    },
+    {
+        "question": "The density of AVGAS 100LL at 15\u00b0 C is... ",
+        "answers": [
+            { "text": "0.68 kg/l." },
+            { "text": "1.0 kg/l." },
+            { "text": "0.82 kg/l." },
+            { "text": "0.72 kg/l.", "correct": true }
+        ]
+    },
+    {
+        "question": "The conversion factor from kilogram [kg] into pounds [lb] is... ",
+        "answers": [
+            { "text": "kg x 2 = lb." },
+            { "text": "kg x 2.205 = lb.", "correct": true },
+            { "text": "kg / 2.205 = lb." },
+            { "text": "kg x 0.454 = lb." }
+        ]
+    },
+    {
+        "question": "Baggage and cargo must be properly stowed and fastened, otherwise a shift of the cargo may cause... ",
+        "answers": [
+            {
+                "text": "continuous attitudes which canbe corrected by the pilot using the flight controls."
+            },
+            {
+                "text": "structural damage, angle of attack stability, velocity stability."
+            },
+            {
+                "text": "uncontrollable attitudes, structural damage, risk of injuries.",
+                "correct": true
+            },
+            {
+                "text": "calculable instability if the C.G. is shifting by less than 10 %."
+            }
+        ]
+    },
+    {
+        "question": "Loads must be adequately secured in order to... ",
+        "answers": [
+            { "text": "carry extra fuel." },
+            { "text": "allow steep turns." },
+            {
+                "text": "avoid any centre of gravity (C.G.) movements.",
+                "correct": true
+            },
+            {
+                "text": "prevent excessive 'g'-loading during the landing flare."
+            }
+        ]
+    },
+    {
+        "question": "The total weight of an aeroplane is acting vertically through the... ",
+        "answers": [
+            { "text": "stagnation point." },
+            { "text": "neutral point. " },
+            { "text": "center of pressure." },
+            { "text": "center of gravity.", "correct": true }
+        ]
+    },
+    {
+        "question": "The term \"center of gravity\" is defined as... ",
+        "answers": [
+            { "text": "the heaviest point on an aeroplane." },
+            {
+                "text": "half the distance between the neutral point and the datum line."
+            },
+            {
+                "text": "another designation for the neutral point."
+            },
+            {
+                "text": "the point at which the total mass of the aeroplane is considered to act.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "The center of gravity (CG) defines... ",
+        "answers": [
+            {
+                "text": "the point on the longitudinal axis or its extension from which the centers of gravity of all masses are referenced."
+            },
+            {
+                "text": "the point through which the force of gravity is said to act on a mass.",
+                "correct": true
+            },
+            {
+                "text": "the distance from the datum to the position of a mass."
+            },
+            { "text": "the product of mass and balance arm." }
+        ]
+    },
+    {
+        "question": "During an unaccelerated flight... ",
+        "answers": [
+            {
+                "text": "drag equals lift and thrust equals gravity."
+            },
+            {
+                "text": "thrust equals the sum of drag and gravity."
+            },
+            {
+                "text": "thrust equals lift and drag equals gravity."
+            },
+            {
+                "text": "thrust equals drag and lift equals gravity.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "The term \"datum\" with regard to amass and balance calculation defines... ",
+        "answers": [
+            {
+                "text": "the point on the lateral axis of an aeroplane or its extension from which the centers of gravity of all masses are referenced."
+            },
+            {
+                "text": "the point on the vertical axis of an aeroplane or its extension from which the centers of gravity of all masses are referenced."
+            },
+            {
+                "text": "the point on the longitudinal axis of an aeroplane or its extension from which the centers of gravity of all masses are referenced.",
+                "correct": true
+            },
+            {
+                "text": "the distance from the reference plane to the center of gravity of an aircraft."
+            }
+        ]
+    },
+    {
+        "question": "The term \"moment\" with regard to a mass and balance calculation is referred to as... ",
+        "answers": [
+            { "text": "sum of a mass and a balance arm." },
+            {
+                "text": "quotient of a mass and a balance arm."
+            },
+            {
+                "text": "difference of a mass and a balance arm."
+            },
+            { "text": "product of a mass and a balance arm.", "correct": true }
+        ]
+    },
+    {
+        "question": "The term \"balance arm\" in the context of a mass and balance calculation defines the... ",
+        "answers": [
+            {
+                "text": "distance from the datum to the center of gravity of a mass.",
+                "correct": true
+            },
+            {
+                "text": "distance of a mass from the center of gravity."
+            },
+            {
+                "text": "point on the longitudinal axis of an aeroplane or its extension from which the centers of gravity of all masses are referenced."
+            },
+            {
+                "text": "point through which the force of gravity is said to act on a mass."
+            }
+        ]
+    },
+    {
+        "question": "The distance between the center of gravity and the datum is called... ",
+        "answers": [
+            { "text": "span width." },
+            { "text": "balance arm.", "correct": true },
+            { "text": "lever." },
+            { "text": "torque." }
+        ]
+    },
+    {
+        "question": "The balance arm is the horizontal distance between... ",
+        "answers": [
+            {
+                "text": "the front C.G. limit and the datum line. "
+            },
+            {
+                "text": "the C.G. of a mass and the rear C.G. limit."
+            },
+            {
+                "text": "the C.G. of a mass and the datum line.",
+                "correct": true
+            },
+            {
+                "text": "the front C.G. limit and the rear C.G. limit."
+            }
+        ]
+    },
+    {
+        "question": "The required data for a mass and balance calculation including masses and balance arms can be found in the... ",
+        "answers": [
+            {
+                "text": "performance section of the pilot's operating handbook of this particular aircraft."
+            },
+            {
+                "text": "mass and balance section of the pilot's operating handbook of this particular aircraft.",
+                "correct": true
+            },
+            {
+                "text": "documentation of the annual inspection."
+            },
+            { "text": "certificate of airworthiness." }
+        ]
+    },
+    {
+        "question": "When preparing to carry out the weighing procedure on an aircraft, which of the following is required? ",
+        "answers": [
+            { "text": "Drain all engine tank oil" },
+            { "text": "Remove service equipment" },
+            { "text": "Drain all useable fuel", "correct": true },
+            { "text": "Remove the batteries" }
+        ]
+    },
+    {
+        "question": "Which section of the flight manual describes the basic empty mass of an aircraft?  ",
+        "answers": [
+            { "text": "Normal procedures" },
+            { "text": "Limitations" },
+            { "text": "Performance" },
+            { "text": "Weight and balance", "correct": true }
+        ]
+    },
+    {
+        "question": "The position of the center of gravity equals...",
+        "figure": "fpp_1.png",
+        "answers": [
+            { "text": "147.5 in." },
+            { "text": "145.7 in." },
+            { "text": "142 in.", "correct": true },
+            { "text": "137.5 in." }
+        ]
+    },
+    {
+        "question": "What mass equals 102 litres of Avgas 100LL? ",
+        "answers": [
+            { "text": "142 lbs" },
+            { "text": "74 lbs" },
+            { "text": "142 kg" },
+            { "text": "74 kg", "correct": true }
+        ]
+    },
+    {
+        "question": "Calculated take-off mass = 2300 lbs, calculated CG = 95.75 in, fuel burn = 170 lbs on station 87.00 in. Where is the CG situated after the landing? ",
+        "answers": [
+            { "text": "97.39 in" },
+            { "text": "96.45 in", "correct": true },
+            { "text": "94.11 in" },
+            { "text": "96.57 in" }
+        ]
+    },
+    {
+        "question": "Given values: Calculated take-off mass = 746 kg, calculated CG = 37.1 cm, fuel burn = 30.5 l on station 45 cm. Where is the CG situated after the landing? ",
+        "answers": [
+            { "text": "37.2 cm" },
+            { "text": "37.5 cm" },
+            { "text": "36.3 cm" },
+            { "text": "36.9 cm", "correct": true }
+        ]
+    },
+    {
+        "question": "Calculated take-off mass = 1082 kg, calculated CG = 0.254 m, fuel burn = 55 l on station 0.40 m. Where is the CG situated after the landing? ",
+        "answers": [
+            { "text": "24.6 cm" },
+            { "text": "25.2 cm" },
+            { "text": "25.4 cm" },
+            { "text": "24.8 cm", "correct": true }
+        ]
+    },
+    {
+        "question": "The position of the center of gravity (including fuel) equals...",
+        "figure": "fpp_2.png",
+        "answers": [
+            { "text": "37.1 cm.", "correct": true },
+            { "text": "0.401 m." },
+            { "text": "37.3 cm." },
+            { "text": "0.403 m." }
+        ]
+    },
+    {
+        "question": "For the purpose of a flight preparation, the pilot calculates a total take-off mass of 750 kg and a total moment of 625 mmkg. Which cross marks the center of gravity (CG)? ",
+        "figure": "fpp_3.png",
+        "answers": [
+            { "text": "4" },
+            { "text": "2" },
+            { "text": "1", "correct": true },
+            { "text": "3" }
+        ]
+    },
+    {
+        "question": "For the purpose of a flight preparation the pilot calculates a total take-off mass of 725 kg and a total moment of 650 mmkg. Which cross marks the center of gravity (CG)? ",
+        "figure": "fpp_4.png",
+        "answers": [
+            { "text": "1" },
+            { "text": "2" },
+            { "text": "4" },
+            { "text": "3", "correct": true }
+        ]
+    },
+    {
+        "question": "For the purpose of a flight preparation the pilot calculates a total take-off mass of 775 kg and a total moment of 700 mmkg. Which cross marks the center of gravity (CG)? ",
+        "figure": "fpp_5.png",
+        "answers": [
+            { "text": "3" },
+            { "text": "2" },
+            { "text": "4", "correct": true },
+            { "text": "1" }
+        ]
+    },
+    {
+        "question": "Which is the most recently determined empty mass and the associated center of gravity (CG) arm from the aircraft documentation? ",
+        "figure": "fpp_6.png",
+        "answers": [
+            { "text": "5 kg; 1.3 m" },
+            { "text": "4 kg; 1.1 m" },
+            { "text": "498 kg; 280.59 m", "correct": true },
+            { "text": "512 kg; 285.39 m" }
+        ]
+    },
+    {
+        "question": "How does the aircraft configuration influence take-off performance while all other parameters remaining constant?",
+        "figure": "fpp_7.png",
+        "answers": [
+            {
+                "text": "Aircraft B has a higher tyre pressure than aircraft A"
+            },
+            {
+                "text": "Aircraft A has a higher tyre pressure than aircraft B"
+            },
+            {
+                "text": "Aircraft B has a higher flap setting than aircraft A"
+            },
+            {
+                "text": "Aircraft A has a higher flap setting than aircraft B",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "How does aircraft flap configuration influence the take-off performance?",
+        "answers": [
+            {
+                "text": "A higher flap setting decreases ground roll and increases lift-off speed and climb performance"
+            },
+            {
+                "text": "A higher flap setting decreases ground roll and lift-off speed and increases climb performance"
+            },
+            {
+                "text": "A higher flap setting increases ground roll, lift-off speed, and climb performance"
+            },
+            {
+                "text": "A higher flap setting decreases ground roll and lift-off speed, but also climb performance",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "How does wind affect the take-off performance? ",
+        "answers": [
+            {
+                "text": "Tailwind aids the aircraft in overcoming the initial drag at thecommencement of the take-off roll. The take-off distance will decrease"
+            },
+            {
+                "text": "Tailwind reduces the relative wind on the airfoil. The take-off distance will increase",
+                "correct": true
+            },
+            {
+                "text": "Headwind causes an increased airflow around the wing. The take-off distance will increase"
+            },
+            {
+                "text": "Headwind imposes an increased drag on the aircraft. The take-off distance will increase"
+            }
+        ]
+    },
+    {
+        "question": "It is possible that the surface wind speed at an airport is reduced due to friction. When a surface area with a minor tailwind condition is left during the initial climb, the pilot might expect... ",
+        "answers": [
+            {
+                "text": "an increase in airspeed and rate of climb due to decreasing tailwind."
+            },
+            {
+                "text": "a deacrease in airspeed and climb performance due to decreasing tailwind."
+            },
+            {
+                "text": "an increase in airspeed and rate of climb due to increasing tailwind."
+            },
+            {
+                "text": "a decrease in airspeed and rate of climb due to increasing tailwind.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Which factor shortens landing distance? ",
+        "answers": [
+            { "text": "High pressure altitude" },
+            { "text": "Strong head wind", "correct": true },
+            { "text": "Heavy rain" },
+            { "text": "High density altitude" }
+        ]
+    },
+    {
+        "question": "Unless the aircraft is equipped and certified accordingly... ",
+        "answers": [
+            {
+                "text": "flight into known or forecast icing conditions is only allowed as long as it is ensured that the aircraft can still be operated without performance degradation."
+            },
+            {
+                "text": "flight into forecast icing conditions is prohibited. Should the aircraft enter an area of icing conditions inadvertantly, the flight may be continued as long as visual meteorological conditions are maintained."
+            },
+            {
+                "text": "flight into known or forecast icing conditions is prohibited. Should the aircraft enteran area of icing conditions inadvertantly, it should be left without delay.",
+                "correct": true
+            },
+            {
+                "text": "flight into areas of precipitation is prohibited."
+            }
+        ]
+    },
+    {
+        "question": "The speed Vx means... ",
+        "answers": [
+            {
+                "text": "that a given altitude is reached within minimum distance.",
+                "correct": true
+            },
+            {
+                "text": "that a given altitude is reached within minimum flight time."
+            },
+            {
+                "text": "maximum altitude gain per 10 % power."
+            },
+            {
+                "text": "that a given altitude is reached with minimum fuel consumption."
+            }
+        ]
+    },
+    {
+        "question": "The angle of descent is defined as... ",
+        "answers": [
+            {
+                "text": "the ratio between the change in height and the horizontal distance travelled within the same time, expressed in percent [%]."
+            },
+            {
+                "text": "the angle between a horizontal plane and the actual flight path, expressed in degrees [\u00b0].",
+                "correct": true
+            },
+            {
+                "text": "the ratio between the change in height and the horizontal distance distance travelled within the same time, expressed in degrees [\u00b0]."
+            },
+            {
+                "text": "the angle between a horizontal plane and the actual flight path, expressed in percent [%]."
+            }
+        ]
+    },
+    {
+        "question": "The term \"steady flight\" is defined as... ",
+        "answers": [
+            {
+                "text": "flight with a steady power setting without changing course."
+            },
+            {
+                "text": "climb or descent with a constant climb or descent rate in calm weather conditions."
+            },
+            {
+                "text": "unaccelerated flight. The four forces thrust, drag, lift, and weight are in equilibrium.",
+                "correct": true
+            },
+            {
+                "text": "flight in smooth air without turbulence and a perfectly trimmed aircraft."
+            }
+        ]
+    },
+    {
+        "question": "The speed Vy is defined as... ",
+        "answers": [
+            { "text": "best speed of climb. " },
+            { "text": "best angle of climb. " },
+            { "text": "best distance of climb. " },
+            { "text": "best rate of climb. ", "correct": true }
+        ]
+    },
+    {
+        "question": "The speed VFE is defined as... ",
+        "answers": [
+            {
+                "text": "stalling or minimum steady flight speed with the flaps retracted."
+            },
+            { "text": "maximum flap extended speed.", "correct": true },
+            {
+                "text": "stalling or minimum steady flight speed with the flaps extended."
+            },
+            { "text": "maximum landing gear extended speed." }
+        ]
+    },
+    {
+        "question": "The speed VS0 is defined as... ",
+        "answers": [
+            {
+                "text": "maximum landing gear extended speed."
+            },
+            {
+                "text": "stalling speed orminimum steady flight speed obtained in a specific configuration."
+            },
+            {
+                "text": "stalling speed or minimum steady flight speed in landing configuration.",
+                "correct": true
+            },
+            { "text": "never-exceed speed." }
+        ]
+    },
+    {
+        "question": "The beginning of the green arc (2) indicates which airspeed?",
+        "figure": "fpp_8.png",
+        "answers": [
+            { "text": "VS1: Stall speed with flaps up", "correct": true },
+            {
+                "text": "VS0: Stall speed in landing configuration"
+            },
+            { "text": "VFE: Maximum flap extended speed" },
+            {
+                "text": "VNO: Maximum speed for normal operations"
+            }
+        ]
+    },
+    {
+        "question": "The end of the green arc (4) indicates which airspeed?",
+        "figure": "fpp_8.png",
+        "answers": [
+            {
+                "text": "VNO: Maximum speed for normal operations",
+                "correct": true
+            },
+            { "text": "VNE: Never-exceed speed" },
+            { "text": "VFE: Maximum flap extended speed" },
+            { "text": "VS1: Stall speed with flaps up" }
+        ]
+    },
+    {
+        "question": "The red marking at the end of the yellow arc (5) indicates which airspeed?",
+        "figure": "fpp_8.png",
+        "answers": [
+            {
+                "text": "VNO: Maximum speed for normal operations"
+            },
+            { "text": "VFE: Maximum flap extended speed" },
+            { "text": "VS1: Stall speed with flaps up" },
+            { "text": "VNE: Never-exceed speed", "correct": true }
+        ]
+    },
+    {
+        "question": "Which climb speed may be used to optimize the rate of climb (e.g. to reach a desired altitude within minimum time)? ",
+        "answers": [
+            { "text": "Vy, the best angle of climb speed" },
+            { "text": "Vy, the best rate of climb speed", "correct": true },
+            { "text": "Vx, the best rate of climb speed" },
+            { "text": "Vx, the best angle of climb speed" }
+        ]
+    },
+    {
+        "question": "For a take-off from runway 22 and a reported wind of 250\u00b0/10 kt, the longitudinal wind component equals... ",
+        "answers": [
+            { "text": "9 kt tailwind." },
+            { "text": "5 kt tailwind." },
+            { "text": "9 kt headwind.", "correct": true },
+            { "text": "5 kt headwind." }
+        ]
+    },
+    {
+        "question": "Given the following conditions, the take-off distance equals...\n\nOutside air temperature: -20\u00b0 C\nPressure Altitude: 5000 ft\nAeroplane mass: 750 kg\nHeadwind: 10 kt ",
+        "figure": "fpp_9.png",
+        "answers": [
+            { "text": "450 m." },
+            { "text": "380 m.", "correct": true },
+            { "text": "410 m." },
+            { "text": "310 m." }
+        ]
+    },
+    {
+        "question": "A pilot wants to take off on runway 36, the reported wind is 240 degrees, 12 knots. What is the value of the wind components acting on the aircraft on take-off and landing? ",
+        "answers": [
+            {
+                "text": "Crosswind from the right 10.4 kt.Tailwind 6 kt."
+            },
+            {
+                "text": "Crosswind from the left 10.4 kt.Tailwind 6 kt.",
+                "correct": true
+            },
+            {
+                "text": "Crosswind from the left 6 kt.Tailwind 10.4 kt."
+            },
+            {
+                "text": "Crosswind from the right 6 kt.Headwind 10.4 kt."
+            }
+        ]
+    },
+    {
+        "question": "What is the take-off distance at 750 kg take-off mass, standard (ISA) conditions at an elevation of 4000 ft with 5 kt tailwind? ",
+        "figure": "fpp_9.png",
+        "answers": [
+            { "text": "900 m", "correct": true },
+            { "text": "320 m" },
+            { "text": "630 m" },
+            { "text": "480 m" }
+        ]
+    },
+    {
+        "question": "What is the take-off distance at 705 kg take-off mass, OAT 20\u00b0 C, QNH 1013 hPa at an elevation of 3500 ft with 5 kt tailwind? ",
+        "figure": "fpp_9.png",
+        "answers": [
+            { "text": "720 m" },
+            { "text": "880 m", "correct": true },
+            { "text": "790 m" },
+            { "text": "820 m" }
+        ]
+    },
+    {
+        "question": "A pilot wants to take off on runway36, the reported wind is 240 degrees 12 knots. What are the wind components acting on the aircraft on take-off and landing? ",
+        "answers": [
+            {
+                "text": "Crosswind from the right 10.4 kt.Tailwind 6 kt."
+            },
+            {
+                "text": "Crosswind from the right 6 kt.Headwind 10.4 kt."
+            },
+            {
+                "text": "Crosswind from the left 10.4 kt.Tailwind 6 kt.",
+                "correct": true
+            },
+            {
+                "text": "Crosswind from the left 6 kt.Tailwind 10.4 kt."
+            }
+        ]
+    },
+    {
+        "question": "Given the following conditions, the fuel consumption equals...\n\nPressure altitude: 2000 ft\nTemperature: 31\u00b0 C\nRPM: 2400 ",
+        "figure": "fpp_10.png",
+        "answers": [
+            { "text": "19.5 l/h.", "correct": true },
+            { "text": "19.1 l/h." },
+            { "text": "21.7 l/h." },
+            { "text": "22.8 l/h." }
+        ]
+    },
+    {
+        "question": "Given the following conditions, the climb speed equals...\n\nOutside air temperature: -20\u00b0 C\nPressure altitude: 10000 ft ",
+        "figure": "fpp_11.png",
+        "answers": [
+            { "text": "200 ft/min." },
+            { "text": "350 ft/min." },
+            { "text": "390 ft/min.", "correct": true },
+            { "text": "450 ft/min." }
+        ]
+    },
+    {
+        "question": "What range can be achieved at the following conditions?\n\nOutside air temperature: 6\u00b0 C\nPressure Altitude: 6000 ft\nPower: 65% ",
+        "figure": "fpp_12.png",
+        "answers": [
+            { "text": "457 NM" },
+            { "text": "503 NM" },
+            { "text": "444 NM" },
+            { "text": "482 NM", "correct": true }
+        ]
+    },
+    {
+        "question": "Given the following information, what range can be achieved?\n\nOutside air temperature: 22\u00b0 C\nPressure altitude: 2000 ft\nPower: 55%\n ",
+        "figure": "fpp_12.png",
+        "answers": [
+            { "text": "550 NM" },
+            { "text": "480 NM" },
+            { "text": "450 NM" },
+            { "text": "500 NM", "correct": true }
+        ]
+    },
+    {
+        "question": "Given the following conditions, the TAS equals...\n\nOutside air temperature: 10\u00b0 C\nPressure altitude: 6000 ft\nPower: 65%\n ",
+        "figure": "fpp_13.png",
+        "answers": [
+            { "text": "96 kt." },
+            { "text": "92 kt.", "correct": true },
+            { "text": "88 kt." },
+            { "text": "100 kt." }
+        ]
+    },
+    {
+        "question": "Given the following conditions, the TAS equals...\n\nOutside air temperature: -2\u00b0 C\nPressure altitude: 8000 ft\nPower: 75% ",
+        "figure": "fpp_13.png",
+        "answers": [
+            { "text": "104 kt.", "correct": true },
+            { "text": "100 kt." },
+            { "text": "95 kt." },
+            { "text": "110 kt." }
+        ]
+    },
+    {
+        "question": "Which maximum rate of climb can the aircraft reach at 9000 ft pressure altitude and OAT 12\u00b0 C? ",
+        "figure": "fpp_11.png",
+        "answers": [
+            { "text": "200 ft/min", "correct": true },
+            { "text": "250 ft/min" },
+            { "text": "350 ft/min" },
+            { "text": "300 ft/min" }
+        ]
+    },
+    {
+        "question": "Which is the maximum rate of climb for the aircraft at 6500 ft pressure altitude and an OAT of 0\u00b0 C? ",
+        "figure": "fpp_11.png",
+        "answers": [
+            { "text": "480 ft / min", "correct": true },
+            { "text": "400 ft /min" },
+            { "text": "520 ft / min" },
+            { "text": "800 ft / min" }
+        ]
+    },
+    {
+        "question": "What is the true airspeed (TAS) [kt] and fuel consumption [l/h] for cruise flight with 60% power in flight level 60 under the following conditions?\n\nTemperature: ISA -20\u00b0 C\nQNH: 980 hPa ",
+        "figure": "fpp_10.png",
+        "answers": [
+            { "text": "96 kt, 19.1 l/h." },
+            { "text": "95 kt, 19.6 l/h.", "correct": true },
+            { "text": "110 kt, 25.1 l/h." },
+            { "text": "95,75 kt, 19.8 l/h." }
+        ]
+    },
+    {
+        "question": "What is the true airspeed (TAS) [kt] and fuel consumption [l/h] for cruise flight with 70% power in flight level 60 under the following conditions?\n\nTemperature: ISA -20\u00b0 C\nQNH: 980 hPa\n ",
+        "figure": "fpp_10.png",
+        "answers": [
+            { "text": "110 kt, 23.9 l/h.", "correct": true },
+            { "text": "100 kt, 19.3 l/h." },
+            { "text": "95 kt, 19.6 l/h." },
+            { "text": "105 kt, 21.5 l/h." }
+        ]
+    },
+    {
+        "question": "What is the fuel flow and the true airspeed for cruise flight with 60% power in flight level 85 at an OAT of -25\u00b0 C? ",
+        "figure": "fpp_13.png",
+        "answers": [
+            { "text": "Fuel flow: 17 l, TAS: 81 kt." },
+            { "text": "Fuel flow: 17.5 l, TAS: 83 kt." },
+            { "text": "Fuel flow: 20 l, TAS: 89 kt." },
+            { "text": "Fuel flow: 18.5 l, TAS: 85 kt.", "correct": true }
+        ]
+    },
+    {
+        "question": "At which airspeed do you climb to flight level (FL) 75 after a departure from an airfield which is located at a pressure altitude of 3000 ft with an initial mass of 3000 lbs?\n\nOAT at airfield: 25\u00b0 C\nOAT in FL 75: 0\u00b0 C",
+        "figure": "fpp_14.png",
+        "answers": [
+            { "text": "90 kt" },
+            { "text": "120 kt" },
+            { "text": "110 kt", "correct": true },
+            { "text": "100 kt" }
+        ]
+    },
+    {
+        "question": "What is the required fuel to climb from FL 65 to FL 95 under the following conditions?\n\nAircraft mass: 3000 lb\n\nOAT in FL 65: -5\u00b0 C\nOAT in FL 95: -15\u00b0 C",
+        "figure": "fpp_14.png",
+        "answers": [
+            { "text": "1 GAL", "correct": true },
+            { "text": "2 GAL" },
+            { "text": "6 GAL" },
+            { "text": "3 GAL" }
+        ]
+    },
+    {
+        "question": "What is the required distance to climb from FL 65 to FL 95 under the following conditions:\n\nAircraft mass: 3000 lb\nOAT in FL 65: -5\u00b0 C\nOAT in FL 95: -15\u00b0 C ",
+        "figure": "fpp_14.png",
+        "answers": [
+            { "text": "6 NM", "correct": true },
+            { "text": "3 NM" },
+            { "text": "16 NM" },
+            { "text": "10 NM" }
+        ]
+    },
+    {
+        "question": "What is the required distance to climb to flight level (FL) 75 after a departure from an airfield which is located at a pressure altitude of 3000 ft with an initial mass of 3000 lbs?\n\nOAT at airfield: 25\u00b0 C\nOAT in FL 75: 0\u00b0 C",
+        "figure": "fpp_14.png",
+        "answers": [
+            { "text": "10 NM" },
+            { "text": "6 NM" },
+            { "text": "4 NM" },
+            { "text": "7 NM", "correct": true }
+        ]
+    },
+    {
+        "question": "The term \"maximum elevation figure\" (MEF) is defined as... ",
+        "answers": [
+            {
+                "text": "the highest elevation within an area covering 30 minutes of latitude and 30 minutes of longitude."
+            },
+            {
+                "text": "the highest elevation within an area covering 30 minutes of latitude and 30 minutes of longitude plus a safety margin, rounded to the next higher 100 ft.",
+                "correct": true
+            },
+            {
+                "text": "the highest elevation within an area covering 30 minutes of latitude and 30 minutes of longitude plus a safety margin of 1000 ft (305 m), rounded to the next higher 100 ft."
+            },
+            {
+                "text": "the highest elevation within an area covering 1 degree of latitude and 1 degree of longitude plus a safety margin, rounded to the next lower 100 ft."
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of \"interception lines\" in visual navigation? ",
+        "answers": [
+            {
+                "text": "To visualize the range limitation from the departure aerodrome"
+            },
+            {
+                "text": "They help to continue the flight when flight visibility drops below VFR minima"
+            },
+            {
+                "text": "To mark the next available en-route airport during the flight"
+            },
+            {
+                "text": "They are used as easily recognizable guidance upon a possible loss of orientation",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "The VFR semicircular rules are based on the... ",
+        "answers": [
+            { "text": "true course (TC)." },
+            { "text": "magnetic heading (MH)." },
+            { "text": "magnetic course (MC).", "correct": true },
+            { "text": "true heading (TH)." }
+        ]
+    },
+    {
+        "question": "What is the lowest possible VFR flight level if a true course of 181\u00b0 is selected and a variation of 3\u00b0 east exists? ",
+        "answers": [
+            { "text": "FL 050" },
+            { "text": "FL 060" },
+            { "text": "FL 055", "correct": true },
+            { "text": "FL 065" }
+        ]
+    },
+    {
+        "question": "The upper limit of LO R 16 equals... ",
+        "figure": "fpp_15.png",
+        "answers": [
+            { "text": "FL150." },
+            { "text": "1 500 m MSL." },
+            { "text": "1 500 ft MSL.", "correct": true },
+            { "text": "1.500 ft GND. " }
+        ]
+    },
+    {
+        "question": "The upper limit of LO R 4 equals... ",
+        "figure": "fpp_16.png",
+        "answers": [
+            { "text": "4.500 ft AGL." },
+            { "text": "4.500 ft MSL.", "correct": true },
+            { "text": "1.500 ft MSL." },
+            { "text": "1.500 ft AGL." }
+        ]
+    },
+    {
+        "question": "How much taxi fuel must be consumed before take-off to reduce the aircraft mass to the maximum take-off mass?\n\nMaximum ramp mass (MRM): 1150 kg\nActual ramp mass: 1148 kg\nMaximum take-off mass (MTOM): 1145 kg ",
+        "answers": [
+            { "text": "2 L" },
+            { "text": "3 L" },
+            { "text": "5 L" },
+            { "text": "4 L", "correct": true }
+        ]
+    },
+    {
+        "question": "Considering the following fuel data, how much trip fuel is required?\n\nFuel for start-up and taxi: 5 L\nFuel for take-off and climb: 12 L\nFuel for cruise flight: 25 L\nFuel for descent, approach and landing: 7 L\nFuel for taxi and parking: 3 L\nFuel to alternate: 13 L\nFinal reserve fuel: 10 L",
+        "answers": [
+            { "text": "75 L" },
+            { "text": "52 L" },
+            { "text": "49 L" },
+            { "text": "44 L", "correct": true }
+        ]
+    },
+    {
+        "question": "According to the aeronautical chart, Friesach / Hirt (LOKH) has a 707m grass runway. Prevailing runway is 17 due to a surface wind of 18010KT. The required landing distance for your aircraft under present conditions is 550m. Considering the NOTAM below, is it safe to plan LOKH as an alternate aerodrome?",
+        "figure": "fpp_17.png",
+        "answers": [
+            { "text": "Don't know." },
+            { "text": "Maybe." },
+            { "text": "Yes." },
+            { "text": "No.", "correct": true }
+        ]
+    },
+    {
+        "question": "Up to which altitude is an overflight prohibited according to the NOTAM?",
+        "figure": "fpp_18.png",
+        "answers": [
+            { "text": "Height 9500 ft" },
+            { "text": "Altitude 9500 ft MSL", "correct": true },
+            { "text": "Altitude 9500 m MSL" },
+            { "text": "Flight Level 95" }
+        ]
+    },
+    {
+        "question": "The EOBT (estimated off-block time) is specified in the ATS flight plan as... ",
+        "answers": [
+            { "text": "Coordinated Universal Time (UTC).", "correct": true },
+            { "text": "Standard Time (ST)." },
+            { "text": "Local Mean Time (LMT)." },
+            { "text": "Central European Time (CET)." }
+        ]
+    },
+    {
+        "question": "What is the nature of the flight shown in the given ATC flight plan? ",
+        "figure": "fpp_19.png",
+        "answers": [
+            {
+                "text": "Night flight under visual flight rules.",
+                "correct": true
+            },
+            {
+                "text": "Flight under instrument flight rules."
+            },
+            {
+                "text": "Traffic pattern under visual flight rules."
+            },
+            { "text": "Border crossing flight." }
+        ]
+    },
+    {
+        "question": "The specified speed in the ATS flight plan equals: ",
+        "figure": "fpp_20.png",
+        "answers": [
+            { "text": "1000 kt." },
+            { "text": "100 m/h." },
+            { "text": "100 km/h." },
+            { "text": "100 kt.", "correct": true }
+        ]
+    },
+    {
+        "question": "What must be considered for cross-border flights? ",
+        "answers": [
+            { "text": "Transmission of hazard reports" },
+            { "text": "Regular location messages" },
+            { "text": "Approved exceptions" },
+            { "text": "Requires flight plans", "correct": true }
+        ]
+    },
+    {
+        "question": "During a flight, a flight plan can be filed at the... ",
+        "answers": [
+            { "text": "Flight Information Service (FIS).", "correct": true },
+            { "text": "Search and Rescue Service (SAR)." },
+            { "text": "next airport operator en-route." },
+            {
+                "text": "Aeronautical Information Service (AIS)."
+            }
+        ]
+    },
+    {
+        "question": "In comparison to the true airspeed in still air conditions, the TAS in a strong tailwind will be... ",
+        "answers": [
+            { "text": "the same for maximum range." },
+            {
+                "text": "significantly lower for maximum endurance."
+            },
+            { "text": "slightly lower for maximum range.", "correct": true },
+            {
+                "text": "slightly higher for maximum endurance."
+            }
+        ]
+    },
+    {
+        "question": "What happens to the true airspeed at a constant indicated airspeed during a climb? ",
+        "answers": [
+            { "text": "It decreases" },
+            { "text": "It increases", "correct": true },
+            { "text": "It remains constant below 5000 ft" },
+            { "text": "It remains constant above 5000 ft" }
+        ]
+    },
+    {
+        "question": "Given the following data:\n\nTake-Off fuel = 200 lbs\nAlternate fuel = 40 lbs\nFinal reserve fuel = 30 lbs\nAfter 25 minutes the remaining fuel is 120 lbs. Assuming that fuel flow will remain unchanged, the remaining time to the destination should not exceed:",
+        "answers": [
+            { "text": "37.5 min" },
+            { "text": "20.0 min" },
+            { "text": "15.6 min", "correct": true },
+            { "text": "59.4 min" }
+        ]
+    },
+    {
+        "question": "Given the following data for a VFR flight:\n\nTake-off fuel: 180 kg including reserve fuel, which is 30% of take off fuel. After half of the distance the remaining fuel is 100 kg. Assume that cruise conditions will remain unchanged. Determine the remaining fuel at the destination: ",
+        "answers": [
+            { "text": "80 kg" },
+            { "text": "40 kg" },
+            { "text": "10 kg" },
+            { "text": "20 kg", "correct": true }
+        ]
+    },
+    {
+        "question": "During a VFR flight the remaining usable fuel at a checkpoint is 80 USG. Reserve fuel is 20 USG, remaining flight time according to flight plan is 2h 20min. What is the highest acceptable fuel flow (FF) for the rest of the trip? ",
+        "answers": [
+            { "text": "FF = 8.6 USG/h" },
+            { "text": "FF = 42.9 USG/h" },
+            { "text": "FF = 25.7 USG/h", "correct": true },
+            { "text": "FF = 34.3 USG/h" }
+        ]
+    },
+    {
+        "question": "Planning a flight from EDWF (Leer Papenburg) to EDWH (Oldenburg Hatten), the following conditions apply:\n\nCruise level = FL 75\nTemperature = ISA\nCruise weight = 3400 lbs\nPower setting = 23.0 in. HG @ 2300 RPM\nDetermine True Airspeed (TAS) and Fuel Flow (FF): ",
+        "figure": "fpp_21.png",
+        "answers": [
+            { "text": "TAS = 145 ktFF = 71.1 GPH" },
+            { "text": "TAS = 160 ktFF = 12.3 GPH" },
+            { "text": "TAS = 160 ktFF = 11.9 GPH", "correct": true },
+            { "text": "TAS = 145 ktFF = 11.9 GPH" }
+        ]
+    },
+    {
+        "question": "Planning a flight  from EDWH (Oldenburg Hatten) to EDWF (Leer Papenburg), the following conditions apply:\n\nCruise level = FL 65\nTemperature = ISA+20\nCruise weight = 3400 lbs\nPower setting = 23.0 in. HG @ 2300 RPM\nWhat Indicated Airspeed (IAS) and Fuel Flow (FF) can be expected? ",
+        "figure": "fpp_21.png",
+        "answers": [
+            { "text": "IAS = 142 ktFF = 11.5 GPH", "correct": true },
+            { "text": "IAS = 145 ktFF = 11.9 GPH" },
+            { "text": "IAS = 158ktFF = 11.5 GPH" },
+            { "text": "IAS = 150 ktFF = 12.3 GPH" }
+        ]
+    },
+    {
+        "question": "For planning a VFR flight, the following data are given:\n\nFlight time with planning \"overhead-overhead\" = 2h 43min\nPressure Altitude = 6.500 ft\nTemperature = ISA-20\nPower setting = 2300 RPM\nTaxi Fuel = 2 USG\nAdditional time for climb = 7 min\nAdditional time for approach and landing = 10 min\nThe reserve fuel has to be 30% of trip fuel.\nDetermine the minimum block fuel: ",
+        "figure": "fpp_21.png",
+        "answers": [
+            { "text": "47.3 USG" },
+            { "text": "50.4 USG", "correct": true },
+            { "text": "43.8 USG" },
+            { "text": "39.2 USG" }
+        ]
+    },
+    {
+        "question": "For planning a VFR flight, the following data are given:\n\nFlight time with planning \"overhead-overhead\" = 2h 42min\nPressure Altitude = 7.500 ft\nTemperature = ISA\nPower setting = 2300 RPM\nTaxi Fuel = 2 USG\nAdditional time for climb = 8 min\nAdditional time for approach and landing = 10 min\nThe reserve fuel has to be 30% of trip fuel.\nDetermine the minimum block fuel: ",
+        "figure": "fpp_21.png",
+        "answers": [
+            { "text": "51.8 USG" },
+            { "text": "37.7 USG" },
+            { "text": "46.4 USG" },
+            { "text": "48.4 USG", "correct": true }
+        ]
+    },
+    {
+        "question": "Given the following data for a VFR flight:\n\nTrip fuel = 70 US gallons\nContingency fuel = 5% of trip fuel\nAlternate and final reserve fuel = 20 US gallons\nUsable fuel at take-off = 95 US gallons\nAfter half of the distance you read that you have consumed 40 US gallons. Assume that fuel flow remains unchanged.\nWhich statement is correct? ",
+        "answers": [
+            {
+                "text": "Upon landing 15.0 US gallons will remain in addition to alternate and final reserve fuel."
+            },
+            {
+                "text": "Upon landing 5.0 US gallons will remain in addition to alternate and final reserve fuel."
+            },
+            {
+                "text": "Upon landing, a total of 40.0 US gallons will remain."
+            },
+            {
+                "text": "The remaining fuel is insufficient for a landing at destination with alternate and final reserve fuel remaining.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Given the following data for a VFR flight:\n\nTrip fuel = 70 US gallons\nContingency fuel = 5% of trip fuel.\nAlternate and final reserve fuel = 20 US gallons\nUsable fuel at take-off = 90 US gallons\nAfter half of the distance you read that you have consumed 30 US gallons. Assume that fuel flow remains unchanged.\nWhich statement is correct? ",
+        "answers": [
+            {
+                "text": "The remaining fuel is insufficient for a landing at destination with alternate and final reserve fuel remaining."
+            },
+            {
+                "text": "Upon landing 30.0 US gallons will remain in addition to alternate and final reserve fuel."
+            },
+            {
+                "text": "Upon landing 10.0 US gallons will remain in addition to alternate and final reserve fuel.",
+                "correct": true
+            },
+            {
+                "text": "Upon landing a total of 10.0 US gallons will remain."
+            }
+        ]
+    },
+    {
+        "question": "According ICAO, what symbol indicates a group of unlighted obstacles? ",
+        "figure": "fpp_22.png",
+        "answers": [
+            { "text": "C", "correct": true },
+            { "text": "B" },
+            { "text": "A" },
+            { "text": "D" }
+        ]
+    },
+    {
+        "question": "According ICAO, what symbol indicates a civil airport (not international airport) with paved runway? ",
+        "figure": "fpp_23.png",
+        "answers": [
+            { "text": "D" },
+            { "text": "A", "correct": true },
+            { "text": "B" },
+            { "text": "C" }
+        ]
+    },
+    {
+        "question": "According ICAO, what symbol indicates a general spot elevation? ",
+        "figure": "fpp_24.png",
+        "answers": [
+            { "text": "B" },
+            { "text": "C", "correct": true },
+            { "text": "A" },
+            { "text": "D" }
+        ]
+    },
+    {
+        "question": "How does the air temperature affect the performance of a piston engine? ",
+        "answers": [
+            {
+                "text": "Lower temperature corresponds to higher air density, which leads to lower engine performance"
+            },
+            {
+                "text": "A higher temperature corresponds to a lower air density, which leads to lower engine performance",
+                "correct": true
+            },
+            {
+                "text": "A higher temperature corresponds to a higher air density, which leads to higher engine performance"
+            },
+            {
+                "text": "A lower temperature corresponds to a lower air density, which leads to higher engine performance"
+            }
+        ]
+    }
+]

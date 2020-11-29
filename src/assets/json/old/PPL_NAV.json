@@ -1,0 +1,1500 @@
+[
+    {
+        "question": "The rotational axis of the Earth runs through the... ",
+        "answers": [
+            {
+                "text": "geographic North Pole and on the geographic South Pole.",
+                "correct": true
+            },
+            {
+                "text": "geographic North Pole and on the magnetic south pole."
+            },
+            {
+                "text": "magnetic north pole and on the magnetic south pole."
+            },
+            {
+                "text": "magnetic north pole and on the geographic South Pole."
+            }
+        ]
+    },
+    {
+        "question": "Which statement is correct with regard to the polar axis of the Earth? ",
+        "answers": [
+            {
+                "text": "The polar axis of the Earth crosses the geographic South Pole and the geographic North Pole and is perpendicular to the plane of the equator",
+                "correct": true
+            },
+            {
+                "text": "The polar axis of the Earth crosses the geographic South Pole and the geographic North Pole and is at an angle of 23.5\u00b0 to the plane of the equator"
+            },
+            {
+                "text": "The polar axis of the Earth crosses the magnetic south pole and the magnetic north pole and is perpendicular to the plane of the equator"
+            },
+            {
+                "text": "The polar axis of the Earth crosses the magnetic south pole and the magnetic north pole and is at an angle of 66.5\u00b0 to the plane of the equator"
+            }
+        ]
+    },
+    {
+        "question": "Which approximate, geometrical form describes the shape of the Earth best for navigation systems? ",
+        "answers": [
+            { "text": "Sphere of ecliptical shape" },
+            { "text": "Ellipsoid", "correct": true },
+            { "text": "Perfect sphere" },
+            { "text": "Flat plate" }
+        ]
+    },
+    {
+        "question": "Which statement about a rhumb line is correct? ",
+        "answers": [
+            {
+                "text": "A rhumb line cuts each meridian at the same angle.",
+                "correct": true
+            },
+            {
+                "text": "The center of a complete cycle of a rhumb line is always the Earth's center."
+            },
+            {
+                "text": "The shortest track between two points along the Earth's surface follows a rhumb line."
+            },
+            {
+                "text": "A rhumb line is a great circle intersecting the the equator with 45\u00b0 angle."
+            }
+        ]
+    },
+    {
+        "question": "The shortest distance between two points on Earth is represented by a part of... ",
+        "answers": [
+            { "text": "a great circle.", "correct": true },
+            { "text": "a small circle." },
+            { "text": "a rhumb line. " },
+            { "text": "a parallel of latitude.  " }
+        ]
+    },
+    {
+        "question": "The circumference of the Earth at the equator is approximately...",
+        "figure": "nav_1.png",
+        "answers": [
+            { "text": "10800 km." },
+            { "text": "40000 NM." },
+            { "text": "12800 km." },
+            { "text": "21600 NM.", "correct": true }
+        ]
+    },
+    {
+        "question": "What is the difference in latitude between A (12\u00b053'30''N) and B (07\u00b034'30''S)? ",
+        "answers": [
+            { "text": "20\u00b028'00''", "correct": true },
+            { "text": "05,19\u00b0" },
+            { "text": "20,28\u00b0" },
+            { "text": "05\u00b019'00''" }
+        ]
+    },
+    {
+        "question": "Where are the two polar circles? ",
+        "answers": [
+            {
+                "text": "At a latitude of 20.5\u00b0S and 20.5\u00b0N"
+            },
+            {
+                "text": "23.5\u00b0 north and south of the poles",
+                "correct": true
+            },
+            {
+                "text": "23.5\u00b0 north and south of the equator"
+            },
+            { "text": "20.5\u00b0 south of the poles" }
+        ]
+    },
+    {
+        "question": "What is the distance between the parallels of latitude 48\u00b0N and 49\u00b0N along a meridian line? ",
+        "answers": [
+            { "text": "1 NM" },
+            { "text": "60 NM", "correct": true },
+            { "text": "111 NM" },
+            { "text": "10 NM" }
+        ]
+    },
+    {
+        "question": "What distance corresponds to one degree difference in latitude along any degree of longitude? ",
+        "answers": [
+            { "text": "1 NM" },
+            { "text": "60 NM", "correct": true },
+            { "text": "30 NM" },
+            { "text": "60 km" }
+        ]
+    },
+    {
+        "question": "Point A onthe Earth's surface lies exactly on the parallel of latitude of 47\u00b050'27''N.Which point is exactly 240 NM north of A? ",
+        "answers": [
+            { "text": "43\u00b050'27''N" },
+            { "text": "53\u00b050'27''N" },
+            { "text": "49\u00b050'27''N" },
+            { "text": "51\u00b050'27'N'", "correct": true }
+        ]
+    },
+    {
+        "question": "What is the distance between the two parallels of longitude 150\u00b0E and 151\u00b0E along the equator? ",
+        "answers": [
+            { "text": "60 km" },
+            { "text": "111 NM" },
+            { "text": "60 NM", "correct": true },
+            { "text": "1 NM" }
+        ]
+    },
+    {
+        "question": "What is the great circle distance between two points A and B on the equator when the difference between the two associated meridians is exactly one degree of longitude? ",
+        "answers": [
+            { "text": "60 NM", "correct": true },
+            { "text": "400 NM" },
+            { "text": "120 NM" },
+            { "text": "216 NM" }
+        ]
+    },
+    {
+        "question": "Assume two arbitrary points A and B on the same parallel of latitude, but not on the equator. Point A is located on 010\u00b0E and point B on 020\u00b0E. The rumb line distance between A and B is always... ",
+        "answers": [
+            { "text": "more than 600 NM." },
+            { "text": "less than 600 NM.", "correct": true },
+            { "text": "more than 300 NM." },
+            { "text": "less than 300 NM." }
+        ]
+    },
+    {
+        "question": "What is the difference in time when the sun moves 20\u00b0 of longitude? ",
+        "answers": [
+            { "text": "1:20 h", "correct": true },
+            { "text": "0:20 h" },
+            { "text": "0:40 h" },
+            { "text": "1:00 h" }
+        ]
+    },
+    {
+        "question": "What is the difference in time when the sun moves 10\u00b0 of longitude? ",
+        "answers": [
+            { "text": "0:30 h" },
+            { "text": "0:04 h" },
+            { "text": "0:40 h", "correct": true },
+            { "text": "1:00 h" }
+        ]
+    },
+    {
+        "question": "The sun moves 10\u00b0 of longitude. What is the difference in time?",
+        "answers": [
+            { "text": "0.4 h" },
+            { "text": "1 h" },
+            { "text": "0.33 h" },
+            { "text": "0.66 h", "correct": true }
+        ]
+    },
+    {
+        "question": "With Central European Summer Time (CEST) given as UTC+2, what UTC time corresponds to 1600 CEST? ",
+        "answers": [
+            { "text": "1600 UTC." },
+            { "text": "1500 UTC." },
+            { "text": "1700 UTC." },
+            { "text": "1400 UTC.", "correct": true }
+        ]
+    },
+    {
+        "question": "UTC is... ",
+        "answers": [
+            { "text": "a zonal time." },
+            { "text": "a local time in Central Europe." },
+            {
+                "text": "local mean time at a specific point on Earth."
+            },
+            { "text": "an obligatory time used in aviation.", "correct": true }
+        ]
+    },
+    {
+        "question": "With Central European Time (CET) given as UTC+1, what UTC time corresponds to 1700 CET?",
+        "answers": [
+            { "text": "1600 UTC.", "correct": true },
+            { "text": "1500 UTC." },
+            { "text": "1700 UTC. " },
+            { "text": "1800 UTC." }
+        ]
+    },
+    {
+        "question": "Vienna (LOWW) is located at 016\u00b0 34'E, Salzburg (LOWS) at 013\u00b0 00'E. The latitude of both positions can be considered as equal.What is the difference of sunrise and sunset times, expressed in UTC, between Wien and Salzburg? ",
+        "answers": [
+            {
+                "text": "In Vienna the sunrise and sunset are about 14 minutes earlier than in Salzburg",
+                "correct": true
+            },
+            {
+                "text": "In Vienna the sunrise is 14 minutes earlier and sunset is 14 minutes later than in Salzburg"
+            },
+            {
+                "text": "In Vienna the sunrise and sunset are about 4 minutes later than in Salzburg"
+            },
+            {
+                "text": "In Vienna the sunrise is 4 minutes later and sunset is 4 minutes earlier than in Salzburg"
+            }
+        ]
+    },
+    {
+        "question": "The term 'civil twilight' is defined as... ",
+        "answers": [
+            {
+                "text": "the period of time before sunrise or after sunset where the midpoint of the sun disk is 6 degrees or less below the true horizon.",
+                "correct": true
+            },
+            {
+                "text": "the period of time before sunrise or after sunset where the midpoint of the sun disk is 6 degrees or less below the apparent horizon."
+            },
+            {
+                "text": "the period of time before sunrise or after sunset where the midpoint of the sun disk is 12 degrees or less below the true horizon."
+            },
+            {
+                "text": "the period of time before sunrise or after sunset where the midpoint of the sun disk is 12 degrees or less below the apparent horizon."
+            }
+        ]
+    },
+    {
+        "question": "Given:\n\nWCA: -012\u00b0; TH: 125\u00b0; MC: 139\u00b0; DEV: 002\u00b0\nWhat are: TC, MH and CH?",
+        "answers": [
+            {
+                "text": "TC: 113\u00b0.MH: 127\u00b0.CH: 129\u00b0."
+            },
+            {
+                "text": "TC: 137\u00b0.MH: 127\u00b0.CH: 125\u00b0.",
+                "correct": true
+            },
+            {
+                "text": "TC: 137\u00b0.MH: 139\u00b0.CH: 125\u00b0."
+            },
+            {
+                "text": "TC: 113\u00b0.MH: 139\u00b0.CH: 129\u00b0."
+            }
+        ]
+    },
+    {
+        "question": "Given:\n\nTC: 179\u00b0; WCA: -12\u00b0; VAR: 004\u00b0 E; DEV: +002\u00b0\nWhat are MH and MC?",
+        "answers": [
+            { "text": "MH: 167\u00b0.MC: 175\u00b0." },
+            { "text": "MH: 167\u00b0.MC: 161\u00b0." },
+            { "text": "MH: 163\u00b0.MC: 175\u00b0.", "correct": true },
+            { "text": "MH: 163\u00b0.MC: 161\u00b0." }
+        ]
+    },
+    {
+        "question": "The angle between the true course and the true heading is called... ",
+        "answers": [
+            { "text": "WCA.", "correct": true },
+            { "text": "deviation." },
+            { "text": "variation. " },
+            { "text": "inclination." }
+        ]
+    },
+    {
+        "question": "The angle between the magnetic course and the true course is called... ",
+        "answers": [
+            { "text": "deviation." },
+            { "text": "WCA." },
+            { "text": "variation.", "correct": true },
+            { "text": "inclination." }
+        ]
+    },
+    {
+        "question": "The term 'magnetic course' (MC) is defined as... ",
+        "answers": [
+            {
+                "text": "the angle between magnetic north and the course line.",
+                "correct": true
+            },
+            {
+                "text": "the angle between true north and the course line."
+            },
+            {
+                "text": "the direction from an arbitrary point on Earth to the geographic North Pole."
+            },
+            {
+                "text": "the direction from an arbitrary point on Earth to the magnetic north pole."
+            }
+        ]
+    },
+    {
+        "question": "The term 'True Course' (TC) is defined as... ",
+        "answers": [
+            {
+                "text": "tthe angle between magnetic north and the course line."
+            },
+            {
+                "text": "the direction from an arbitrary point on Earth to the geographic North Pole."
+            },
+            {
+                "text": "the angle between true north and the course line.",
+                "correct": true
+            },
+            {
+                "text": "the direction from an arbitrary point on Earth to the magnetic north pole."
+            }
+        ]
+    },
+    {
+        "question": "Given:\n\nTC: 183\u00b0; WCA: +011\u00b0; MH: 198\u00b0; CH: 200\u00b0\nWhat are TH and VAR?",
+        "answers": [
+            { "text": "TH: 194\u00b0.VAR: 004\u00b0 W", "correct": true },
+            { "text": "TH: 194\u00b0.VAR: 004\u00b0 E" },
+            { "text": "TH: 172\u00b0.VAR: 004\u00b0 W" },
+            { "text": "TH: 172\u00b0.VAR: 004\u00b0 E" }
+        ]
+    },
+    {
+        "question": "Given:\n\nTC: 183\u00b0; WCA: +011\u00b0; MH: 198\u00b0; CH: 200\u00b0\nWhat are the TH and the DEV?",
+        "answers": [
+            { "text": "TH: 172\u00b0.DEV: +002\u00b0." },
+            { "text": "TH: 172\u00b0.DEV: -002\u00b0." },
+            { "text": "TH: 194\u00b0.DEV: -002\u00b0.", "correct": true },
+            { "text": "TH: 194\u00b0.DEV: +002\u00b0." }
+        ]
+    },
+    {
+        "question": "Given:\n\nTC: 183\u00b0; WCA: +011\u00b0; MH: 198\u00b0; CH: 200\u00b0\nWhat are the VAR and the DEV?",
+        "answers": [
+            { "text": "VAR: 004\u00b0 W.DEV: +002\u00b0." },
+            { "text": "VAR: 004\u00b0 W.DEV: -002\u00b0.", "correct": true },
+            { "text": "VAR: 004\u00b0E.DEV: +002\u00b0." },
+            { "text": "VAR: 004\u00b0 E.DEV: -002\u00b0." }
+        ]
+    },
+    {
+        "question": "Where does the inclination reach its lowest value?",
+        "answers": [
+            { "text": "At the magnetic equator", "correct": true },
+            { "text": "At the magnetic poles" },
+            { "text": "At the geographic equator" },
+            { "text": "At the geographic poles" }
+        ]
+    },
+    {
+        "question": "The angle between compass north and magnetic north is called... ",
+        "answers": [
+            { "text": "WCA." },
+            { "text": "variation." },
+            { "text": "inclination. " },
+            { "text": "deviation.", "correct": true }
+        ]
+    },
+    {
+        "question": "Which direction corresponds to 'compass north' (CN)? ",
+        "answers": [
+            {
+                "text": "The most northerly part of the magnetic compass in the aircraft, where the reading takes place"
+            },
+            {
+                "text": "The direction from an arbitrary point on Earth to the geographical North Pole"
+            },
+            {
+                "text": "The angle between the aircraft heading and magnetic north"
+            },
+            {
+                "text": "The direction to which the direct reading compass aligns due to earth's and aircraft's magnetic fields",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "The term 'isogonal' or 'isogonic line' is defined as a line on an aeronautical chart, connecting all points with the same value of... ",
+        "answers": [
+            { "text": "inclination." },
+            { "text": "deviation." },
+            { "text": "heading." },
+            { "text": "variation.", "correct": true }
+        ]
+    },
+    {
+        "question": "The term 'agonic line' is defined as a line on Earth or an aeronautical chart, connecting all points with the... ",
+        "answers": [
+            { "text": "deviation of 0\u00b0." },
+            { "text": "inclination of 0\u00b0." },
+            { "text": "heading of 0\u00b0." },
+            { "text": "variation of 0\u00b0.", "correct": true }
+        ]
+    },
+    {
+        "question": "Which are the official basic units for horizontal distances used in aeronautical navigation and their abbreviations? ",
+        "answers": [
+            { "text": "feet (ft), inches (in)" },
+            { "text": "Nautical miles (NM), kilometers (km)", "correct": true },
+            { "text": "Yards (yd), meters (m)" },
+            { "text": "Land miles (SM), sea miles (NM)" }
+        ]
+    },
+    {
+        "question": "1000 ft equal... ",
+        "answers": [
+            { "text": "30 km." },
+            { "text": "3000 m." },
+            { "text": "300 m.", "correct": true },
+            { "text": "30 m." }
+        ]
+    },
+    {
+        "question": "5500 m equal... ",
+        "answers": [
+            { "text": "7500 ft." },
+            { "text": "18000 ft.", "correct": true },
+            { "text": "10000 ft." },
+            { "text": "30000 ft." }
+        ]
+    },
+    {
+        "question": "Which of the items on the attached checklist are related to the direct reading compass? ",
+        "figure": "nav_2.png",
+        "answers": [
+            { "text": "\"Turning Instruments\" only" },
+            { "text": "\"Gyro\" and \"Circuit Breaker\"" },
+            { "text": "\"Gyro\" and \"Turning Instruments\"", "correct": true },
+            {
+                "text": "\"Turning Instruments\" and \"Circuit Breaker\""
+            }
+        ]
+    },
+    {
+        "question": "What could be a reason for changing the runway indicators at aerodromes (e.g. from runway 06 to runway 07)? ",
+        "answers": [
+            {
+                "text": "The magnetic deviation of the runway location has changed"
+            },
+            {
+                "text": "The magnetic variation of the runway location has changed",
+                "correct": true
+            },
+            {
+                "text": "The direction of the approach path has changed"
+            },
+            {
+                "text": "The true direction of the runway alignment has changed"
+            }
+        ]
+    },
+    {
+        "question": "Electronic devices on board of an aeroplane have influence on the... ",
+        "answers": [
+            { "text": "turn coordinator." },
+            { "text": "airspeed indicator. " },
+            { "text": "artificial horizon." },
+            { "text": "direct reading compass.", "correct": true }
+        ]
+    },
+    {
+        "question": "Which are the properties of a Mercator chart? ",
+        "answers": [
+            {
+                "text": "The scale is constant, great circles are depicted as curved lines, rhumb lines are depicted as straight lines"
+            },
+            {
+                "text": "The scales increases with latitude, great circles are depicted as curved lines, rhumb lines are depicted as straight lines",
+                "correct": true
+            },
+            {
+                "text": "The scales increases with latitude, great circles are depicted as straight lines, rhumb lines are depicted as curved lines"
+            },
+            {
+                "text": "The scale is constant, great circles are depicted as straight lines, rhumb lines are depicted as curved lines"
+            }
+        ]
+    },
+    {
+        "question": "How are rhumb lines and great circles depicted on a direct Mercator chart? ",
+        "answers": [
+            {
+                "text": "Rhumb lines: curved linesGreat circles: straight lines"
+            },
+            {
+                "text": "Rhumb lines: curved linesGreat circles: curved lines"
+            },
+            {
+                "text": "Rhumb lines: straight linesGreat circles: curved lines",
+                "correct": true
+            },
+            {
+                "text": "Rhumb lines: straight linesGreat circles: straight lines"
+            }
+        ]
+    },
+    {
+        "question": "Which are the properties of a Lambert conformal chart? ",
+        "answers": [
+            {
+                "text": "Great circles are depicted as straight lines and the chart is an equal-area projection"
+            },
+            {
+                "text": "The chart is conformal and an equal-area projection"
+            },
+            {
+                "text": "The chart is conformal and nearly true to scale",
+                "correct": true
+            },
+            {
+                "text": "Rhumb lines are depicted as straight lines and the chart is conformal"
+            }
+        ]
+    },
+    {
+        "question": "Which lines have to be used by the pilot to determine the aircraft's position? ",
+        "answers": [
+            { "text": "True bearings (QTE)", "correct": true },
+            { "text": "Magnetic bearings (QDR)" },
+            { "text": "Relative bearings (RB)" },
+            { "text": "Magnetic headings (MH)" }
+        ]
+    },
+    {
+        "question": "What is the radial from VOR Br\u00fcnkendorf (BKD) (53\u00b002?N, 011\u00b033?E) to Pritzwalk (EDBU) (53\u00b011'N, 12\u00b011'E)? ",
+        "figure": "nav_3.png",
+        "answers": [
+            { "text": "024\u00b0" },
+            { "text": "204\u00b0" },
+            { "text": "248\u00b0" },
+            { "text": "068\u00b0", "correct": true }
+        ]
+    },
+    {
+        "question": "The distance between two airports is 220 NM. On an aeronautical navigation chart the pilot measures 40.7 cm for this distance. The chart scale is... ",
+        "answers": [
+            { "text": "1 : 250000." },
+            { "text": "1 : 2000000." },
+            { "text": "1 : 500000." },
+            { "text": "1 : 1000000.", "correct": true }
+        ]
+    },
+    {
+        "question": "Given the following information, what is the aircraft position at the cross bearing?\n\nVOR Hamburg (HAM) (53\u00b041?N, 010\u00b012?E): Radial 119\u00b0\n\nVOR Br\u00fcnkendorf (BKD) (53\u00b002?N, 011\u00b033?E): Radial 320\u00b0 ",
+        "figure": "nav_3.png",
+        "answers": [
+            { "text": "52\u00b020'N, 10\u00b010'E" },
+            { "text": "54\u00b040'N, 12\u00b050'E" },
+            { "text": "52\u00b010'N, 10\u00b020'E" },
+            { "text": "53\u00b020'N, 11\u00b010'E", "correct": true }
+        ]
+    },
+    {
+        "question": "What is the distance from VOR Br\u00fcnkendorf (BKD) (53\u00b002?N, 011\u00b033?E) to Pritzwalk (EDBU) (53\u00b011'N, 12\u00b011'E)? ",
+        "figure": "nav_3.png",
+        "answers": [
+            { "text": "24 km" },
+            { "text": "42 NM" },
+            { "text": "24 NM", "correct": true },
+            { "text": "42 km" }
+        ]
+    },
+    {
+        "question": "A distance of 7.5 cm on an aeronautical chart represents a distance of 60.745 NM in reality. What is the chart scale? ",
+        "answers": [
+            { "text": "1 : 500000" },
+            { "text": "1 : 1 000000" },
+            { "text": "1 : 150000" },
+            { "text": "1 : 1500000", "correct": true }
+        ]
+    },
+    {
+        "question": "For a short flight from A to B the pilot extracts the following information from an aeronautical chart:True course: 245\u00b0.Magnetic variation: 7\u00b0 WThe magnetic course (MC) equals... ",
+        "answers": [
+            { "text": "252\u00b0.", "correct": true },
+            { "text": "245\u00b0." },
+            { "text": "007\u00b0." },
+            { "text": "238\u00b0." }
+        ]
+    },
+    {
+        "question": "An aircraft is flying with an indicated airspeed (IAS) of 150 kt at 8000 ft MSL.According to the rule of thumb, the true airspeed (TAS) equals... ",
+        "answers": [
+            { "text": "174 kt.", "correct": true },
+            { "text": "150 kt." },
+            { "text": "142 kt." },
+            { "text": "208 kt." }
+        ]
+    },
+    {
+        "question": "Given:\n\nTrue course from A to B: 250\u00b0.\nGround distance: 210 NM. \nTAS: 130 kt.\nHeadwind component: 15 kt.\nEstimated time of departure (ETD): 0915 UTC.\nThe estimated time of arrival (ETA) is... ",
+        "answers": [
+            { "text": "1115 UTC." },
+            { "text": "1105 UTC.", "correct": true },
+            { "text": "1005 UTC." },
+            { "text": "1052 UTC." }
+        ]
+    },
+    {
+        "question": "Given:\n\nTrue course from A to B: 283\u00b0.\nGround distance: 75 NM. \nTAS: 105 kt.\nHeadwind component: 12 kt.\nEstimated time of departure (ETD): 1242 UTC.\nThe estimated time of arrival (ETA) is... ",
+        "answers": [
+            { "text": "1430 UTC" },
+            { "text": "1356 UTC" },
+            { "text": "1330 UTC", "correct": true },
+            { "text": "1320 UTC" }
+        ]
+    },
+    {
+        "question": "Given:\n\nTrue course from A to B: 352\u00b0.\nGround distance: 100 NM. GS: 107 kt.\nEstimated time of departure (ETD): 0933 UTC.\nThe estimated time of arrival (ETA) is...",
+        "answers": [
+            { "text": "1129 UTC." },
+            { "text": "1029 UTC.", "correct": true },
+            { "text": "1146 UTC." },
+            { "text": "1045 UTC." }
+        ]
+    },
+    {
+        "question": "An aircraft travels 100 km in 56 minutes. The ground speed (GS) equals...",
+        "answers": [
+            { "text": "58 km/h." },
+            { "text": "198 kt." },
+            { "text": "93 kt." },
+            { "text": "107 km/h.", "correct": true }
+        ]
+    },
+    {
+        "question": "An aircraft travels 110 NM within 01:25. The ground speed (GS) equals...",
+        "answers": [
+            { "text": "120 km/h." },
+            { "text": "160 km/h." },
+            { "text": "86 kt." },
+            { "text": "78 kt.", "correct": true }
+        ]
+    },
+    {
+        "question": "What is the required flight time for a distance of 236 NM with a ground speed of 134 kt?  ",
+        "answers": [
+            { "text": "1:34 h" },
+            { "text": "0:46 h" },
+            { "text": "1:46 h", "correct": true },
+            { "text": "0:34 h" }
+        ]
+    },
+    {
+        "question": "An aircraft is flying with a true airspeed (TAS) of 120 kt and experiences 35 kt tailwind. How much time is needed for a distance of 185 NM?",
+        "answers": [
+            { "text": "1 h 32 min" },
+            { "text": "0 h 50 min" },
+            { "text": "1 h 12 min", "correct": true },
+            { "text": "2 h 11 min" }
+        ]
+    },
+    {
+        "question": "An aircraft is flying with a true airspeed (TAS) of 180 kt and a headwind component of 25 kt for 2 hours and 25 minutes.The distance flown equals... ",
+        "answers": [
+            { "text": "693 NM." },
+            { "text": "435 NM." },
+            { "text": "375 NM.", "correct": true },
+            { "text": "202 NM." }
+        ]
+    },
+    {
+        "question": "Given: Calibrated airspeed (CAS): 155 kt.Flight level (FL) 80.Outside air temperature (OAT): +15\u00b0 C. The true airspeed (TAS) equals... ",
+        "answers": [
+            { "text": "155 kts." },
+            { "text": "170 kts." },
+            { "text": "180 kts.", "correct": true },
+            { "text": "134 kts." }
+        ]
+    },
+    {
+        "question": "What is the true course (TC) from Uelzen (EDVU) (52\u00b059?N, 10\u00b028?E) to Neustadt (EDAN) (53\u00b022'N, 011\u00b037'E)? ",
+        "figure": "nav_3.png",
+        "answers": [
+            { "text": "241\u00b0" },
+            { "text": "235\u00b0" },
+            { "text": "061\u00b0", "correct": true },
+            { "text": "055\u00b0" }
+        ]
+    },
+    {
+        "question": "An aircraft is flying at aFL 75 with an outside air temperature (OAT) of -9\u00b0C. The QNH altitude is 6500 ft.The true altitude equals... ",
+        "answers": [
+            { "text": "6500 ft." },
+            { "text": "6750 ft." },
+            { "text": "7000 ft." },
+            { "text": "6250 ft.", "correct": true }
+        ]
+    },
+    {
+        "question": "What is the distance from Neustadt (EDAN) (53\u00b022'N, 011\u00b037'E) to Uelzen (EDVU) (52\u00b059?N, 10\u00b028?E)? ",
+        "figure": "nav_3.png",
+        "answers": [
+            { "text": "46 NM", "correct": true },
+            { "text": "78 km" },
+            { "text": "46 km" },
+            { "text": "78 NM" }
+        ]
+    },
+    {
+        "question": "An aircraft is flying at a pressure altitude of 7000 feet with an outside air temperature (OAT) of +11\u00b0C. The QNH altitude is 6500 ft. The true altitude equals... ",
+        "answers": [
+            { "text": "6500 ft." },
+            { "text": "7000 ft." },
+            { "text": "6750 ft.", "correct": true },
+            { "text": "6250 ft." }
+        ]
+    },
+    {
+        "question": "An aircraft is flying at a pressure altitude of 7000 feet with an outside air temperature (OAT) of +21\u00b0C. The QNH altitude is 6500 ft. The true altitude equals...",
+        "answers": [
+            { "text": "6750 ft." },
+            { "text": "6250 ft." },
+            { "text": "7000 ft.", "correct": true },
+            { "text": "6500 ft." }
+        ]
+    },
+    {
+        "question": "Given:\n\nTrue course: 255\u00b0.\nTAS: 100 kt\nWind: 200\u00b0/10 kt\nThe true heading equals... ",
+        "answers": [
+            { "text": "245\u00b0." },
+            { "text": "275\u00b0. " },
+            { "text": "265\u00b0." },
+            { "text": "250\u00b0.", "correct": true }
+        ]
+    },
+    {
+        "question": "Given:\n\nTrue course: 165\u00b0\nTAS: 90 kt\nWind: 130\u00b0/20 kt\nDistance: 153 NM.\nThe true heading equals... ",
+        "answers": [
+            { "text": "126\u00b0." },
+            { "text": "158\u00b0.", "correct": true },
+            { "text": "152\u00b0." },
+            { "text": "165\u00b0." }
+        ]
+    },
+    {
+        "question": "Given:\n\nGround speed (GS): 160 kt\nTrue course (TC): 177\u00b0\nWind vector (W/WS): 140\u00b0/20 kt\nThe true heading (TH) equals...",
+        "answers": [
+            { "text": "169\u00b0." },
+            { "text": "173\u00b0.", "correct": true },
+            { "text": "184\u00b0." },
+            { "text": "180\u00b0." }
+        ]
+    },
+    {
+        "question": "An aircraft is following a true course (TC) of 220\u00b0 at a constant TAS of 220 kt. The wind vector is 270\u00b0/50 kt. The ground speed (GS) equals...",
+        "answers": [
+            { "text": "170 kt." },
+            { "text": "185 kt.", "correct": true },
+            { "text": "255 kt." },
+            { "text": "135 kt." }
+        ]
+    },
+    {
+        "question": "An aircraft is following a true course (TC) of 040\u00b0 at a constant true airspeed (TAS) of 180 kt. The wind vector is 350\u00b0/30 kt. The groundspeed (GS) equals...",
+        "answers": [
+            { "text": "172 kt." },
+            { "text": "159 kt.", "correct": true },
+            { "text": "155 kt." },
+            { "text": "168 kt." }
+        ]
+    },
+    {
+        "question": "An aircraft is following a true course (TC) of 040\u00b0 at a constant true airspeed (TAS) of 180 kt. The wind vector is 350\u00b0/30 kt. The wind correction angle (WCA) equals...",
+        "answers": [
+            { "text": "+ 5\u00b0" },
+            { "text": "+ 11\u00b0" },
+            { "text": "-7\u00b0 ", "correct": true },
+            { "text": "-9\u00b0" }
+        ]
+    },
+    {
+        "question": "Given:\n\nTrue course: 270\u00b0\nTAS: 100 kt\nWind: 090\u00b0/25 kt\nDistance: 100 NM\nThe ground speed (GS) equals... ",
+        "answers": [
+            { "text": "125 kt.", "correct": true },
+            { "text": "117 kt." },
+            { "text": "120 kt." },
+            { "text": "131 kt." }
+        ]
+    },
+    {
+        "question": "Given\n\nTrue course: 270\u00b0\nTAS: 100 kt\nWind: 090\u00b0/25 kt\nDistance: 100 NM\nThe flight time equals... ",
+        "answers": [
+            { "text": "62 Min." },
+            { "text": "37 Min." },
+            { "text": "48 Min.", "correct": true },
+            { "text": "84 Min." }
+        ]
+    },
+    {
+        "question": "An aircraft is following a true course (TC) of 040\u00b0 at a constant true airspeed (TAS) of 180 kt. The wind vector is 350\u00b0/30 kt. The wind correction angle (WCA) equals...",
+        "answers": [
+            { "text": "7\u00b0 left.", "correct": true },
+            { "text": "3\u00b0 right." },
+            { "text": "3\u00b0 left." },
+            { "text": "7\u00b0 right." }
+        ]
+    },
+    {
+        "question": "Given:\n\nTrue course: 120\u00b0\nTAS: 120 kt\nWind: 150\u00b0/12 kt\nThe WCA equals... ",
+        "answers": [
+            { "text": "6\u00b0 to the right." },
+            { "text": "3\u00b0 to the left." },
+            { "text": "3\u00b0 to the right.", "correct": true },
+            { "text": "6\u00b0 to the left. " }
+        ]
+    },
+    {
+        "question": "The distance from 'A' to 'B' measures 120 NM. At a distance of 55 NM from 'A' the pilot realizes a deviation of 7 NM to the right. What approximate course change must be made to reach 'B' directly?",
+        "answers": [
+            { "text": "8\u00b0 left" },
+            { "text": "6\u00b0 left" },
+            { "text": "15\u00b0 left" },
+            { "text": "14\u00b0 left", "correct": true }
+        ]
+    },
+    {
+        "question": "An aeroplane has a heading of 090\u00b0. The distance which has to beflown is 90 NM. After 45 NM the aeroplane is 4.5 NM north of the planned flight path. What is the corrected heading to reach the arrival aerodrome directly? ",
+        "answers": [
+            { "text": "18\u00b0 to the right" },
+            { "text": "12\u00b0 to the right", "correct": true },
+            { "text": "6\u00b0 to the right" },
+            { "text": "9\u00b0 to the right" }
+        ]
+    },
+    {
+        "question": "What is the meaning of the 1:60 rule? ",
+        "answers": [
+            {
+                "text": "6 NM lateral offset at 1\u00b0 drift after 10 NM"
+            },
+            {
+                "text": "60 NM lateral offset at 1\u00b0 drift after 1 NM"
+            },
+            {
+                "text": "1 NM lateral offset at 1\u00b0 drift after 60 NM",
+                "correct": true
+            },
+            {
+                "text": "10 NM lateral offset at 1\u00b0 drift after 60 NM"
+            }
+        ]
+    },
+    {
+        "question": "An aircraft is flying from 'A' to 'B' (distance 220 NM) at an average ground speed (GS) of 120 kt. It departs 'A' at 1200 UTC. After 70 NM along the course from 'A', the aircraft is 5 min ahead of the planned schedule.Using the actual GS, what is the revised estimated time of arrival (ETA) at B?",
+        "answers": [
+            { "text": "1335 UTC", "correct": true },
+            { "text": "1340 UTC" },
+            { "text": "1345 UTC" },
+            { "text": "1330 UTC" }
+        ]
+    },
+    {
+        "question": "Assume calm wind and an aircraft descending from 9000 ft to 1500 ft. The rate of descent (ROD) equals 1200 ft/min. The elapsed time will be... ",
+        "answers": [
+            { "text": "6 min.", "correct": true },
+            { "text": "15 min." },
+            { "text": "12 min." },
+            { "text": "8 min." }
+        ]
+    },
+    {
+        "question": "Assume zero wind and an aircraft descending from 7500 ft to 1200 ft with an average true airspeed (TAS) during the descent of 105 kt. The rate of descent (ROD) equals 800 ft/min. The elapsed time will be... ",
+        "answers": [
+            { "text": "8 Min.", "correct": true },
+            { "text": "6 Min." },
+            { "text": "15 Min." },
+            { "text": "12 Min." }
+        ]
+    },
+    {
+        "question": "Which answer completes the flight plan (marked cells)? ",
+        "figure": "nav_4.png",
+        "answers": [
+            {
+                "text": "TH: 185\u00b0.MH: 185\u00b0.MC: 180\u00b0."
+            },
+            {
+                "text": "TH: 185\u00b0.MH: 184\u00b0.MC: 178\u00b0.",
+                "correct": true
+            },
+            {
+                "text": "TH: 173\u00b0.MH: 174\u00b0.MC: 178\u00b0."
+            },
+            {
+                "text": "TH: 173\u00b0.MH: 184\u00b0.MC: 178\u00b0."
+            }
+        ]
+    },
+    {
+        "question": "What radio navigation aid can be received with the attached aerial?",
+        "figure": "nav_5.png",
+        "answers": [
+            { "text": "VOR" },
+            { "text": "DME" },
+            { "text": "NDB", "correct": true },
+            { "text": "VDF" }
+        ]
+    },
+    {
+        "question": "The approximate propagation speed of electromagnetic waves is... ",
+        "answers": [
+            { "text": "300000 km/s.", "correct": true },
+            { "text": "300000 m/s." },
+            { "text": "300000 NM/s." },
+            { "text": "300000 ft/s." }
+        ]
+    },
+    {
+        "question": "Radio waves within the LF and MF range (e.g. NDB) travel as... ",
+        "answers": [
+            { "text": "sky wave." },
+            {
+                "text": "sky wave and as ground / surface wave.",
+                "correct": true
+            },
+            { "text": "ground / surface wave." },
+            { "text": "space wave (quasi-optical)." }
+        ]
+    },
+    {
+        "question": "Radio waves within the VHF range (e.g. VOR) travel as... ",
+        "answers": [
+            { "text": "sky wave and ground / surface wave." },
+            { "text": "ground / surface wave." },
+            { "text": "sky wave." },
+            { "text": "space wave (quasi-optical).", "correct": true }
+        ]
+    },
+    {
+        "question": "Quasi-optical waves travel... ",
+        "answers": [
+            { "text": "along the surface of the earth." },
+            {
+                "text": "through the air directly from the transmitter to the receiver.",
+                "correct": true
+            },
+            {
+                "text": "through the air and are influenced (e.g. reflected) by the ionosphere."
+            },
+            {
+                "text": "along the surface of the earth, but are absorbed by the sea."
+            }
+        ]
+    },
+    {
+        "question": "A VHF direction finder (VDF) can determine... ",
+        "answers": [
+            { "text": "slant ranges." },
+            { "text": "magnetic bearings.", "correct": true },
+            { "text": "approach speeds." },
+            { "text": "true courses." }
+        ]
+    },
+    {
+        "question": "Which equipment is needed on board of an aircraft to use a VHF direction finder (VDF)? ",
+        "answers": [
+            { "text": "At least two VHF aerials" },
+            { "text": "A VHF radio", "correct": true },
+            { "text": "A relative bearing indicator (RBI)" },
+            { "text": "A VDF receiver" }
+        ]
+    },
+    {
+        "question": "Given:\n\nQDM: 138\u00b0\nVAR: 10\u00b0 E\nThe QUJ equals... ",
+        "answers": [
+            { "text": "168\u00b0." },
+            { "text": "318\u00b0." },
+            { "text": "328\u00b0." },
+            { "text": "148\u00b0.", "correct": true }
+        ]
+    },
+    {
+        "question": "Given:\n\nQTE: 229\u00b0\nVAR: 10\u00b0 W\nThe QDM equals...",
+        "answers": [
+            { "text": "039\u00b0." },
+            { "text": "059\u00b0.", "correct": true },
+            { "text": "239\u00b0." },
+            { "text": "049\u00b0." }
+        ]
+    },
+    {
+        "question": "Given:\n\nQDR: 022\u00b0\nVAR: 10\u00b0 E\nThe QTE equals...",
+        "answers": [
+            { "text": "212\u00b0." },
+            { "text": "202\u00b0." },
+            { "text": "052\u00b0." },
+            { "text": "032\u00b0.", "correct": true }
+        ]
+    },
+    {
+        "question": "Given:\n\nQDM: 248\u00b0\nVAR: 10\u00b0 W\nThe QTE is...",
+        "answers": [
+            { "text": "238\u00b0." },
+            { "text": "078\u00b0." },
+            { "text": "058\u00b0.", "correct": true },
+            { "text": "258\u00b0." }
+        ]
+    },
+    {
+        "question": "Given:\n\nQDR: 067\u00b0\nVAR: 5\u00b0 E\nThe QDM equals...",
+        "answers": [
+            { "text": "247\u00b0.", "correct": true },
+            { "text": "072\u00b0." },
+            { "text": "252\u00b0." },
+            { "text": "257\u00b0." }
+        ]
+    },
+    {
+        "question": "Given:\n\nQDR: 152\u00b0\nVAR: 5\u00b0 W\nDEV: 5\u00b0 E\nThe QUJ equals... ",
+        "answers": [
+            { "text": "332\u00b0." },
+            { "text": "147\u00b0." },
+            { "text": "327\u00b0.", "correct": true },
+            { "text": "317\u00b0." }
+        ]
+    },
+    {
+        "question": "Given:\n\nQTE: 203\u00b0\nVAR: 10\u00b0 E\nThe QDR equals...",
+        "answers": [
+            { "text": "023\u00b0." },
+            { "text": "213\u00b0." },
+            { "text": "193\u00b0.", "correct": true },
+            { "text": "013\u00b0." }
+        ]
+    },
+    {
+        "question": "Given:\n\nQTE: 248\u00b0\nVAR: 10\u00b0 W\nThe QDR equals...",
+        "answers": [
+            { "text": "068\u00b0." },
+            { "text": "238\u00b0." },
+            { "text": "258\u00b0.", "correct": true },
+            { "text": "078\u00b0." }
+        ]
+    },
+    {
+        "question": "Given:\n\nQDM: 134\u00b0\nVAR: 5\u00b0 W\nThe QTE equals...",
+        "answers": [
+            { "text": "314\u00b0." },
+            { "text": "299\u00b0." },
+            { "text": "129\u00b0." },
+            { "text": "309\u00b0.", "correct": true }
+        ]
+    },
+    {
+        "question": "The pilot receives a QDR of 225\u00b0 from the VDF ground station. Where is the aircraft located in relation to the ground station?",
+        "answers": [
+            { "text": "Southeast" },
+            { "text": "Northeast" },
+            { "text": "Southwest", "correct": true },
+            { "text": "Northwest" }
+        ]
+    },
+    {
+        "question": "The term QDR means... ",
+        "answers": [
+            {
+                "text": "magnetic bearing from the station to the aircraft.",
+                "correct": true
+            },
+            {
+                "text": "true bearing from the aircraft to the station."
+            },
+            {
+                "text": "magnetic bearing from the aircraft to the station."
+            },
+            {
+                "text": "true bearing from the station to the aircraft."
+            }
+        ]
+    },
+    {
+        "question": "The term QTE means... ",
+        "answers": [
+            {
+                "text": "magnetic bearing from the station to the aircraft."
+            },
+            {
+                "text": "magnetic bearing from the aircraft to the station."
+            },
+            {
+                "text": "true bearing from the station to the aircraft.",
+                "correct": true
+            },
+            {
+                "text": "true bearing from the aircraft to the station."
+            }
+        ]
+    },
+    {
+        "question": "A pilot receives a QDR of 135\u00b0 from the VDF ground station. Where is the aircraft located in relation to the ground station?",
+        "answers": [
+            { "text": "Northwest" },
+            { "text": "Southeast", "correct": true },
+            { "text": "Southwest." },
+            { "text": "Northeast" }
+        ]
+    },
+    {
+        "question": "A pilot receives a QDR of 315\u00b0 from the VDF ground station. Where is the aircraft located in relation to the ground station?",
+        "answers": [
+            { "text": "Northwest", "correct": true },
+            { "text": "Northeast" },
+            { "text": "Southeast" },
+            { "text": "Southwest" }
+        ]
+    },
+    {
+        "question": "The VDF range depends on... ",
+        "answers": [
+            { "text": "the aircraft's speed." },
+            { "text": "the condition of the ionosphere." },
+            {
+                "text": "the range of the ground / surface wave."
+            },
+            { "text": "the aircraft's altitude.", "correct": true }
+        ]
+    },
+    {
+        "question": "Which equipment is needed on board of an aircraft to receive signals from a non-directional beacon (NDB)? ",
+        "answers": [
+            { "text": "Course deviation indicator (CDI)" },
+            {
+                "text": "Horizontal situation indicator (HSI)"
+            },
+            { "text": "Automatic direction finder (ADF)", "correct": true },
+            { "text": "Secondary surveillance radar (SSR)" }
+        ]
+    },
+    {
+        "question": "Non-directional beacons (NDBs) transmit within which frequency band? ",
+        "answers": [
+            {
+                "text": "Very low frequency (VLF) and low frequency (LF)"
+            },
+            {
+                "text": "Low frequency (LF) and medium frequency (MF)",
+                "correct": true
+            },
+            { "text": "High frequency (HF)" },
+            { "text": "Very high frequency (VHF)" }
+        ]
+    },
+    {
+        "question": "A pilot wants to approach an NDB on QDM 090\u00b0. The aircraft flies for about 5 minutes with a magnetic heading (MH) of 095\u00b0 and the RBI indication of 355\u00b0. After 6 minutes the RBI indicates 358\u00b0. Which statement is correct? ",
+        "answers": [
+            {
+                "text": "The crosswind component increased; the pilot has to increase the MH",
+                "correct": true
+            },
+            {
+                "text": "The crosswind component increased; the pilot has to decrease the MH"
+            },
+            {
+                "text": "The crosswind component decreased; the pilot has to increase the MH"
+            },
+            {
+                "text": "The crosswind component decreased; the pilot has to decrease the MH"
+            }
+        ]
+    },
+    {
+        "question": "The pilot wants to proceed directly to the beacon. The wind is calm. The pilot should follow a QDM of...",
+        "figure": "nav_6.png",
+        "answers": [
+            { "text": "080\u00b0." },
+            { "text": "200\u00b0." },
+            { "text": "260\u00b0.", "correct": true },
+            { "text": "230\u00b0." }
+        ]
+    },
+    {
+        "question": "What is the difference between a locator beacon and a non-directional beacon (NDB)? ",
+        "answers": [
+            {
+                "text": "Locator beacons transmit more precisely"
+            },
+            {
+                "text": "Locator beacons have a higher range than NDBs"
+            },
+            {
+                "text": "Locator beacons transmit on request only"
+            },
+            {
+                "text": "Locator beacons have a lower range than NDBs",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "The range of NDBs transmitting in the medium frequency range is greatest... ",
+        "answers": [
+            { "text": "before midday." },
+            { "text": "at night.", "correct": true },
+            { "text": "on midday." },
+            { "text": "in the daytime." }
+        ]
+    },
+    {
+        "question": "The shoreline effect is greatest with radio wave propagation... ",
+        "answers": [
+            {
+                "text": "at a right angle to the coast; aircraft below 6000 ft."
+            },
+            {
+                "text": "at an acute angle to the coast; aircraft above 6000 ft."
+            },
+            {
+                "text": "at an acute angle to the coast; aircraft below 6000 ft.",
+                "correct": true
+            },
+            {
+                "text": "at a right angle to the coast; aircraft above 6000 ft."
+            }
+        ]
+    },
+    {
+        "question": "Fading in LF/MF frequency range occurs mainly... ",
+        "answers": [
+            { "text": "in the late afternoon." },
+            { "text": "at midday." },
+            { "text": "during the night.", "correct": true },
+            { "text": "in the daytime." }
+        ]
+    },
+    {
+        "question": "The progress of an electromagnetic oscillation can be described by the... ",
+        "answers": [
+            { "text": "phase angle.", "correct": true },
+            { "text": "amplitude angle." },
+            { "text": "wave angle." },
+            { "text": "frequency angle." }
+        ]
+    },
+    {
+        "question": "When transmitter and receiver are moving towards each other... ",
+        "answers": [
+            {
+                "text": "the frequency varies, but the wavelength remains constant."
+            },
+            {
+                "text": "the perceived frequency equals the transmitted frequency."
+            },
+            { "text": "the perceived frequency increases.", "correct": true },
+            { "text": "the perceived frequency decreases." }
+        ]
+    },
+    {
+        "question": "When transmitter and receiver are moving away from each other... ",
+        "answers": [
+            { "text": "the perceived frequency increases." },
+            { "text": "the perceived frequency decreases.", "correct": true },
+            {
+                "text": "the frequency varies, but the wavelength remains constant."
+            },
+            {
+                "text": "the perceived frequency equals the transmitted frequency."
+            }
+        ]
+    },
+    {
+        "question": "VOR radials are defined based on the principle of... ",
+        "answers": [
+            { "text": "phase comparison of two signals.", "correct": true },
+            {
+                "text": "frequency comparison of two signals."
+            },
+            { "text": "pulse comparison of two signals." },
+            { "text": "amplitude comparison of two signals." }
+        ]
+    },
+    {
+        "question": "A VOR radial corresponds to the... ",
+        "answers": [
+            { "text": "QTE." },
+            { "text": "QUJ." },
+            { "text": "QDR.", "correct": true },
+            { "text": "QDM." }
+        ]
+    },
+    {
+        "question": "Full deflection of the course deviation indicator (CDI) means that the aircraft is located at least... ",
+        "answers": [
+            { "text": "2 NM beside the selected course." },
+            { "text": "10 NM beside the selected course." },
+            { "text": "2\u00b0 beside the selected course." },
+            { "text": "10\u00b0 beside the selected course.", "correct": true }
+        ]
+    },
+    {
+        "question": "Where is the aircraft located in relation to the VOR? ",
+        "figure": "nav_7.png",
+        "answers": [
+            { "text": "Northeast", "correct": true },
+            { "text": "Southeast" },
+            { "text": "Southwest" },
+            { "text": "Northwest" }
+        ]
+    },
+    {
+        "question": "The aircraft is on radial... ",
+        "figure": "nav_8.png",
+        "answers": [
+            { "text": "066\u00b0." },
+            { "text": "234\u00b0.", "correct": true },
+            { "text": "060\u00b0." },
+            { "text": "246\u00b0." }
+        ]
+    },
+    {
+        "question": "The range of a VOR is affected by... ",
+        "answers": [
+            { "text": "daylight interference." },
+            { "text": "reflected sky waves." },
+            {
+                "text": "multipath propagation of the ground wave."
+            },
+            { "text": "transmitter and receiver altitude.", "correct": true }
+        ]
+    },
+    {
+        "question": "The distance measuring equipment (DME) determines the distance based on the principle of... ",
+        "answers": [
+            { "text": "time measurement.", "correct": true },
+            { "text": "Doppler." },
+            { "text": "laser measurement." },
+            { "text": "phase comparison." }
+        ]
+    },
+    {
+        "question": "The DME reading is a... ",
+        "answers": [
+            { "text": "ground distance." },
+            { "text": "air range." },
+            { "text": "radial distance." },
+            { "text": "slant range.", "correct": true }
+        ]
+    },
+    {
+        "question": "The differenz between indicated DME slant range and horizontal distance from the DME station increases... ",
+        "answers": [
+            {
+                "text": "when circling around the DME station."
+            },
+            { "text": "when descending." },
+            { "text": "when departing the DME station." },
+            { "text": "when approaching the DME station.", "correct": true }
+        ]
+    },
+    {
+        "question": "Using primary ground radar, the direction of the aeroplane in relation to the antenna is determined by... ",
+        "answers": [
+            { "text": "the pulse pair interval." },
+            { "text": "the orientation of the antenna.", "correct": true },
+            {
+                "text": "the frequency shift of the received pulse."
+            },
+            { "text": "time measurement." }
+        ]
+    },
+    {
+        "question": "Which instantaneous information can be obtained from ground radar equipment? ",
+        "answers": [
+            { "text": "Distance and direction", "correct": true },
+            { "text": "Airspeed (TAS) and distance" },
+            { "text": "Airspeed (TAS) and heading" },
+            { "text": "Direction and airspeed (TAS)" }
+        ]
+    },
+    {
+        "question": "The on-board equipment of the secondary surveillance radar (SSR) is called... ",
+        "answers": [
+            { "text": "course indicator." },
+            { "text": "transponder.", "correct": true },
+            { "text": "interrogator." },
+            { "text": "decoder." }
+        ]
+    },
+    {
+        "question": "What is the difference between primary and secondary radar? ",
+        "answers": [
+            {
+                "text": "The pulses of a primary radar are variably pulse-modulated, the pulses of a secondary radar are statically amplitude-modulated"
+            },
+            {
+                "text": "The pulses of a primary radar are variably amplitude-modulated, the pulses of a secondary radar are statically pulse-modulated"
+            },
+            {
+                "text": "The primary radar is displayed on a computer screen, the secondary radar on a radar strip"
+            },
+            {
+                "text": "The pulses of a primary radar are reflected by the aircraft's surface, the pulses of a secondary radar system are answered by a transponder",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "The transponder code in case of hi-jacking is... ",
+        "answers": [
+            { "text": "7000." },
+            { "text": "7600." },
+            { "text": "7500.", "correct": true },
+            { "text": "7700." }
+        ]
+    },
+    {
+        "question": "The transponder code in case of a radio communication failure is... ",
+        "answers": [
+            { "text": "7700." },
+            { "text": "7500." },
+            { "text": "7000." },
+            { "text": "7600.", "correct": true }
+        ]
+    },
+    {
+        "question": "Which altitude is transmitted by the transponder in mode C? ",
+        "answers": [
+            { "text": "QFE altitude" },
+            { "text": "Pressure altitude", "correct": true },
+            { "text": "QNH altitude" },
+            { "text": "Radio altitude" }
+        ]
+    },
+    {
+        "question": "How many satellites are necessary for a precise and verified three-dimensional determination of the position? ",
+        "answers": [
+            { "text": "Two" },
+            { "text": "Three" },
+            { "text": "Five" },
+            { "text": "Four", "correct": true }
+        ]
+    },
+    {
+        "question": "When using a GPS for tracking to the next waypoint, a deviation indication is shown by a vertical bar and dots to the left and to the right of the bar. What statement describes the correct interpretation of the display? ",
+        "answers": [
+            {
+                "text": "The deviation of the bar from the center indicates the track error as angular distance in degrees; the scale for full deflection depends on the operating mode of the GPS."
+            },
+            {
+                "text": "The deviationof the bar from the center indicates the track error as angular distance in degrees; the scale for full deflection is +-10\u00b0."
+            },
+            {
+                "text": "The deviation of the bar from the center indicates the track error as absolute distance in NM; the scale for full deflection is +-10 NM."
+            },
+            {
+                "text": "The deviation of the bar from the center indicates the track error as absolute distance in NM; the scale for full deflection depends on the operating mode of the GPS.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "What is meant by the term \"terrestrial navigation\"? ",
+        "answers": [
+            {
+                "text": "Orientation by ground celestial object during visual flight"
+            },
+            {
+                "text": "Orientation by ground features during visual flight",
+                "correct": true
+            },
+            {
+                "text": "Orientation by GPS during visual flight"
+            },
+            {
+                "text": "Orientation by instrument readings during visual flight"
+            }
+        ]
+    },
+    {
+        "question": "What ground features should preferrably be used for orientation during visual flight? ",
+        "answers": [
+            { "text": "Border lines" },
+            { "text": "Farm tracks and creeks" },
+            { "text": "Power lines" },
+            { "text": "Rivers, railroads, highways", "correct": true }
+        ]
+    }
+]
