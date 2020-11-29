@@ -1,0 +1,642 @@
+[
+    {
+        "question": "The majority of aviation accidents are caused by... ",
+        "answers": [
+            { "text": "technical failure." },
+            { "text": "meteorological influences." },
+            { "text": "geographical influences." },
+            { "text": "human failure.", "correct": true }
+        ]
+    },
+    {
+        "question": "The \"swiss cheese model\" can be used to explain the... ",
+        "answers": [
+            { "text": "error chain.", "correct": true },
+            { "text": "procedure for an emergency landing." },
+            { "text": "optimal problem solution." },
+            { "text": "state of readiness of a pilot." }
+        ]
+    },
+    {
+        "question": "What is the percentage of oxygen in the atmosphere at 6000 ft? ",
+        "answers": [
+            { "text": "21 %", "correct": true },
+            { "text": "12 %" },
+            { "text": "78 %" },
+            { "text": "18.9 %" }
+        ]
+    },
+    {
+        "question": "What is the percentage of nitrogen in the atmosphere?",
+        "answers": [
+            { "text": "1 %" },
+            { "text": "21 %" },
+            { "text": "78 %", "correct": true },
+            { "text": "0.1 %" }
+        ]
+    },
+    {
+        "question": "At which altitude is the atmospheric pressure approximately half the MSL value (1013 hPa)? ",
+        "answers": [
+            { "text": "18000 ft", "correct": true },
+            { "text": "5000 ft" },
+            { "text": "10000 ft" },
+            { "text": "22000 ft" }
+        ]
+    },
+    {
+        "question": "Air consists of oxygen, nitrogen and other gases.What is the approximate percentage of other gases? ",
+        "answers": [
+            { "text": "0.1 %" },
+            { "text": "78 %" },
+            { "text": "1 %", "correct": true },
+            { "text": "21 %" }
+        ]
+    },
+    {
+        "question": "Carbon monoxide poisoning can be caused by... ",
+        "answers": [
+            { "text": "little sleep." },
+            { "text": "alcohol." },
+            { "text": "smoking.", "correct": true },
+            { "text": "unhealthy food." }
+        ]
+    },
+    {
+        "question": "What does the term \"Red-out\" mean? ",
+        "answers": [
+            {
+                "text": "\"Red vision\" during negative g-loads",
+                "correct": true
+            },
+            { "text": "Rash during decompression sickness" },
+            { "text": "Anaemia caused by an injury" },
+            {
+                "text": "Falsified colour perception during sunrise and sunset"
+            }
+        ]
+    },
+    {
+        "question": "Carbon monoxide poisoning can be caused by... ",
+        "answers": [
+            { "text": "fuel or hydraulic fluids." },
+            { "text": "generator failure." },
+            { "text": "cracks in the heat exchanger.", "correct": true },
+            { "text": "Pitot icing." }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a symptom of hyperventilaton? ",
+        "answers": [
+            { "text": "Cyanose", "correct": true },
+            { "text": "Tingling" },
+            { "text": "Spasm" },
+            { "text": "Disturbance of consciousness" }
+        ]
+    },
+    {
+        "question": "Which of the following symptoms may indicate hypoxia? ",
+        "answers": [
+            { "text": "Joint pain in knees and feet" },
+            {
+                "text": "Muscle cramps in the upper body area"
+            },
+            {
+                "text": "Blue discolouration of lips and fingernails",
+                "correct": true
+            },
+            { "text": "Blue marks all over the body" }
+        ]
+    },
+    {
+        "question": "Which of the human senses is most influenced by hypoxia? ",
+        "answers": [
+            { "text": "The oltfactory perception (smell)" },
+            {
+                "text": "The tactile perception (sense of touch)"
+            },
+            { "text": "The auditory perception (hearing)" },
+            { "text": "The visual perception (vision)", "correct": true }
+        ]
+    },
+    {
+        "question": "From which altitude on does the body usually react to the decreasing atmospheric pressure? ",
+        "answers": [
+            { "text": "2000 feet" },
+            { "text": "7000 feet", "correct": true },
+            { "text": "10000 feet" },
+            { "text": "12000 feet" }
+        ]
+    },
+    {
+        "question": "Which altitude marks the lower limit where the the body is unable to completely compensate the effects of the low atmospheric pressure? ",
+        "answers": [
+            { "text": "12000 feet", "correct": true },
+            { "text": "22000 feet" },
+            { "text": "5000 feet" },
+            { "text": "7000 feet" }
+        ]
+    },
+    {
+        "question": "What is the function of the red blood cells (erythrocytes)? ",
+        "answers": [
+            { "text": "Oxygen transport", "correct": true },
+            { "text": "Blood coagulation" },
+            { "text": "Immune defense" },
+            { "text": "Blood sugar regulation" }
+        ]
+    },
+    {
+        "question": "Which of the following is responsible for the blood coagulation? ",
+        "answers": [
+            { "text": "Red blood cells (erythrocytes)" },
+            { "text": "Capillaries of the arteries" },
+            { "text": "White blood cells (leucocytes)" },
+            { "text": "Blood plates (thrombocytes)", "correct": true }
+        ]
+    },
+    {
+        "question": "What is the function of the white blood cells (leucocytes)? ",
+        "answers": [
+            { "text": "Oxygen transport" },
+            { "text": "Blood coagulation" },
+            { "text": "Blood sugar regulation" },
+            { "text": "Immune defense", "correct": true }
+        ]
+    },
+    {
+        "question": "What is the function of the blood platelets (thrombocytes)? ",
+        "answers": [
+            { "text": "Immune defense" },
+            { "text": "Blood coagulation", "correct": true },
+            { "text": "Blood sugar regulation" },
+            { "text": "Oxygen transport" }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a risk factor for hypoxia? ",
+        "answers": [
+            { "text": "Smoking" },
+            { "text": "Menstruation" },
+            { "text": "Blood donation" },
+            { "text": "Diving", "correct": true }
+        ]
+    },
+    {
+        "question": "Anemic hypoxia can be caused by... ",
+        "answers": [
+            { "text": "carbon monoxide poisoning.", "correct": true },
+            { "text": "low pressure." },
+            { "text": "high altitudes." },
+            { "text": "alcohol." }
+        ]
+    },
+    {
+        "question": "What is an appropriate reaction when a passenger during cruise flight suddenly feels uncomfortable? ",
+        "answers": [
+            {
+                "text": "Adjust cabin temperature and prevent excessive bank",
+                "correct": true
+            },
+            {
+                "text": "Give additional oxygen and avoid low load factors"
+            },
+            {
+                "text": "Avoid conversation and choose a higher airspeed"
+            },
+            {
+                "text": "Switch on the heater blower and provide thermal blankets"
+            }
+        ]
+    },
+    {
+        "question": "What ist the correct term for an involuntary and stereotypical reaction of an organism to the stimulation of a receptor? ",
+        "answers": [
+            { "text": "Reduction" },
+            { "text": "Virulence" },
+            { "text": "Coherence" },
+            { "text": "Reflex", "correct": true }
+        ]
+    },
+    {
+        "question": "What is the correct term for the system which, among others, controls breathing, digestion, and heart frequency? ",
+        "answers": [
+            { "text": "Critical nervous system" },
+            { "text": "Autonomic nervous system", "correct": true },
+            { "text": "Automatical nervous system" },
+            { "text": "Compliant nervous system" }
+        ]
+    },
+    {
+        "question": "What is the parallax error? ",
+        "answers": [
+            {
+                "text": "Long-sightedness due to aging especially during night"
+            },
+            {
+                "text": "Wrong interpretation of instruments caused by the angle of vision",
+                "correct": true
+            },
+            {
+                "text": "Misperception of speed during taxiing"
+            },
+            {
+                "text": "A decoding error incommunication between pilots"
+            }
+        ]
+    },
+    {
+        "question": "Which characteristic is important when choosing sunglasses used by pilots? ",
+        "answers": [
+            { "text": "Non-polarised", "correct": true },
+            { "text": "No UV filter" },
+            { "text": "Curved sidepiece" },
+            { "text": "Unbreakable" }
+        ]
+    },
+    {
+        "question": "Which part of the visual system is responsible for colour vision? ",
+        "answers": [
+            { "text": "Cones", "correct": true },
+            { "text": "Rods" },
+            { "text": "Macula" },
+            { "text": "Blind spot" }
+        ]
+    },
+    {
+        "question": "The connection between middle ear and nose and throat region is called... ",
+        "answers": [
+            { "text": "eardrum." },
+            { "text": "cochlea." },
+            { "text": "inner ear." },
+            { "text": "eustachian tube.", "correct": true }
+        ]
+    },
+    {
+        "question": "In which situation is it NOT possible to achieve a pressure compensation between the middle ear and the environment? ",
+        "answers": [
+            { "text": "During a light and slow climb" },
+            { "text": "All windows are completely closed" },
+            {
+                "text": "Breathing takes place using the mouth only"
+            },
+            { "text": "The eustachien tube is blocked", "correct": true }
+        ]
+    },
+    {
+        "question": "Wings level after a longer period of turning can lead to the impression of... ",
+        "answers": [
+            { "text": "starting a descent." },
+            { "text": "starting a climb." },
+            {
+                "text": "steady turning in the same direction as before."
+            },
+            { "text": "turning into the opposite direction.", "correct": true }
+        ]
+    },
+    {
+        "question": "Which of the following options does NOT stimulate motion sickness (disorientation)? ",
+        "answers": [
+            { "text": "Head movements during turns" },
+            {
+                "text": "Flying under the influence of alcohol"
+            },
+            {
+                "text": "Non-accelerated straight and level flight",
+                "correct": true
+            },
+            { "text": "Turbulence in level flight" }
+        ]
+    },
+    {
+        "question": "An acceleration during a straight horizontal flight can lead to the illusion of... ",
+        "answers": [
+            { "text": "a descent." },
+            { "text": "a climb.", "correct": true },
+            { "text": "an inverted flight." },
+            { "text": "a bank." }
+        ]
+    },
+    {
+        "question": "A deceleration during a straight horizontal flight can lead to the illusion of... ",
+        "answers": [
+            { "text": "a climb." },
+            { "text": "a descent.", "correct": true },
+            { "text": "a bank." },
+            { "text": "an inverted flight." }
+        ]
+    },
+    {
+        "question": "Which optical illusion might be caused by a runway with an upslope during the approach? ",
+        "answers": [
+            {
+                "text": "The pilot has the feeling that the approach is too fast and reduces the speed below the normal approach speed"
+            },
+            {
+                "text": "The pilot has the feeling that the approach is too high and therefore descents below the regular glide slope",
+                "correct": true
+            },
+            {
+                "text": "The pilot has the feeling that the approach is too slow and speeds up above the normal approach speed"
+            },
+            {
+                "text": "The pilot has the feeling that the approach is too low and therefore approaches the runway above the regular glide slope"
+            }
+        ]
+    },
+    {
+        "question": "What impression may be caused when approaching a runway with an upslope? ",
+        "answers": [
+            { "text": "A landing beside the centerline" },
+            { "text": "A hard landing" },
+            { "text": "An undershoot" },
+            { "text": "An overshoot", "correct": true }
+        ]
+    },
+    {
+        "question": "The occurence of a vertigo is most likely when moving the head... ",
+        "answers": [
+            {
+                "text": "during a straight horizontal flight."
+            },
+            { "text": "during a turn.", "correct": true },
+            { "text": "during a descent." },
+            { "text": "during a climb." }
+        ]
+    },
+    {
+        "question": "A Grey-out is the result of... ",
+        "answers": [
+            { "text": "hypoxia." },
+            { "text": "tiredness." },
+            { "text": "positive g-forces.", "correct": true },
+            { "text": "hyperventilation." }
+        ]
+    },
+    {
+        "question": "Visual illusions are mostly caused by... ",
+        "answers": [
+            { "text": "rapid eye movements." },
+            { "text": "misinterpretation of the brain.", "correct": true },
+            { "text": "colour blindness." },
+            { "text": "binocular vision." }
+        ]
+    },
+    {
+        "question": "The average decrease of blood alcohol level for an adult in one hour is approximately... ",
+        "answers": [
+            { "text": "0.1 percent." },
+            { "text": "0.01 percent.", "correct": true },
+            { "text": "0.03 percent." },
+            { "text": "0.3 percent." }
+        ]
+    },
+    {
+        "question": "Which answer states a risk factor for diabetes? ",
+        "answers": [
+            { "text": "Overweight", "correct": true },
+            { "text": "Smoking" },
+            { "text": "Sleep deficiency" },
+            { "text": "Alcohol consumption" }
+        ]
+    },
+    {
+        "question": "A risk factor for decompression sickness is... ",
+        "answers": [
+            { "text": "smoking." },
+            { "text": "sports." },
+            { "text": "scuba diving prior to flight. ", "correct": true },
+            { "text": "100 % oxygen after decompression." }
+        ]
+    },
+    {
+        "question": "Which statement is correct with regard to the short-term memory? ",
+        "answers": [
+            {
+                "text": "It can store 10 (\u00b15) items for 30 to 60 seconds"
+            },
+            {
+                "text": "It can store 7 (\u00b12) items for 10 to 20 seconds",
+                "correct": true
+            },
+            {
+                "text": "It can store 3 (\u00b11) items for 5 to 10 seconds"
+            },
+            {
+                "text": "It can store 5 (\u00b12) items for 1 to 2 minutes"
+            }
+        ]
+    },
+    {
+        "question": "For what approximate time period can the short-time memory store information? ",
+        "answers": [
+            { "text": "35 to 50 seconds" },
+            { "text": "30 to 40 seconds" },
+            { "text": "3 to 7 seconds" },
+            { "text": "10 to 20 seconds", "correct": true }
+        ]
+    },
+    {
+        "question": "What is a latent error? ",
+        "answers": [
+            {
+                "text": "An error which is made by the pilot actively and consciously"
+            },
+            {
+                "text": "An error which only has consequences after landing"
+            },
+            {
+                "text": "An error which remains undetected in the system for a long time",
+                "correct": true
+            },
+            {
+                "text": "An error which has an immediate effect on the controls"
+            }
+        ]
+    },
+    {
+        "question": "What does the term \"confirmation bias\" mean? ",
+        "answers": [
+            {
+                "text": "The feedback loop in a closed communication"
+            },
+            {
+                "text": "The preference to find arguments to proof the own mental model",
+                "correct": true
+            },
+            { "text": "The bias to confirm each radio call" },
+            {
+                "text": "The critical check of ambiguous situations in flight"
+            }
+        ]
+    },
+    {
+        "question": "The ongoing process to monitor the current flight situation is called... ",
+        "answers": [
+            { "text": "constant flight check." },
+            { "text": "situational thinking." },
+            { "text": "anticipatory check procedure." },
+            { "text": "situational awareness.", "correct": true }
+        ]
+    },
+    {
+        "question": "Regarding the communication model, how can the use of the same code during radio communication be ensured?",
+        "answers": [
+            { "text": "By the use of radio phraseology", "correct": true },
+            {
+                "text": "By using radios certified for aviation use only"
+            },
+            { "text": "By the use of proper headsets" },
+            { "text": "By a particular frequency allocation" }
+        ]
+    },
+    {
+        "question": "In what different ways can a risk be handled appropriately? ",
+        "answers": [
+            { "text": "Extrude, avoid, palliate, transfer" },
+            { "text": "Ignore, accept, transfer, extrude" },
+            { "text": "Avoid, reduce, transfer, accept", "correct": true },
+            { "text": "Avoid, ignore, palliate, reduce" }
+        ]
+    },
+    {
+        "question": "Under which circumstances is it more likely to accept higher risks? ",
+        "answers": [
+            {
+                "text": "If there is not enough information available"
+            },
+            {
+                "text": "During check flights due to a high level of nervousness"
+            },
+            {
+                "text": "During flight planning when excellent weather is forecast"
+            },
+            { "text": "Due to group-dynamic effects", "correct": true }
+        ]
+    },
+    {
+        "question": "What is the meaning of \"risky shift\"? ",
+        "answers": [
+            {
+                "text": "Crossing of rudder and ailerons on short final"
+            },
+            {
+                "text": "The tendency to accept higher risks in groups",
+                "correct": true
+            },
+            {
+                "text": "Spontaneous change of landing direction when the runway has an upslope"
+            },
+            { "text": "Seat adjustment in flight" }
+        ]
+    },
+    {
+        "question": "Which dangerous attitudes are often combined? ",
+        "answers": [
+            { "text": "Macho and invulnerability", "correct": true },
+            { "text": "Impulsivity and carefulness" },
+            {
+                "text": "Invulnerability and self-abandonment"
+            },
+            { "text": "Self-abandonment and macho" }
+        ]
+    },
+    {
+        "question": "What is an indication for a macho attitude? ",
+        "answers": [
+            { "text": "Careful walkaround procedure" },
+            {
+                "text": "Comprehensive risk assessment when faced with unfamiliar situations"
+            },
+            {
+                "text": "Risky flight maneuvers to impress spectators on ground",
+                "correct": true
+            },
+            {
+                "text": "Quick resignation in complex and critical situations"
+            }
+        ]
+    },
+    {
+        "question": "Which factor can lead to human error? ",
+        "answers": [
+            { "text": "Double check of relevant actions" },
+            { "text": "Proper use of checklists" },
+            {
+                "text": "To be doubtful if something looks unclear or ambiguous"
+            },
+            { "text": "The bias to see what we expect to see", "correct": true }
+        ]
+    },
+    {
+        "question": "What is the best combination of traits with respect to the individual attitude and behaviour for a pilot? ",
+        "answers": [
+            { "text": "Introverted -unstable" },
+            { "text": "Introverted -stable" },
+            { "text": "Extroverted -unstable" },
+            { "text": "Extroverted -stable", "correct": true }
+        ]
+    },
+    {
+        "question": "Complacency is a risk due to... ",
+        "answers": [
+            {
+                "text": "the high number of mistakes normally made by humans."
+            },
+            { "text": "increased cockpit automation.", "correct": true },
+            {
+                "text": "the high error rate of technical systems."
+            },
+            {
+                "text": "better training options for young pilots."
+            }
+        ]
+    },
+    {
+        "question": "The ideal level of arousal is at which point in the diagram?",
+        "figure": "hpl_1.png",
+        "answers": [
+            { "text": "Point A" },
+            { "text": "Point D" },
+            { "text": "Point C" },
+            { "text": "Point B", "correct": true }
+        ]
+    },
+    {
+        "question": "At which point in the diagram will a pilot find himself to be overstrained?",
+        "figure": "hpl_1.png",
+        "answers": [
+            { "text": "Point D", "correct": true },
+            { "text": "Point B" },
+            { "text": "Point C" },
+            { "text": "Point A" }
+        ]
+    },
+    {
+        "question": "Which of the following qualities are influenced by stress?\\n1. Attention\n2. Concentration\n3. Responsiveness\n4. Memory ",
+        "answers": [
+            { "text": "2, 4" },
+            { "text": "1" },
+            { "text": "1, 2, 3, 4", "correct": true },
+            { "text": "1, 2, 3" }
+        ]
+    },
+    {
+        "question": "Which answer is correct concerning stress? ",
+        "answers": [
+            {
+                "text": "Stress can occur if there seems to be no solution for a given problem",
+                "correct": true
+            },
+            {
+                "text": "Training and experience have no influence on the occurence of stress"
+            },
+            {
+                "text": "Stress and its different symptoms are irrelevant for flight safety"
+            },
+            {
+                "text": "Everybody reacts to stress in the same manner"
+            }
+        ]
+    }
+]

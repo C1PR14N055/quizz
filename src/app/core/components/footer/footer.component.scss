@@ -1,0 +1,11 @@
+@import '../../../themes/vars.scss';
+
+footer {
+    background: #e6e6e6;
+    height: $footer-height;
+    p {
+        margin: 0;
+        font-size: 10px;
+        color: #999;
+    }
+}

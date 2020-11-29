@@ -1,0 +1,67 @@
+{
+    "subjects": [
+        {
+            "route": "agk",
+            "shortTitle": "AGK",
+            "longTitle": "Aircraft General Knowledge",
+            "description": "Description...",
+            "image": "assets/imgs/agk.jpeg"
+        },
+        {
+            "route": "alw",
+            "shortTitle": "ALW",
+            "longTitle": "Airlaw",
+            "description": "Description...",
+            "image": "assets/imgs/alw.jpg"
+        },
+        {
+            "route": "com",
+            "shortTitle": "COM",
+            "longTitle": "Comunication",
+            "description": "Description...",
+            "image": "assets/imgs/com.jpg"
+        },
+        {
+            "route": "fpp",
+            "shortTitle": "FPP",
+            "longTitle": "Flight Performance & Planning",
+            "description": "Description...",
+            "image": "assets/imgs/fpp.jpg"
+        },
+        {
+            "route": "hpl",
+            "shortTitle": "HPL",
+            "longTitle": "Human Performance & Limitations",
+            "description": "Description...",
+            "image": "assets/imgs/hpl.jpg"
+        },
+        {
+            "route": "met",
+            "shortTitle": "MET",
+            "longTitle": "Meteorology",
+            "description": "Description...",
+            "image": "assets/imgs/met.jpg"
+        },
+        {
+            "route": "nav",
+            "shortTitle": "NAV",
+            "longTitle": "Navigation",
+            "description": "Description...",
+            "image": "assets/imgs/nav.jpg"
+        },
+        {
+            "route": "opr",
+            "shortTitle": "OPR",
+            "longTitle": "Operational Procedures",
+            "description": "Description...",
+            "image": "assets/imgs/opr.jpg"
+        },
+        {
+            "route": "pfa",
+            "shortTitle": "PFA",
+            "longTitle": "Principles of Flight (Aeroplane)",
+            "description": "Description...",
+            "image": "assets/imgs/pfa.jpeg"
+        }
+    ]
+}

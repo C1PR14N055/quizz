@@ -1,0 +1,37 @@
+@import '../themes/colors.scss';
+
+$quill-toolbar-height: 42px;
+
+:host ::ng-deep quill-editor {
+    &.ng-touched.ng-invalid {
+        .ql-toolbar.ql-snow,
+        .ql-container.ql-snow {
+            border-color: $error;
+        }
+    }
+    &.ng-dirty.ng-invalid {
+        border-color: $error;
+        .ql-toolbar.ql-snow,
+        .ql-container.ql-snow {
+            border-color: $error !important;
+        }
+    }
+}
+
+// custom quill snow theme overrides
+:host ::ng-deep quill-editor.dark-theme {
+    .ql-snow {
+        .ql-fill {
+            fill: $light;
+        }
+        .ql-picker {
+            color: $light;
+        }
+        .ql-stroke {
+            stroke: $light;
+        }
+        .ql-editor.ql-blank::before {
+            color: $light;
+        }
+    }
+}

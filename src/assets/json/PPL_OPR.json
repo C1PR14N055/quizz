@@ -1,0 +1,827 @@
+[
+    {
+        "question": "The term \"flight time\" is defined as... ",
+        "answers": [
+            {
+                "text": "the period from the start of the take-off run to the final touchdown when landing."
+            },
+            {
+                "text": "the total time from the first aircraft movement until the moment it finally comes to rest at the end of the flight.",
+                "correct": true
+            },
+            {
+                "text": "the period from engine start for the purpose of taking off to leaving the aircraft after engine shutdown."
+            },
+            {
+                "text": "the total time from the first take-off until the last landing in conjunction with one or more consecutive flights."
+            }
+        ]
+    },
+    {
+        "question": "What should be considered regarding a scheduled flight over water, when land cannot be reached in case of an emergency landing? ",
+        "answers": [
+            {
+                "text": "Transponder code 7600 has to be set during the whole flight"
+            },
+            {
+                "text": "Contact to the nearest ATC shall consist during the whole flight"
+            },
+            {
+                "text": "For all passengers there must be life jackets or lifeboats present",
+                "correct": true
+            },
+            {
+                "text": "The flight plan has to contain the exact waypoints"
+            }
+        ]
+    },
+    {
+        "question": "Which of the items below may have an influence on the noise perceived by a person on the ground?\n\n1) Engine power setting\n2) Propeller revolutions per minute\n3) Position of the landing gear\n4) Flap position\n5) Flight track\n6) Height above ground\n7) Flight rules ",
+        "answers": [
+            { "text": "1, 2, 3, 4, 5, 6", "correct": true },
+            { "text": "1, 5, 6" },
+            { "text": "1, 5, 6, 7" },
+            { "text": "3, 4, 5, 6, 7" }
+        ]
+    },
+    {
+        "question": "How can the pilot of an an engine-driven aircraft minimise the noise emission during descent and approach? ",
+        "answers": [
+            {
+                "text": "Normal approach with normal power setting, configuration prior to initiating descent, shortest possible arrival route"
+            },
+            {
+                "text": "Descent and approach in landing configuration while maintaining a descent angle of 3\u00b0, direct approach whenever possible"
+            },
+            {
+                "text": "Low approach with minimum power setting, late configuration and steep approach, adherence to established arrival routes"
+            },
+            {
+                "text": "High approach with minimum power setting, late descent, late configuration, adherence to established arrival routes",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "When should turns at low altitudes above villages be avoided with regard to noise abatement procedures? ",
+        "answers": [
+            { "text": "In descent" },
+            { "text": "In climb", "correct": true },
+            { "text": "During the approach" },
+            { "text": "In horizontal flight" }
+        ]
+    },
+    {
+        "question": "How should departures near villages be carried out?",
+        "answers": [
+            {
+                "text": "Slow with a low propeller rotation speed"
+            },
+            { "text": "Low and fast between the villages" },
+            {
+                "text": "Climb and changes in direction should be done as slow as possible"
+            },
+            {
+                "text": "Villages should be circumnavigated and crossed in a sufficient altitude",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Which kind of engine is susceptible to carburettor fire? ",
+        "answers": [
+            { "text": "Piston engines", "correct": true },
+            { "text": "Turbine engines" },
+            { "text": "Electric motors" },
+            { "text": "Turboprop engines" }
+        ]
+    },
+    {
+        "question": "Why is it dangerous to pump the throttle for engine start in cold weather? ",
+        "answers": [
+            { "text": "It may cause a carburettor fire", "correct": true },
+            { "text": "Carburettor icing can occur" },
+            {
+                "text": "The engine might start with not enough power"
+            },
+            { "text": "The oil will become diluted" }
+        ]
+    },
+    {
+        "question": "Which danger exists during engine start? ",
+        "answers": [
+            { "text": "Cable fire" },
+            { "text": "Carburettor fire", "correct": true },
+            { "text": "Sparking" },
+            { "text": "Smoke emission" }
+        ]
+    },
+    {
+        "question": "May an engine, which previously was on fire, be restarted? ",
+        "answers": [
+            {
+                "text": "No, the risk of a reignition of the fire would be too high",
+                "correct": true
+            },
+            {
+                "text": "Yes, if the aircraft is flying at a safe altitude"
+            },
+            {
+                "text": "Yes, but only on the ground for the purpose of taxiing"
+            },
+            {
+                "text": "Yes, but only if the cause of the fire was a carburettor fire during engine start"
+            }
+        ]
+    },
+    {
+        "question": "Which gas is mostdangerous during an engine fire? ",
+        "answers": [
+            { "text": "Carbon monoxide", "correct": true },
+            { "text": "Nitrogen" },
+            { "text": "Oxygen" },
+            { "text": "Carbon dioxide" }
+        ]
+    },
+    {
+        "question": "Smoke enters the cockpit during an engine fire.Which actions have to be taken immediately? ",
+        "answers": [
+            {
+                "text": "Switching off the master switch and the ignition"
+            },
+            {
+                "text": "Switching off the heating and the ventilating system",
+                "correct": true
+            },
+            {
+                "text": "Switching off the pitot and front window heating"
+            },
+            {
+                "text": "Switching off the avionics and the cabin lighting"
+            }
+        ]
+    },
+    {
+        "question": "What should be the first action in case of a cable fire during a flight? ",
+        "answers": [
+            { "text": "Close the fuel valve" },
+            { "text": "Open the windows" },
+            { "text": "Turn off the master switch", "correct": true },
+            { "text": "Open cabin ventialtion" }
+        ]
+    },
+    {
+        "question": "What extinguishing agent is the least suitable for an aircraft fire? ",
+        "answers": [
+            { "text": "Powder" },
+            { "text": "Halon" },
+            { "text": "Water", "correct": true },
+            { "text": "Foam" }
+        ]
+    },
+    {
+        "question": "In flight, a little smoke emerges from behind the instrument panel. An electrical fire is suspected.Which action, with respect to the pilot's operating manual, should be taken? ",
+        "answers": [
+            { "text": "Turn off the heat" },
+            { "text": "Shut down the engine" },
+            { "text": "Turn off the master switch", "correct": true },
+            { "text": "Use the fire extinguisher" }
+        ]
+    },
+    {
+        "question": "In flight, a little smoke emerges from behind the instrument panel. An engine fire is suspected.Which action, with respect to the pilot's operating manual, should be taken?",
+        "answers": [
+            { "text": "Turn off the heat", "correct": true },
+            { "text": "Shut down the engine" },
+            { "text": "Use the fire extinguisher" },
+            { "text": "Turn off the master switch" }
+        ]
+    },
+    {
+        "question": "A wind shear is... ",
+        "answers": [
+            {
+                "text": "a slow increase of the wind speed in altitudes above 13000 ft."
+            },
+            {
+                "text": "a wind speed change of more than 15 kt."
+            },
+            {
+                "text": "a vertical or horizontal change of wind speed and wind direction.",
+                "correct": true
+            },
+            {
+                "text": "a meteorological downslope wind phenomenon in the alps."
+            }
+        ]
+    },
+    {
+        "question": "Which weather phenomenon is typically associated with wind shear? ",
+        "answers": [
+            { "text": "Fog." },
+            { "text": "Invernal warm front." },
+            { "text": "Thunderstorms.", "correct": true },
+            { "text": "Stable high pressure areas." }
+        ]
+    },
+    {
+        "question": "When do you expect wind shear? ",
+        "answers": [
+            { "text": "During an inversion", "correct": true },
+            { "text": "In calm wind in cold weather" },
+            { "text": "During a summer day with calm winds" },
+            { "text": "When passing a warm front" }
+        ]
+    },
+    {
+        "question": "During an approach the aeroplane experiences a windshear with a decreasing headwind.If the pilot does not make any corrections, how do the approach path and the indicated airspeed (IAS) change? ",
+        "answers": [
+            { "text": "Path is higher, IAS decreases" },
+            { "text": "Path is lower, IAS increases" },
+            { "text": "Path is higher, IAS increases" },
+            { "text": "Path is lower, IAS decreases", "correct": true }
+        ]
+    },
+    {
+        "question": "During an approach the aeroplane experiences a windshear with an increasing headwind.If the pilot does not make any corrections, how do the approach path and the indicated airspeed (IAS) change? ",
+        "answers": [
+            { "text": "Path is higher, IAS decreases" },
+            { "text": "Path is lower, IAS increases" },
+            { "text": "Path ishigher, IAS increases", "correct": true },
+            { "text": "Path is lower, IAS decreases" }
+        ]
+    },
+    {
+        "question": "During an approach the aeroplane experiences a windshear with a decreasing tailwind.If the pilot does not make any corrections, how do the approach path and the indicated airspeed (IAS) change? ",
+        "answers": [
+            { "text": "Path is higher, IAS decreases" },
+            { "text": "Path is higher, IAS increases", "correct": true },
+            { "text": "Path is lower, IAS decreases" },
+            { "text": "Path is lower, IAS increases" }
+        ]
+    },
+    {
+        "question": "After take-off an aeroplane gets into a wind shear with decreasing headwind. As a result... ",
+        "answers": [
+            {
+                "text": "the aeroplane flies above the estimated climb path."
+            },
+            {
+                "text": "the true airspeed (TAS) will increase."
+            },
+            {
+                "text": "the ground speed (GS) will decrease."
+            },
+            {
+                "text": "the aeroplane flies below the estimated climb path.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "How may windshear be recognised in flight? ",
+        "answers": [
+            {
+                "text": "Sudden and apparentlybaseless change in altitude, airspeed, rate of climb or descent.",
+                "correct": true
+            },
+            {
+                "text": "Sudden and apparently baseless change in heading, turning rate, engine speed or oil temperature."
+            },
+            {
+                "text": "Sudden and apparently baseless change of oilpressure, oil temperature, engine speed and altitude."
+            },
+            {
+                "text": "Rather unexpected onset of drizzle associated with high stratus clouds following previously clear skies and calm conditions."
+            }
+        ]
+    },
+    {
+        "question": "Which phenomenon may be expected at point 2 of the microburst?",
+        "figure": "opr_1.png",
+        "answers": [
+            { "text": "Constant rate of descent" },
+            { "text": "Decrease of descent rate" },
+            { "text": "Increase of airspeed" },
+            { "text": "Decrease of climb rate", "correct": true }
+        ]
+    },
+    {
+        "question": "Which phenomenon may be expected at point 3 of the miroburst?",
+        "figure": "opr_1.png",
+        "answers": [
+            { "text": "Decrease in airspeed", "correct": true },
+            { "text": "Constant rate of descent" },
+            { "text": "Increase in airspeed" },
+            { "text": "Decrease in climb rate" }
+        ]
+    },
+    {
+        "question": "How can a wind shear encounter in flight be avoided? ",
+        "answers": [
+            {
+                "text": "Avoid take-off and landing during the passage of heavy showers or thunderstorms",
+                "correct": true
+            },
+            {
+                "text": "Avoid areas of precipitation, particularly during winter, and choose low flight altitudes"
+            },
+            {
+                "text": "Avoid take-offs and landings in mountainous terrain and stay in flat country whenever possible"
+            },
+            {
+                "text": "Avoid thermally active areas, particularly during summer, or stay below these areas"
+            }
+        ]
+    },
+    {
+        "question": "What action should be taken when entering a windshear?\n\n1.Reduce speed\n2.Retract gear and flaps\n3.Maintain current configuration\n4.Adjust thrust ",
+        "answers": [
+            { "text": "2 and 4" },
+            { "text": "1 and 2" },
+            { "text": "1 and 3" },
+            { "text": "3 and 4", "correct": true }
+        ]
+    },
+    {
+        "question": "After lift-off, a much stronger than expected airspeed rise is experienced during the initial climb phase. What may be expected if the aeroplane entered a microburst? ",
+        "answers": [
+            {
+                "text": "An increased climb rate and decreased airspeed"
+            },
+            {
+                "text": "An increased climb rate and airspeed"
+            },
+            { "text": "A decreased climb rate and airspeed", "correct": true },
+            {
+                "text": "A decreased climb rate and increased airspeed"
+            }
+        ]
+    },
+    {
+        "question": "Immediately after lift-off, a microburst is entered inadvertently. Which action might avoid an unintentional descent? ",
+        "answers": [
+            {
+                "text": "Set maximum power, maintain present aircraft configuration, climb at the best rate of climb speed",
+                "correct": true
+            },
+            {
+                "text": "Set maximum power, retract landing gear and flaps, pick up speed and perform a left or a right turn in an attempt to leave the area of the microburst on the shortest way"
+            },
+            {
+                "text": "Set maximum power, retract landing gear and flaps, increase pitch until attaining optimum climb speed"
+            },
+            {
+                "text": "Set maximum power, maintain present aircraft configuration, pick up speed in an attempt to leave the area of the microburst as fast as possible"
+            }
+        ]
+    },
+    {
+        "question": "Wake turbulences develop during take-off just as the aeroplane... ",
+        "answers": [
+            { "text": "reaches an altitude of 15 ft." },
+            { "text": "lifts off with the main gear." },
+            { "text": "lifts off with the front gear.", "correct": true },
+            { "text": "accelerates." }
+        ]
+    },
+    {
+        "question": "Wake turbulence is caused by... ",
+        "answers": [
+            {
+                "text": "wind shear at the wingtip of an aerofoil."
+            },
+            { "text": "jet blast behind a turbine engine." },
+            {
+                "text": "turbulence at the downwind side of a mountain range."
+            },
+            {
+                "text": "pressure compensation at the wingtip of an aerofoil.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Wake turbulence is particularly strong... ",
+        "answers": [
+            { "text": "when flying at high speeds." },
+            { "text": "when flying at high altitudes." },
+            { "text": "when flying at low speeds.", "correct": true },
+            { "text": "when flying at low altitudes." }
+        ]
+    },
+    {
+        "question": "Wake turbulence is particularly strong...",
+        "answers": [
+            { "text": "at a high aeroplane weight.", "correct": true },
+            { "text": "when flying with high thrust." },
+            { "text": "when flying with low thrust." },
+            { "text": "at a low aeroplane weight." }
+        ]
+    },
+    {
+        "question": "The intensity of wake turbulence depends on... ",
+        "answers": [
+            { "text": "the propeller pitch. " },
+            { "text": "the temperature." },
+            { "text": "the weight of the aeroplane.", "correct": true },
+            { "text": "the altitude of the aeroplane." }
+        ]
+    },
+    {
+        "question": "Two aircraft of the same type, same grossweight and same configuration fly at different airspeeds.Which aircraft will cause more severe wake turbulence? ",
+        "answers": [
+            {
+                "text": "The aircraft flying at lower altitude."
+            },
+            { "text": "The aircraft flying at slower speed.", "correct": true },
+            {
+                "text": "The aircraft flying at higher speed."
+            },
+            {
+                "text": "The aircraft flying at higher altitude."
+            }
+        ]
+    },
+    {
+        "question": "Two aircraft of the same type, same gross weight and same flap configuration fly with different speeds and altitude.Which aircraft will cause more wake turbulence? ",
+        "answers": [
+            {
+                "text": "The aircraft flying at a higher altitude"
+            },
+            {
+                "text": "The aircraft flying at a lower altitude"
+            },
+            {
+                "text": "The aircraft flying at higher speed."
+            },
+            { "text": "The aircraft flying at lower speed.", "correct": true }
+        ]
+    },
+    {
+        "question": "With only a slight crosswind, what is the danger at take-off after the departure of a heavy aeroplane? ",
+        "answers": [
+            {
+                "text": "Wake turbulence on or near the runway.",
+                "correct": true
+            },
+            {
+                "text": "Wake turbulence is amplified and distorted."
+            },
+            {
+                "text": "Wake turbulence rotate faster and higher."
+            },
+            {
+                "text": "Wake turbulence twisting transverse to the runway."
+            }
+        ]
+    },
+    {
+        "question": "A light aircraft intends to land behind a commercial airliner belonging to wake turbulence category \"medium\" or \"heavy\" on a long runway. How can the wake turbulence of the commercial aircraft be avoided? ",
+        "answers": [
+            {
+                "text": "By making a steep approach and a long landing, touching down behind the touchdown point of the airliner's nose gear",
+                "correct": true
+            },
+            {
+                "text": "By making a steep approach and a very short landing.The light aircraft should be able to stop before reaching the airliner's touchdown point"
+            },
+            {
+                "text": "By making a shallow approach and a long landing, touching down behind the touchdown point of the airliner's nose gear"
+            },
+            {
+                "text": "By making a shallow approach and a very short landing. The light aircraft should be able to stop before reaching the airliner's touchdown point"
+            }
+        ]
+    },
+    {
+        "question": "What should be observed when taxiing behind a commercial airliner? ",
+        "answers": [
+            {
+                "text": "To avoid wake turbulence, a minimum distance of 700 m should be maintained"
+            },
+            {
+                "text": "To avoid the jet blast, a minimum distance of 600 m should be maintained"
+            },
+            {
+                "text": "To avoid wake turbulence, a minimum distance of 300 m should be maintained"
+            },
+            {
+                "text": "To avoid the jet blast, a minimum distance of 200 m should be maintained",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A technical fault requires an emergency off-field landing. Which steps, with respect to the pilot's operating handbook, are necessary? ",
+        "answers": [
+            {
+                "text": "Inform air traffic control and request technical support, check the pilot's operating handbook for a reference on the matter and execute an emergency landing."
+            },
+            {
+                "text": "Reduce speed and configure the aircraft for landing in an attempt to gain time, declare an emergency, complete the applicable emergency procedure and execute an emergency landing."
+            },
+            {
+                "text": "Locate a suitable landing area, plan the approach, complete the applicable emergency procedure, declare an emergency, start and concentrate on the approach in due time.",
+                "correct": true
+            },
+            {
+                "text": "Declare an emergency, complete the applicable emergency procedure, cover as much distance towards the airport as possible to be closer to the rescue forces."
+            }
+        ]
+    },
+    {
+        "question": "Which method is appropriate to approach an unprepared landing field? ",
+        "answers": [
+            {
+                "text": "Flat direct approach to ensure visual ground contact"
+            },
+            {
+                "text": "Steep approach to keep the noise level low"
+            },
+            {
+                "text": "Fast approach, performance check, and landing within a quick stop"
+            },
+            {
+                "text": "Terrain investigation to determine approach points and landing",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Which area is suitable for an off-field landing? ",
+        "answers": [
+            { "text": "Harvested cornfield", "correct": true },
+            { "text": "Glade with long dry grass" },
+            { "text": "Plowed field" },
+            { "text": "Sports area in a village" }
+        ]
+    },
+    {
+        "question": "An emergency landing is a landing... ",
+        "answers": [
+            {
+                "text": "conducted without power from the engine."
+            },
+            {
+                "text": "conducted in an attempt to keep up safety regarding an aircraft and its occupants."
+            },
+            { "text": "conducted with the flaps retracted." },
+            {
+                "text": "conducted in response to circumstances forcing the aircraft to land.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A landing conducted in response to circumstances forcing the aircraft to land is a / an...",
+        "answers": [
+            { "text": "precautionary landing." },
+            { "text": "urgent landing." },
+            { "text": "emergency landing.", "correct": true },
+            { "text": "field or out landing." }
+        ]
+    },
+    {
+        "question": "A precautionary landing is a landing... ",
+        "answers": [
+            {
+                "text": "conducted without power from the engine."
+            },
+            {
+                "text": "conducted in response to circumstances forcing the aircraft to land."
+            },
+            {
+                "text": "conducted in an attempt to sustain flight safety.",
+                "correct": true
+            },
+            { "text": "conducted with the flaps retracted." }
+        ]
+    },
+    {
+        "question": "Which of the following landing areas is most suitable for an off-field landing? ",
+        "answers": [
+            { "text": "A lake with an undisturbed surface" },
+            { "text": "A light brown field with short crops", "correct": true },
+            { "text": "A meadow without livestock" },
+            { "text": "A field with ripe waving crops" }
+        ]
+    },
+    {
+        "question": "How does the pilot prepare for a VFR flight over a large distance of water, when it is unlikely that land can be reached in case of an engine failure? ",
+        "answers": [
+            {
+                "text": "File a flight plan including the exact way-points."
+            },
+            {
+                "text": "Be prepared to fly with transponder only."
+            },
+            {
+                "text": "Carry life vests or a life raft for all occupants.",
+                "correct": true
+            },
+            {
+                "text": "Maintain continuous radio contact with ATC."
+            }
+        ]
+    },
+    {
+        "question": "Which items should a passenger briefing in case of an imminent emergency landing include? ",
+        "answers": [
+            {
+                "text": "How to work the aircraft radio, emergency transponder squawk, telephone number of the competent search and rescue (SAR) center"
+            },
+            {
+                "text": "Blood type of the other aircraft occupants, location of the first-aid kit"
+            },
+            {
+                "text": "Nature of the emergency, intentions, safety position, evacuation routes, actions after landing",
+                "correct": true
+            },
+            {
+                "text": "How to read an emergency checklist, how to cut the engine, telephone number of the home airport"
+            }
+        ]
+    },
+    {
+        "question": "After a precautionary landing the brakes and wheels are very hot. In which way should the pilot approach them? ",
+        "answers": [
+            { "text": "From the right or left side" },
+            { "text": "At an angle of 45\u00b0" },
+            { "text": "From the front or back side", "correct": true },
+            { "text": "From the front, right or left side" }
+        ]
+    },
+    {
+        "question": "What needs to be observed in conjunction with overheated brakes? ",
+        "answers": [
+            {
+                "text": "The affected brakes need to be cooled down with halon"
+            },
+            {
+                "text": "The affected tyres may burst in axial direction",
+                "correct": true
+            },
+            {
+                "text": "The affected tyres may burst in radial direction or direction of rotation"
+            },
+            {
+                "text": "The wheel fairing shall be taken off to increase the cooldown"
+            }
+        ]
+    },
+    {
+        "question": "In case of an emergency ditching, the life vests have to be inflated... ",
+        "answers": [
+            { "text": "before disembarking the aircraft." },
+            { "text": "during disembarking the aircraft." },
+            {
+                "text": "after disembarking the aircraft at a safe distance of about 10 m."
+            },
+            { "text": "after disembarking the aircraft.", "correct": true }
+        ]
+    },
+    {
+        "question": "What are the effects of wet grass on the take-off and landing distance? ",
+        "answers": [
+            {
+                "text": "Decrease of the take-off distance and increase of the landing distance"
+            },
+            {
+                "text": "Increase of the take-off distance and increase of the landing distance",
+                "correct": true
+            },
+            {
+                "text": "Decrease of the take-off distance and decrease of the landing distance"
+            },
+            {
+                "text": "Increase of the take-off distance and decrease of thelanding distance"
+            }
+        ]
+    },
+    {
+        "question": "Under which circumstances may a runway be considered to be contaminated? ",
+        "answers": [
+            {
+                "text": "When more than 25 % of the runway surface area within the required length and width being used is covered by water, slush, snow or ice more than 3 mm deep",
+                "correct": true
+            },
+            {
+                "text": "When 75 % of the required runway length and width are covered by contaminants such as snow, frost, ice or sand"
+            },
+            {
+                "text": "When more than 50 % of the runway surface area within the required length and width being used is covered by water, slush, snow or icemore than 3 mm deep"
+            },
+            {
+                "text": "When more than 50 % of the required runway length and width are covered by contaminants such as snow, frost, ice or sand"
+            }
+        ]
+    },
+    {
+        "question": "What minimum coverage with ice or snow must be given to call a runway \"contaminated\"? ",
+        "answers": [
+            { "text": "50 %" },
+            { "text": "25%", "correct": true },
+            { "text": "10 %" },
+            { "text": "75 %" }
+        ]
+    },
+    {
+        "question": "Wet snow on a runway can lead to... ",
+        "answers": [
+            { "text": "an increase in lift." },
+            { "text": "a decrease in lift." },
+            {
+                "text": "reduced rolling resistance during take-off."
+            },
+            {
+                "text": "increased rolling resistance during take-off.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "What danger does standing water on the runway pose to aircraft? ",
+        "answers": [
+            {
+                "text": "Decreased rolling resistance during take-off"
+            },
+            { "text": "An increase in lift" },
+            {
+                "text": "Increased rolling resistance during take-off",
+                "correct": true
+            },
+            { "text": "A decrease in lift" }
+        ]
+    },
+    {
+        "question": "Which danger exists after a heavy rain shower for a landing aircraft? ",
+        "answers": [
+            {
+                "text": "Displacement of the tire slip marking"
+            },
+            { "text": "Difficult flare due to glare" },
+            {
+                "text": "Longer braking distance due to aquaplaning",
+                "correct": true
+            },
+            {
+                "text": "Decreased braking distance due to aquaplaning"
+            }
+        ]
+    },
+    {
+        "question": "Which would be the correct reaction when hydroplaning is suspected upon landing? ",
+        "answers": [
+            {
+                "text": "Add power and use flaps and spoilers to brake aerodynamically"
+            },
+            {
+                "text": "Apply maximum braking to reduce aircraft speed to less than hydroplaning speed, then continue normal ground roll"
+            },
+            {
+                "text": "Cross rudder and aileron controls in order to use the aircraft fuselage to brake aerodynamically"
+            },
+            {
+                "text": "If all wheels are in motion, brake moderately. Maintain directional control by aerodynamic means",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "How should a landing on a contaminated runway be conducted if it proves to be inevitable? ",
+        "answers": [
+            {
+                "text": "Approach with the minimum crosswind component possible, use minimum flaps, touch down softly with positive pitch and minimum speed, do not apply brakes"
+            },
+            {
+                "text": "Approach with the minimum crosswind component possible, use maximum flaps, touch down with negative pitch and minimum speed, brake carefully"
+            },
+            {
+                "text": "Approach with the minimum crosswind component possible, use maximum flaps, touch down firmly with minimum speed, brake carefully",
+                "correct": true
+            },
+            {
+                "text": "Approach with the minimum crosswind component possible, use minimum flaps, touch down softly with minimum speed, do not apply brakes"
+            }
+        ]
+    },
+    {
+        "question": "During final approach, the glider pilot realizes a very bumpy surface on a selected off-field landing site. What technique may be recommended for landing? ",
+        "answers": [
+            {
+                "text": "Touch down with minimum speed, compensate different ground levels with power lever"
+            },
+            {
+                "text": "Approach with increased speed, push elevetor upon first ground contact"
+            },
+            {
+                "text": "Touch down with minimum speed, keep elevator pulled until full stop",
+                "correct": true
+            },
+            {
+                "text": "Approach with increased speed, avoid using wheel brakes"
+            }
+        ]
+    }
+]

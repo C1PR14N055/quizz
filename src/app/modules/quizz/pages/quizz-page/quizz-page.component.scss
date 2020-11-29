@@ -1,0 +1,37 @@
+@import '../../../../themes/vars.scss';
+
+.container {
+    min-height: $body-height;
+}
+
+.question {
+    font-size: 1.1em;
+    font-weight: bold;
+    white-space: pre-wrap;
+}
+
+.figure {
+    max-width: 80%;
+    max-height: 300px;
+    cursor: zoom-in;
+}
+
+.answer {
+    padding: 8px;
+    ::ng-deep .mat-radio-label-content {
+        white-space: pre-wrap;
+    }
+}
+
+.verified {
+    .answer {
+        pointer-events: none;
+        &.correct {
+            background-color: lime;
+            background: rgba($color: lime, $alpha: 5);
+        }
+        &.incorrect {
+            background: rgba($color: red, $alpha: 0.5);
+        }
+    }
+}

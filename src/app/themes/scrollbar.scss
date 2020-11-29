@@ -1,0 +1,20 @@
+@import '~@angular/material/theming';
+
+// custom webkit scrollbars
+@mixin scrollbar($theme) {
+    $background: map-get($theme, background);
+    $primary: map-get($theme, primary);
+
+    ::-webkit-scrollbar-track {
+        background: mat-color($background, base);
+    }
+
+    ::-webkit-scrollbar {
+        width: 5px;
+        height: 5px;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background: mat-color($primary);
+    }
+}

@@ -1,0 +1,960 @@
+[
+    {
+        "question": "In which situations should a pilot use blind transmissions? ",
+        "answers": [
+            {
+                "text": "When no radio communication can be established with the appropriate aeronautical station, but when evidence exists that transmissions are received at that ground unit",
+                "correct": true
+            },
+            {
+                "text": "When a pilot has flown into cloud or fog unintentionally and therefore would like to request navigational assistance from a ground unit"
+            },
+            {
+                "text": "When a transmission containing important navigational or technical information is to be sent to several stations at the same time"
+            },
+            {
+                "text": "When the traffic situation at an airport allows the transmission of information which does not need to be acknowledged by the ground station"
+            }
+        ]
+    },
+    {
+        "question": "Leaving a control frequency (except when reaching the final parking position)... ",
+        "answers": [
+            { "text": "is not mandatory to be reported." },
+            { "text": "must be approved twice." },
+            { "text": "must be approved.", "correct": true },
+            { "text": "must be reported." }
+        ]
+    },
+    {
+        "question": "Which abbreviation is used for the term \"abeam\"? ",
+        "answers": [
+            { "text": "ABM", "correct": true },
+            { "text": "ABB" },
+            { "text": "ABA" },
+            { "text": "ABE" }
+        ]
+    },
+    {
+        "question": "Which abbreviation is used for the term \"visual flight rules\"? ",
+        "answers": [
+            { "text": "VFS" },
+            { "text": "VFR", "correct": true },
+            { "text": "VRU" },
+            { "text": "VMC" }
+        ]
+    },
+    {
+        "question": "Which abbreviation is used for the term \"obstacle\"? ",
+        "answers": [
+            { "text": "OBTC" },
+            { "text": "OBST", "correct": true },
+            { "text": "OST" },
+            { "text": "OBS" }
+        ]
+    },
+    {
+        "question": "What does the abbreviation \"FIS\" stand for? ",
+        "answers": [
+            { "text": "Flashing information service" },
+            { "text": "Flight information system" },
+            { "text": "Flashing information system" },
+            { "text": "Flight information service", "correct": true }
+        ]
+    },
+    {
+        "question": "What does the abbreviaton \"FIR\" stand for? ",
+        "answers": [
+            { "text": "Flight integrity receiver" },
+            { "text": "Flow information radar" },
+            { "text": "Flight information region", "correct": true },
+            { "text": "Flow integrity required" }
+        ]
+    },
+    {
+        "question": "What does the abbreviation \"H24\" stand for? ",
+        "answers": [
+            { "text": "Sunrise to sunset" },
+            { "text": "24 h service", "correct": true },
+            { "text": "No specific opening times" },
+            { "text": "Sunset to sunrise" }
+        ]
+    },
+    {
+        "question": "What does the abbreviation \"HX\" stand for? ",
+        "answers": [
+            { "text": "No specific opening hours", "correct": true },
+            { "text": "Sunrise to sunset" },
+            { "text": "Sunset to sunrise" },
+            { "text": "24 h service" }
+        ]
+    },
+    {
+        "question": "The altimeter has to be set to what value in order to show zero on ground? ",
+        "answers": [
+            { "text": "QNH" },
+            { "text": "QNE" },
+            { "text": "QTE" },
+            { "text": "QFE", "correct": true }
+        ]
+    },
+    {
+        "question": "Which altitude is displayed on the altimeter when set to a specific QNH? ",
+        "answers": [
+            {
+                "text": "Altitude in relation to the 1013.25 hPa datum"
+            },
+            {
+                "text": "Altitude in relation to mean sea level",
+                "correct": true
+            },
+            {
+                "text": "Altitude in relation to the air pressure at the reference airfield"
+            },
+            {
+                "text": "Altitude in relation to the highest elevation within 10 km"
+            }
+        ]
+    },
+    {
+        "question": "Which altitude is displayed on the altimeter when set to a specific QFE?",
+        "answers": [
+            {
+                "text": "Altitude in relation to the 1013.25 hPa datum"
+            },
+            {
+                "text": "Altitude in relation to the air pressure at the reference airfield",
+                "correct": true
+            },
+            {
+                "text": "Altitude in relation to the highest elevation within 10 km"
+            },
+            {
+                "text": "Altitude in relation to mean sea level"
+            }
+        ]
+    },
+    {
+        "question": "What does the abbreviation \"QDR\" stand for? ",
+        "answers": [
+            { "text": "True bearing from the station" },
+            { "text": "Magnetic bearing from the station", "correct": true },
+            { "text": "Magnetic bearing to the station" },
+            { "text": "True bearing to the station" }
+        ]
+    },
+    {
+        "question": "What does the abbreviation \"QUJ\" stand for? ",
+        "answers": [
+            { "text": "True bearing from the station" },
+            { "text": "True bearing to the station", "correct": true },
+            { "text": "Magnetic bearing to the station" },
+            { "text": "Magnetic bearing from the station" }
+        ]
+    },
+    {
+        "question": "What does the abbreviation \"QTE\" stand for? ",
+        "answers": [
+            { "text": "Magnetic bearing to thestation" },
+            { "text": "Magnetic bearing from the station" },
+            { "text": "True bearing from the station", "correct": true },
+            { "text": "True bearing to the station" }
+        ]
+    },
+    {
+        "question": "Which Q-code is used for the magnetic bearing from the station? ",
+        "answers": [
+            { "text": "QUJ" },
+            { "text": "QTE" },
+            { "text": "QDM" },
+            { "text": "QDR", "correct": true }
+        ]
+    },
+    {
+        "question": "Which Q-code is used for the true bearing from the station? ",
+        "answers": [
+            { "text": "QDR" },
+            { "text": "QUJ" },
+            { "text": "QDM" },
+            { "text": "QTE", "correct": true }
+        ]
+    },
+    {
+        "question": "Which Q-code is used for the true bearing to the station?",
+        "answers": [
+            { "text": "QDR" },
+            { "text": "QDM" },
+            { "text": "QTE" },
+            { "text": "QUJ", "correct": true }
+        ]
+    },
+    {
+        "question": "Which of the listed radiotelephony messages has a higher priority than a flight safety message? ",
+        "answers": [
+            {
+                "text": "Communication related to direction finding",
+                "correct": true
+            },
+            { "text": "Flight regularity message" },
+            { "text": "Meteorological message" },
+            { "text": "Aircraft position report message" }
+        ]
+    },
+    {
+        "question": "What is the correct term for a message used for air traffic control? ",
+        "answers": [
+            { "text": "Flight regularitymessage" },
+            { "text": "Meteorological message" },
+            {
+                "text": "Message related to direction finding"
+            },
+            { "text": "Flight safety message", "correct": true }
+        ]
+    },
+    {
+        "question": "Distress messages are messages... ",
+        "answers": [
+            {
+                "text": "concerning the safety of an aircraft, a watercraft or some other vehicle or person in sight."
+            },
+            {
+                "text": "sent by a pilot or an aircraft operating agency which have an imminent meaning for aircraft in flight."
+            },
+            {
+                "text": "concerning aircraft and their passengers which face a grave and imminent threat and require immediate assistance.",
+                "correct": true
+            },
+            {
+                "text": "concerning the operation or maintenance of facilities which are important for the safety and regularity of flight operations."
+            }
+        ]
+    },
+    {
+        "question": "Urgency messages are messages... ",
+        "answers": [
+            {
+                "text": "concerning aircraft and their passengers which face a grave and imminent threat and require immediate assistance."
+            },
+            {
+                "text": "concerning the safety of an aircraft, a watercraft or some other vehicle or person in sight.",
+                "correct": true
+            },
+            {
+                "text": "concerning the operation or maintenance of facilities essential for the safety or regularity of aircraft operation."
+            },
+            {
+                "text": "sent by a pilot or an aircraft operating agency which have an imminent meaning for aircraft in flight."
+            }
+        ]
+    },
+    {
+        "question": "Regularity messages are messages... ",
+        "answers": [
+            {
+                "text": "concerning the safety of an aircraft, a watercraft or some other vehicle or person in sight."
+            },
+            {
+                "text": "concerning aircraft and their passengers which face a grave and imminent threat and require immediate assistance."
+            },
+            {
+                "text": "sent by an aircraft operating agency or an aircraft of immediate concern to an aircraft in flight. "
+            },
+            {
+                "text": "concerning the operation or maintenance of facilities essential for the safety or regularity ofaircraft operation.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Which of the following messages has the highest priority? ",
+        "answers": [
+            { "text": "Turn left" },
+            { "text": "Request QDM", "correct": true },
+            { "text": "QNH 1013" },
+            { "text": "Wind 300 degrees, 5 knots" }
+        ]
+    },
+    {
+        "question": "What is the correct way to transmit the call sign HB-YKM? ",
+        "answers": [
+            { "text": "Home Bravo Yuliett Kilo Mike" },
+            { "text": "Hotel Bravo Yankee Kilo Mike", "correct": true },
+            { "text": "Hotel Bravo Yuliett Kilo Mikro" },
+            { "text": "Home Bravo Yankee Kilo Mikro" }
+        ]
+    },
+    {
+        "question": "What is the correct way to transmit the call sign OE-JVK? ",
+        "answers": [
+            { "text": "Omega Echo Jankee Victor Kilo" },
+            { "text": "Oscar Echo Jankee Victor Kilogramm" },
+            { "text": "Oscar Echo Juliett Victor Kilo", "correct": true },
+            { "text": "Omega Echo Juliett Victor Kilogramm" }
+        ]
+    },
+    {
+        "question": "An altitude of 4500 ft is transmitted as... ",
+        "answers": [
+            { "text": "four tousand five hundred.", "correct": true },
+            { "text": "four five tousand." },
+            { "text": "four tousand five zero zero." },
+            { "text": "four five zero zero." }
+        ]
+    },
+    {
+        "question": "A heading of 285 degrees is correctly transmitted as... ",
+        "answers": [
+            { "text": "two eight five.", "correct": true },
+            { "text": "two eight five hundred." },
+            { "text": "two hundred eight five." },
+            { "text": "two hundred eighty-five." }
+        ]
+    },
+    {
+        "question": "A frequency of 119.500 MHz is correctly transmitted as... ",
+        "answers": [
+            {
+                "text": "one one niner tousand decimal five zero."
+            },
+            { "text": "one one niner decimal five.", "correct": true },
+            { "text": "one one niner decimal five zero." },
+            {
+                "text": "one one niner decimal five zero zero."
+            }
+        ]
+    },
+    {
+        "question": "The directional information \"12 o'clock\" is correctly transmitted as... ",
+        "answers": [
+            { "text": "One two." },
+            { "text": "One two o'clock." },
+            { "text": "One two hundred." },
+            { "text": "Twelve o'clock.", "correct": true }
+        ]
+    },
+    {
+        "question": "Times are transmitted as... ",
+        "answers": [
+            { "text": "UTC.", "correct": true },
+            { "text": "standard time." },
+            { "text": "local time." },
+            { "text": "time zone time." }
+        ]
+    },
+    {
+        "question": "If there is any doubt about ambiguity, a time of 1620 is to be transmitted as... ",
+        "answers": [
+            { "text": "sixteen twenty." },
+            { "text": "two zero." },
+            { "text": "one tousand six hundred two zero." },
+            { "text": "one six two zero.", "correct": true }
+        ]
+    },
+    {
+        "question": "What is the meaning of the phrase \"Roger\"?",
+        "answers": [
+            {
+                "text": "Permission for proposed action is granted"
+            },
+            {
+                "text": "I understand your message and will comply with it"
+            },
+            {
+                "text": "I have received all of your last transmission",
+                "correct": true
+            },
+            {
+                "text": "An error has been made in this transmission. The correct version is..."
+            }
+        ]
+    },
+    {
+        "question": "What is the meaning of the phrase \"Correction\"? ",
+        "answers": [
+            {
+                "text": "Permission for proposed action is granted"
+            },
+            {
+                "text": "An error has been made in this transmission. The correct version is...",
+                "correct": true
+            },
+            {
+                "text": "I have received all of your last transmission"
+            },
+            {
+                "text": "I understand your message and will comply with it"
+            }
+        ]
+    },
+    {
+        "question": "What is the meaning of the phrase \"Approved\"? ",
+        "answers": [
+            {
+                "text": "I have received all of your last transmission"
+            },
+            {
+                "text": "I understand your message and willcomply with it"
+            },
+            {
+                "text": "Permission for proposed action is granted",
+                "correct": true
+            },
+            {
+                "text": "An error has been made in this transmission. The correct version is..."
+            }
+        ]
+    },
+    {
+        "question": "Which phrase does a pilot use when he / she wants to check the readability of his / her transmission? ",
+        "answers": [
+            { "text": "Whatis the communication like?" },
+            { "text": "How do you read?", "correct": true },
+            { "text": "Request readability" },
+            { "text": "You read me five" }
+        ]
+    },
+    {
+        "question": "Which phrase is used by a pilot when he wants to fly through controlled airspace? ",
+        "answers": [
+            { "text": "Apply" },
+            { "text": "Want" },
+            { "text": "Would like" },
+            { "text": "Request", "correct": true }
+        ]
+    },
+    {
+        "question": "What phrase is used by a pilot if a transmission is to be answered with \"yes\"? ",
+        "answers": [
+            { "text": "Roger" },
+            { "text": "Yes" },
+            { "text": "Affirm", "correct": true },
+            { "text": "Affirmative" }
+        ]
+    },
+    {
+        "question": "What phrase is used by a pilot if a transmission is to be answered with \"no\"? ",
+        "answers": [
+            { "text": "Negative", "correct": true },
+            { "text": "Not" },
+            { "text": "Finish" },
+            { "text": "No" }
+        ]
+    },
+    {
+        "question": "Which phrase is to be used when a pilot wants the tower to know that he is ready for take-off? ",
+        "answers": [
+            { "text": "Ready for start-up" },
+            { "text": "Ready for departure", "correct": true },
+            { "text": "Request take-off" },
+            { "text": "Ready" }
+        ]
+    },
+    {
+        "question": "What phrase is used by a pilot to inform the tower about a go-around? ",
+        "answers": [
+            { "text": "No landing" },
+            { "text": "Pulling up" },
+            { "text": "Going around", "correct": true },
+            { "text": "Approach canceled" }
+        ]
+    },
+    {
+        "question": "What is the call sign of the aerodrome control? ",
+        "answers": [
+            { "text": "Tower", "correct": true },
+            { "text": "Airfield" },
+            { "text": "Ground" },
+            { "text": "Control" }
+        ]
+    },
+    {
+        "question": "What is the call sign of the surface movement control?",
+        "answers": [
+            { "text": "Tower" },
+            { "text": "Earth" },
+            { "text": "Ground", "correct": true },
+            { "text": "Control" }
+        ]
+    },
+    {
+        "question": "What is the call sign of the flight information service?",
+        "answers": [
+            { "text": "Info" },
+            { "text": "Advice" },
+            { "text": "Flight information" },
+            { "text": "Information", "correct": true }
+        ]
+    },
+    {
+        "question": "What is the correct abbreviation of the call sign D-EAZF? ",
+        "answers": [
+            { "text": "DEA" },
+            { "text": "AZF" },
+            { "text": "DZF", "correct": true },
+            { "text": "DEF" }
+        ]
+    },
+    {
+        "question": "In what case is the pilot allowed to abbreviate the call sign of his aircraft? ",
+        "answers": [
+            {
+                "text": "After the ground station has used the abbreviation",
+                "correct": true
+            },
+            { "text": "Within controlled airspace" },
+            {
+                "text": "If there is little traffic in the traffic circuit"
+            },
+            {
+                "text": "After passing the first reporting point"
+            }
+        ]
+    },
+    {
+        "question": "What is the correct way of using the aircraft call sign at first contact? ",
+        "answers": [
+            { "text": "Using the first two characters only" },
+            { "text": "Using the last two characters only" },
+            {
+                "text": "Using the first three characters only"
+            },
+            { "text": "Using all characters", "correct": true }
+        ]
+    },
+    {
+        "question": "What is the correct way of establishing radio communication between D-EAZF and Dusseldorf Tower? ",
+        "answers": [
+            { "text": "Dusseldorf Tower over" },
+            { "text": "DEAZF is calling Dusseldorf Tower" },
+            { "text": "Dusseldorf Tower D-EAZF", "correct": true },
+            { "text": "Tower from D-EAZF" }
+        ]
+    },
+    {
+        "question": "What is the correct way of acknowledging the instruction \"Call Hamburg Tower on 121.275\"?",
+        "answers": [
+            { "text": "Call 121.275" },
+            { "text": "Call tower" },
+            { "text": "121.275", "correct": true },
+            { "text": "Call tower on 121.275" }
+        ]
+    },
+    {
+        "question": "What does a readability of 1 indicate? ",
+        "answers": [
+            {
+                "text": "The transmission is perfectly readable"
+            },
+            { "text": "The transmission is unreadable", "correct": true },
+            {
+                "text": "The transmission is readable but with difficulty"
+            },
+            {
+                "text": "The transmission is readable now and then"
+            }
+        ]
+    },
+    {
+        "question": "What does a readability of 2 indicate?",
+        "answers": [
+            {
+                "text": "The transmission is readable now and then",
+                "correct": true
+            },
+            {
+                "text": "The transmission is readable but with difficulty"
+            },
+            {
+                "text": "The transmission is perfectly readable"
+            },
+            { "text": "The transmission is unreadable" }
+        ]
+    },
+    {
+        "question": "What does a readability of 3 indicate? ",
+        "answers": [
+            {
+                "text": "The transmission is readable now and then"
+            },
+            {
+                "text": "The transmission is perfectly readable"
+            },
+            {
+                "text": "The transmission is readable but with difficulty",
+                "correct": true
+            },
+            { "text": "The transmission is unreadable" }
+        ]
+    },
+    {
+        "question": "What does a readability of 5 indicate? ",
+        "answers": [
+            {
+                "text": "The transmission is readable now and then"
+            },
+            {
+                "text": "The transmission is readable but with difficulty"
+            },
+            { "text": "The transmission is unreadable" },
+            {
+                "text": "The transmission is perfectly readable",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Which information from a ground station does not require readback? ",
+        "answers": [
+            { "text": "Runway in use" },
+            { "text": "Wind", "correct": true },
+            { "text": "SSR-Code" },
+            { "text": "Altitude" }
+        ]
+    },
+    {
+        "question": "Which information from a ground station does not require readback? ",
+        "answers": [
+            { "text": "Altimeter setting" },
+            { "text": "Traffic information", "correct": true },
+            { "text": "Taxi instructions" },
+            { "text": "Heading" }
+        ]
+    },
+    {
+        "question": "What is the correct way of acknowledging the instruction \"DZF after lift-off climb straight ahead until 2500 feet before turning right heading 220 degrees, wind 090 degrees, 5 knots, runway 12, cleared for take-off\"? ",
+        "answers": [
+            {
+                "text": "DZF after lift-off climb straight ahead 2500 feet, wilco, heading 220 degrees, 090 degrees, 5 knots, cleared for take-off"
+            },
+            {
+                "text": "DZF after lift-off climb straight ahead 2500 feet, then turn right heading 220, runway 12, cleared for take-off",
+                "correct": true
+            },
+            {
+                "text": "DZF after lift-offclimb straight ahead 2500 feet, then turn right heading 220, 090 degrees, 5 knots"
+            },
+            {
+                "text": "DZF after lift-off climb straight ahead 2500 feet, then turn right heading 220, 090 degrees, 5 knots, cleared for take-off"
+            }
+        ]
+    },
+    {
+        "question": "What is the correct way of acknowledging the instruction \"Next report PAH\"? ",
+        "answers": [
+            { "text": "Positive" },
+            { "text": "Roger" },
+            { "text": "Report PAH" },
+            { "text": "Wilco", "correct": true }
+        ]
+    },
+    {
+        "question": "What is the correct way of acknowledging the instruction \"Squawk 4321, Call Bremen Radar on 131.325\"? ",
+        "answers": [
+            { "text": "Roger" },
+            { "text": "Squawk 4321, wilco" },
+            { "text": "Squawk 4321, 131.325", "correct": true },
+            { "text": "Wilco" }
+        ]
+    },
+    {
+        "question": "What is the correct way of acknowledging \"You are now entering airspace Delta\"? ",
+        "answers": [
+            { "text": "Entering" },
+            { "text": "Roger", "correct": true },
+            { "text": "Wilco" },
+            { "text": "Airspace Delta" }
+        ]
+    },
+    {
+        "question": "What does a cloud coverage of \"FEW\" mean in a METAR weather report? ",
+        "answers": [
+            { "text": "8 eighths" },
+            { "text": "1 to 2 eighths", "correct": true },
+            { "text": "5 to 7 eighths" },
+            { "text": "3 to 4 eighths" }
+        ]
+    },
+    {
+        "question": "What does a cloud coverage of \"SCT\" mean in a METAR weather report? ",
+        "answers": [
+            { "text": "1 to 2 eighths" },
+            { "text": "8 eighths" },
+            { "text": "3 to 4 eighths", "correct": true },
+            { "text": "5 to 7 eighths" }
+        ]
+    },
+    {
+        "question": "What does a cloud coverage of \"BKN\" mean in a METAR weather report? ",
+        "answers": [
+            { "text": "3 to 4 eighths" },
+            { "text": "8 eighths" },
+            { "text": "5 to 7 eighths", "correct": true },
+            { "text": "1 to 2 eighths" }
+        ]
+    },
+    {
+        "question": "Given a visibility of 12 km, what is the correct way to transmit this visibility? ",
+        "answers": [
+            { "text": "One-two kilometers." },
+            { "text": "Twelve kilometers." },
+            { "text": "One-zero kilometers or more.", "correct": true },
+            { "text": "One-zero kilometers." }
+        ]
+    },
+    {
+        "question": "In what case is visibility transmitted in meters? ",
+        "answers": [
+            { "text": "Up to 5 km", "correct": true },
+            { "text": "Greater than 10 km" },
+            { "text": "Greater than 5 km" },
+            { "text": "Up to 10 km" }
+        ]
+    },
+    {
+        "question": "In what cases is visibility transmitted in kilometers? ",
+        "answers": [
+            { "text": "Up to 10 km" },
+            { "text": "Greater than 5 km", "correct": true },
+            { "text": "Up to 5 km" },
+            { "text": "Greater than 10 km" }
+        ]
+    },
+    {
+        "question": "What information is broadcasted on a VOLMET frequency? ",
+        "answers": [
+            { "text": "Navigational information" },
+            { "text": "NOTAMS" },
+            { "text": "Current information" },
+            { "text": "Meteorological information", "correct": true }
+        ]
+    },
+    {
+        "question": "Which navigation facility may be used for broadcasting the ATIS? ",
+        "answers": [
+            { "text": "GPS" },
+            { "text": "DME" },
+            { "text": "NDB" },
+            { "text": "VOR", "correct": true }
+        ]
+    },
+    {
+        "question": "How can you obtain meteorological information concerning airports during a cross-country flight? ",
+        "answers": [
+            { "text": "VOLMET", "correct": true },
+            { "text": "GAMET" },
+            { "text": "METAR" },
+            { "text": "AIRMET" }
+        ]
+    },
+    {
+        "question": "Which transponder code indicates a radio failure? ",
+        "answers": [
+            { "text": "7700" },
+            { "text": "7600", "correct": true },
+            { "text": "7500" },
+            { "text": "7000" }
+        ]
+    },
+    {
+        "question": "What is the correct phrase to begin a blind transmission? ",
+        "answers": [
+            { "text": "Blind" },
+            { "text": "Transmitting blind", "correct": true },
+            { "text": "No reception" },
+            { "text": "Listen" }
+        ]
+    },
+    {
+        "question": "On what frequency shall a blind transmission be made? ",
+        "answers": [
+            { "text": "On the appropriate FIS frequency" },
+            {
+                "text": "On a radar frequency of the lower airspace"
+            },
+            { "text": "On the current frequency", "correct": true },
+            { "text": "On a tower frequency" }
+        ]
+    },
+    {
+        "question": "How often shall a blind transmission be made? ",
+        "answers": [
+            { "text": "Two times" },
+            { "text": "Three times" },
+            { "text": "Four times" },
+            { "text": "One time", "correct": true }
+        ]
+    },
+    {
+        "question": "In what situation is it appropriate to set the transponder code 7600? ",
+        "answers": [
+            { "text": "Hijacking" },
+            { "text": "Emergency" },
+            { "text": "Flight into clouds" },
+            { "text": "Loss of radio", "correct": true }
+        ]
+    },
+    {
+        "question": "What is the correct course of action when experiencing a radio failure in class D airspace? ",
+        "answers": [
+            {
+                "text": "The flight has to be continued above 5000 feet complying with VFR flight rules or the airspace has to be left by the shortest route"
+            },
+            {
+                "text": "The flight has to be continued according to the last clearance complying with VFR rules or the airspace has to be left by the shortest route",
+                "correct": true
+            },
+            {
+                "text": "The flight has to be continued above 5000 feet complying with VFR flight rules or the airspace has to be left using a standard routing"
+            },
+            {
+                "text": "The flight has to be continued according to the last clearance complying with VFR flight rules or the airspace has to be left using a standard routing"
+            }
+        ]
+    },
+    {
+        "question": "Under what conditions may class D airspace be entered with a radio failure? ",
+        "answers": [
+            { "text": "Approval has been granted before", "correct": true },
+            {
+                "text": "There are other aircraft in the aerodrome circuit"
+            },
+            { "text": "It ist the aerodrome of departure" },
+            { "text": "It is the destination aerodrome" }
+        ]
+    },
+    {
+        "question": "Which phrase is to be repeated three times before transmitting an urgency message? ",
+        "answers": [
+            { "text": "Help" },
+            { "text": "Urgent" },
+            { "text": "Pan Pan", "correct": true },
+            { "text": "Mayday" }
+        ]
+    },
+    {
+        "question": "Urgency messages are defined as... ",
+        "answers": [
+            {
+                "text": "messages concerning urgent spare parts which are needed for a continuation of flight and which need to be ordered in advance."
+            },
+            {
+                "text": "messages concerning the safety of an aircraft, a watercraft or some other vehicle or person in sight.",
+                "correct": true
+            },
+            {
+                "text": "information concerning the apron personell and which imply an imminent danger to landing aircraft."
+            },
+            {
+                "text": "messages concerning aircraft and their passengers which face a grave and imminent threat and require immediate assistance."
+            }
+        ]
+    },
+    {
+        "question": "Distress messages contain... ",
+        "answers": [
+            {
+                "text": "information concerning urgent spare parts which are required for a continuation of flight and which have to be ordered in advance."
+            },
+            {
+                "text": "information concerning the apron personell and which imply an imminent danger to landing aircraft."
+            },
+            {
+                "text": "information concerning the safety of an aircraft, a watercraft or some other vehicle or person in sight."
+            },
+            {
+                "text": "information concerning aircraft and their passengers which face a grave and imminent threat and require immediate assistance.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "What is the correct frequency for an initial distress message? ",
+        "answers": [
+            { "text": "Emergency frequency" },
+            { "text": "Current frequency", "correct": true },
+            { "text": "FIS frequency" },
+            { "text": "Radar frequency" }
+        ]
+    },
+    {
+        "question": "What kind of information should be included in an urgency message? ",
+        "answers": [
+            {
+                "text": "Nature of problem or observation, important information for support, departure aerodrome, information about position, heading and altitude"
+            },
+            {
+                "text": "Intended routing, important information for support, intentions of the pilot, information about position, departure aerodrome, heading and altitude"
+            },
+            {
+                "text": "Nature of problem or observation, important information for support, intentions of the pilot, information about position, heading and altitude",
+                "correct": true
+            },
+            {
+                "text": "Intended routing, important information for support, intentions of the pilot, departure aerodrome, destination aerodrome, heading and altitude"
+            }
+        ]
+    },
+    {
+        "question": "The correct transponder code for emergencies is... ",
+        "answers": [
+            { "text": "7700.", "correct": true },
+            { "text": "7000." },
+            { "text": "7600." },
+            { "text": "7500." }
+        ]
+    },
+    {
+        "question": "Which of the following frequencies is designated for VHF voice communication? ",
+        "answers": [
+            { "text": "118.75 kHz" },
+            { "text": "327.25 MHz" },
+            { "text": "327.25 kHz" },
+            { "text": "118.75 MHz", "correct": true }
+        ]
+    },
+    {
+        "question": "Which of the following frequencies is designated for VHF voice communication?",
+        "answers": [
+            { "text": "120.50 MHz", "correct": true },
+            { "text": "115.15 MHz" },
+            { "text": "108.80 MHz" },
+            { "text": "117.30 kHz" }
+        ]
+    },
+    {
+        "question": "What is the correct designation of the frequency band from 118.000 to 136.975 MHz used for voice communication? ",
+        "answers": [
+            { "text": "LF" },
+            { "text": "VHF", "correct": true },
+            { "text": "MF" },
+            { "text": "HF" }
+        ]
+    },
+    {
+        "question": "Which of the following factors affects the reception of VHF transmissions? ",
+        "answers": [
+            { "text": "Altitude", "correct": true },
+            { "text": "Shoreline effect" },
+            { "text": "Twilight error" },
+            { "text": "Height of ionosphere" }
+        ]
+    },
+    {
+        "question": "What is the approximate speed of electromagnetic wave propagation? ",
+        "answers": [
+            { "text": "123000 m/s" },
+            { "text": "300000 km/s", "correct": true },
+            { "text": "123000 km/s" },
+            { "text": "300000 m/s" }
+        ]
+    },
+    {
+        "question": "An ATIS is valid for... ",
+        "answers": [
+            { "text": "10 minutes." },
+            { "text": "45 minutes." },
+            { "text": "60 minutes." },
+            { "text": "30 minutes.", "correct": true }
+        ]
+    }
+]

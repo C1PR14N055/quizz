@@ -1,0 +1,5 @@
+// reusable defaults
+$toolbar-height: 56px;
+$footer-height: 32px;
+
+$body-height: calc(100% - #{$toolbar-height} - #{$footer-height});

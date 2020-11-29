@@ -1,0 +1,20 @@
+<mat-card class="d-flex flex-column mat-elevation-z5 p-0">
+    <div
+        class="top d-flex justify-content-center align-items-center"
+        [ngStyle]="{ 'background-image': getBackgroundImage() }"
+    ></div>
+    <div class="bottom p-3 d-flex flex-column justify-content-around">
+        <mat-card-title>{{ subject.longTitle }}</mat-card-title>
+        <p>
+            {{ subject.description }}
+        </p>
+        <button
+            [routerLink]="['q', subject.route]"
+            mat-raised-button
+            color="primary"
+            class="d-flex align-self-end"
+        >
+            Start Test
+        </button>
+    </div>
+</mat-card>
