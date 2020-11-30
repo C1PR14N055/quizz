@@ -68,7 +68,7 @@ export class QuizzService {
                 return {
                     state: QuizzState.LOADED,
                     qas: qas,
-                    qaIndex: 48
+                    qaIndex: 0
                 };
             })
         );
