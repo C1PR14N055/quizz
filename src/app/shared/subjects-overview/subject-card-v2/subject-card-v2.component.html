@@ -1,0 +1,49 @@
+<mat-card
+    (click)="openRoute()"
+    class="d-flex flex-column mat-elevation-z4 p-0"
+    [ngClass]="{ 'mat-elevation-z16': isHovered }"
+>
+    <div
+        class="top d-flex justify-content-center align-items-center"
+        [ngStyle]="{ 'background-image': getBackgroundImage() }"
+    >
+        <mat-icon>flight</mat-icon>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+            <path
+                fill="#ffffff"
+                fill-opacity="0.7"
+                d="M0,32L80,64C160,96,320,160,480,176C640,192,800,160,960,149.3C1120,139,1280,149,1360,154.7L1440,160L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"
+            ></path>
+        </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+            <path
+                fill="#ffffff"
+                fill-opacity="0.8"
+                d="M0,64L80,85.3C160,107,320,149,480,154.7C640,160,800,128,960,133.3C1120,139,1280,181,1360,202.7L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"
+            ></path>
+        </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+            <path
+                fill="#ffffff"
+                fill-opacity="0.9"
+                d="M0,32L40,58.7C80,85,160,139,240,165.3C320,192,400,192,480,170.7C560,149,640,107,720,90.7C800,75,880,85,960,117.3C1040,149,1120,203,1200,197.3C1280,192,1360,128,1400,96L1440,64L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"
+            ></path>
+        </svg>
+    </div>
+    <div class="bottom p-3 d-flex flex-column justify-content-center">
+        <p class="big-title">{{ subject.shortTitle }}</p>
+        <div>
+            <p class="small-title">{{ subject.longTitle }}</p>
+            <p class="description">
+                {{ getTotalQuestion() }}
+            </p>
+        </div>
+        <!-- <button
+            mat-raised-button
+            color="primary"
+            class="d-flex align-self-end"
+        >
+            Start Test
+        </button> -->
+    </div>
+</mat-card>

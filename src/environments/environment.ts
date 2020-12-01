@@ -4,7 +4,7 @@
 
 export const ENVIRONMENT = {
     production: false,
-    version: '0.3'
+    version: 0.4
 };
 
 /*
