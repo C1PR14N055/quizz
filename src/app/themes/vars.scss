@@ -2,4 +2,7 @@
 $toolbar-height: 56px;
 $footer-height: 32px;
 
-$body-height: calc(100% - #{$toolbar-height} - #{$footer-height});
+// main padding to content
+$main-pad-to-content: 32px;
+
+$main-height: calc(100vh - #{$toolbar-height} - #{$footer-height});

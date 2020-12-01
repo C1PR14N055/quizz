@@ -1,2 +1,7 @@
 @import '../app/themes/vars.scss';
 //
+
+#main {
+    padding: $main-pad-to-content 0;
+    min-height: $main-height;
+}
