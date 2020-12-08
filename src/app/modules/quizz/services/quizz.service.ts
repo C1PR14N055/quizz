@@ -51,6 +51,10 @@ export class QuizzService {
         this._currentQuizz.qaIndex++;
     }
 
+    getCurrentIdx(): number {
+        return this._currentQuizz.qaIndex;
+    }
+
     getTotal(): number {
         return this._currentQuizz.qas.length;
     }

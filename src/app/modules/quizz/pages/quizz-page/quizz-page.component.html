@@ -1,59 +1,68 @@
 <div class="container">
-    <mat-card *ngIf="!loading" class="mat-elevation-z24">
-        <p class="question">{{ currentQA.question }}</p>
-        <div *ngIf="currentQA.figure" class="d-flex justify-content-center m-5">
-            <a
-                class="figure-zoom"
-                href="assets/imgs/figures/{{ currentQA.figure }}"
-                target="_blank"
+    <ng-container *ngIf="!loading">
+        <p class="x-of-y">{{ getQuestionXofY() }}</p>
+        <mat-card class="mat-elevation-z24">
+            <p class="question">{{ currentQA.question }}</p>
+            <div
+                *ngIf="currentQA.figure"
+                class="d-flex justify-content-center m-5"
             >
-                <img
-                    class="figure"
-                    src="assets/imgs/figures/{{ currentQA.figure }}"
-            /></a>
-        </div>
-        <form [ngClass]="{ verified: verified }" [formGroup]="qaForm">
-            <mat-radio-group
-                [formControl]="qaForm.get('answer')"
-                aria-label="Select an answer"
-            >
-                <div class="d-flex flex-column">
-                    <div
-                        class="answer"
-                        [ngClass]="{
-                            correct: a.correct,
-                            incorrect: selectedAnswerIndex == i && !a.correct
-                        }"
-                        *ngFor="let a of currentQA.answers; let i = index"
-                    >
-                        <mat-radio-button [value]="i">{{
-                            a.text
-                        }}</mat-radio-button>
+                <a
+                    class="figure-zoom"
+                    href="assets/imgs/figures/{{ currentQA.figure }}"
+                    target="_blank"
+                >
+                    <img
+                        class="figure"
+                        src="assets/imgs/figures/{{ currentQA.figure }}"
+                /></a>
+            </div>
+            <form [ngClass]="{ verified: verified }" [formGroup]="qaForm">
+                <mat-radio-group
+                    [formControl]="qaForm.get('answer')"
+                    aria-label="Select an answer"
+                >
+                    <div class="d-flex flex-column">
+                        <div
+                            class="answer"
+                            [ngClass]="{
+                                correct: a.correct,
+                                incorrect:
+                                    selectedAnswerIndex == i && !a.correct
+                            }"
+                            *ngFor="let a of currentQA.answers; let i = index"
+                        >
+                            <mat-radio-button [value]="i">{{
+                                a.text
+                            }}</mat-radio-button>
+                        </div>
                     </div>
-                </div>
-            </mat-radio-group>
-        </form>
-        <mat-card-actions align="end">
-            <button
-                *ngIf="!verified"
-                [disabled]="selectedAnswerIndex == null"
-                mat-raised-button
-                color="primary"
-                (click)="verifyAnswer()"
-            >
-                Verify
-                <mat-icon inline="true">done</mat-icon>
-            </button>
-            <button
-                mat-raised-button
-                *ngIf="verified"
-                color="primary"
-                (click)="nextQuestion()"
-            >
-                Next
-                <mat-icon inline="true">navigate_next</mat-icon>
-            </button>
-        </mat-card-actions>
-    </mat-card>
-    <div *ngIf="loading">Loading...</div>
+                </mat-radio-group>
+            </form>
+            <mat-card-actions align="end">
+                <button
+                    *ngIf="!verified"
+                    [disabled]="selectedAnswerIndex == null"
+                    mat-raised-button
+                    color="primary"
+                    (click)="verifyAnswer()"
+                >
+                    Verify
+                    <mat-icon inline="true">done</mat-icon>
+                </button>
+                <button
+                    mat-raised-button
+                    *ngIf="verified"
+                    color="primary"
+                    (click)="nextQuestion()"
+                >
+                    Next
+                    <mat-icon inline="true">navigate_next</mat-icon>
+                </button>
+            </mat-card-actions>
+        </mat-card>
+    </ng-container>
+    <ng-container *ngIf="loading">
+        <p>Loading...</p>
+    </ng-container>
 </div>

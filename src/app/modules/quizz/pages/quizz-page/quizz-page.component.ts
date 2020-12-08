@@ -56,6 +56,12 @@ export class QuizzPageComponent implements OnInit {
         }
     }
 
+    getQuestionXofY(): string {
+        return `Question ${
+            this._quizzService.getCurrentIdx() + 1
+        } / ${this._quizzService.getTotal()}`;
+    }
+
     get currentQA(): QA {
         return this._quizzService.currentQA;
     }

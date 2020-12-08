@@ -55,6 +55,18 @@ mat-card {
     }
 }
 
+// on mobile
+@media (max-width: 767px) {
+    mat-card {
+        .top {
+            mat-icon {
+                transform: translate(0) rotate(90deg);
+            }
+        }
+    }
+}
+
+// on desktop
 @media (min-width: 768px) {
     mat-card {
         .top {
