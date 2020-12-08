@@ -25,7 +25,7 @@ export class SubjectCardV2Component implements OnInit {
     }
 
     getTotalQuestion(): string {
-        return `82 Questions`;
+        return `${this.subject.totalQuestions} Questions`;
     }
 
     @HostListener('mouseenter')

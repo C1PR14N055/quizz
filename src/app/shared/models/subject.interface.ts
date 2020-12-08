@@ -4,4 +4,5 @@ export interface Subject {
     longTitle: string;
     description: string;
     image: string;
+    totalQuestions: number;
 }
