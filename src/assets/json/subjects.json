@@ -6,7 +6,7 @@
             "longTitle": "Aircraft General Knowledge",
             "description": "Description...",
             "image": "assets/imgs/agk.jpeg",
-            "totalQuestions": 128
+            "totalQuestions": 166
         },
         {
             "route": "alw",
@@ -14,7 +14,7 @@
             "longTitle": "Airlaw",
             "description": "Description...",
             "image": "assets/imgs/alw.jpg",
-            "totalQuestions": 116
+            "totalQuestions": 131
         },
         {
             "route": "com",
@@ -22,7 +22,7 @@
             "longTitle": "Comunication",
             "description": "Description...",
             "image": "assets/imgs/com.jpg",
-            "totalQuestions": 87
+            "totalQuestions": 90
         },
         {
             "route": "fpp",
@@ -30,7 +30,7 @@
             "longTitle": "Flight Performance & Planning",
             "description": "Description...",
             "image": "assets/imgs/fpp.jpg",
-            "totalQuestions": 118
+            "totalQuestions": 126
         },
         {
             "route": "hpl",
@@ -38,7 +38,7 @@
             "longTitle": "Human Performance & Limitations",
             "description": "Description...",
             "image": "assets/imgs/hpl.jpg",
-            "totalQuestions": 58
+            "totalQuestions": 76
         },
         {
             "route": "met",
@@ -46,7 +46,7 @@
             "longTitle": "Meteorology",
             "description": "Description...",
             "image": "assets/imgs/met.jpg",
-            "totalQuestions": 129
+            "totalQuestions": 147
         },
         {
             "route": "nav",
@@ -54,7 +54,7 @@
             "longTitle": "Navigation",
             "description": "Description...",
             "image": "assets/imgs/nav.jpg",
-            "totalQuestions": 162
+            "totalQuestions": 231
         },
         {
             "route": "opr",
@@ -62,7 +62,7 @@
             "longTitle": "Operational Procedures",
             "description": "Description...",
             "image": "assets/imgs/opr.jpg",
-            "totalQuestions": 61
+            "totalQuestions": 64
         },
         {
             "route": "pfa",
@@ -70,7 +70,7 @@
             "longTitle": "Principles of Flight (Aeroplane)",
             "description": "Description...",
             "image": "assets/imgs/pfa.jpeg",
-            "totalQuestions": 102
+            "totalQuestions": 157
         }
     ]
 }

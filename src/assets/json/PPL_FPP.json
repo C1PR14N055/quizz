@@ -1,5 +1,116 @@
 [
     {
+        "question": "How do high temperatures affect aircraft performance? ",
+        "answers": [
+            {
+                "text": "High temperatures result in low air density, thus raising density altitude and decreasing aircraft performance",
+                "correct": true
+            },
+            {
+                "text": "High temperatures result in high air density, thus lowering density altitude and increasing aircraft performance",
+                "correct": false
+            },
+            {
+                "text": "High temperatures result in low air density, thus lowering density altitude and decreasing aircraft performance",
+                "correct": false
+            },
+            {
+                "text": "High temperatures result in high air density, thus raising density altitude and increasing aircraft performance",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which factor shortens take-off distance and landing distance? ",
+        "answers": [
+            { "text": "Strong head wind", "correct": true },
+            { "text": "High density altitude", "correct": false },
+            { "text": "High pressure altitude", "correct": false },
+            { "text": "Heavy rain", "correct": false }
+        ]
+    },
+    {
+        "question": "How does precipitation affect airplane performance? ",
+        "answers": [
+            {
+                "text": "Water on the wing may disturb the airflow, thus decreasing aircraft performance",
+                "correct": true
+            },
+            {
+                "text": "Rain does not affect aircraft performance",
+                "correct": false
+            },
+            {
+                "text": "Water can enter the engine cowl, thus decreasing the engine performance",
+                "correct": false
+            },
+            {
+                "text": "Heavy rain can increase the mass of the aircraft, thus decreasing aircraft performance",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "How is the take-off distance influenced on a grass runway in comparison to a pavedsurface? ",
+        "answers": [
+            {
+                "text": "The required distance for take-off will be increased. The braking performance on grass will not be as good as it would be on a paved surface",
+                "correct": true
+            },
+            {
+                "text": "The required distance for take-off will be increased. The braking performance on grass willbe better than on a paved surface",
+                "correct": false
+            },
+            {
+                "text": "The required distance for take-off will be decreased. The braking performance on grass will not be as good as it would be on a paved surface",
+                "correct": false
+            },
+            {
+                "text": "The required distance for take-off will be decreased. The braking performance on grass will be better than on a paved surface",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the maximum rate of climb, considering the following conditions? Outside air temperature (OAT): 20\u00b0C; Pressure altitude: 4000ft; Aircraft mass: 530kg;",
+        "answers": [
+            { "text": "2.2 m/s", "correct": true },
+            { "text": "1.8 m/s", "correct": false },
+            { "text": "520 ft/min", "correct": false },
+            { "text": "310 ft/min", "correct": false }
+        ]
+    },
+    {
+        "question": "What is the maximum rate of climb, considering the following conditions? Outside air temperature (OAT): -15\u00b0C; Pressure altitude: 11000ft; Aircraft mass: 500kg;",
+        "answers": [
+            { "text": "1.6 m/s", "correct": false },
+            { "text": "1.0 m/s", "correct": false },
+            { "text": "260 ft/min", "correct": true },
+            { "text": "320 ft/min", "correct": false }
+        ]
+    },
+    {
+        "question": "What is the meaning of the \"Z\" in a METAR? ",
+        "answers": [
+            { "text": "Coordinated Universal Time", "correct": true },
+            { "text": "Local mean time", "correct": false },
+            { "text": "No clouds below 5000 ft", "correct": false },
+            { "text": "Past weather conditions", "correct": false }
+        ]
+    },
+    {
+        "question": "You plan a training flight under visual flight rules (VFR) from N\u00f6tsch im Gailtal (LOKN) via Friesch / Hirt (LOKH) to Klagenfurt (LOWK). LOKH will only be overflown. How would you best describe the route of flight in ITEM 15 of the ATC flight plan form?",
+        "answers": [
+            { "text": "VIW LOKH N2.", "correct": true },
+            { "text": "DCT LOKH DCT.", "correct": false },
+            {
+                "text": "Treffen Gelitzen Gurk FRIESACH ST. VEIT an der Glan.",
+                "correct": false
+            },
+            { "text": "VIW LOKH.", "correct": false }
+        ]
+    },
+    {
         "question": "A flight plan has been files for a flight departing at an uncontrolled aerodrome.\nWhen has the actual take-off time been transmitted to ATC? ",
         "answers": [
             { "text": "Upon request from ATC." },

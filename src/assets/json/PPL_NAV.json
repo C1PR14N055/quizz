@@ -1,5 +1,842 @@
 [
     {
+        "question": "An observer is located north of theplane of the ecliptic.\nWhich statement is correct? ",
+        "answers": [
+            {
+                "text": "The Earth moves on an elliptical orbit around the sun and the rotational direction is counterclockwise",
+                "correct": true
+            },
+            {
+                "text": "The Earth moves on a circular orbit around the sun and the rotational direction is counterclockwise",
+                "correct": false
+            },
+            {
+                "text": "The Earth moves on an elliptical orbit around the sun and the rotational direction is clockwise",
+                "correct": false
+            },
+            {
+                "text": "The Earth moves on a circular orbit around the sun and the rotational direction is clockwise",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The distance between the Earth and the sunis approximately... ",
+        "answers": [
+            { "text": "150000000 km", "correct": true },
+            { "text": "300000 km", "correct": false },
+            { "text": "150000000 NM", "correct": false },
+            { "text": "162000 NM", "correct": false }
+        ]
+    },
+    {
+        "question": "Which statement is correct with regard to the positional orientation of the polar axis of the Earth to the plane of the ecliptic (plane of the sun's movement in space)? ",
+        "answers": [
+            {
+                "text": "The angle between the polar axis of the Earth and the plane of the ecliptic is approximately 66.5\u00b0",
+                "correct": true
+            },
+            {
+                "text": "The angle between the polar axis of the Earth and the plane of the ecliptic is approximately 23.5\u00b0",
+                "correct": false
+            },
+            {
+                "text": "The polar axis of the Earth is parallel to the plane of the ecliptic",
+                "correct": false
+            },
+            {
+                "text": "The angle between the polar axis of the Earth and the plane of the ecliptic is approximately 90\u00b0",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The reason for the different seasons on Earth is... ",
+        "answers": [
+            {
+                "text": "the elliptical orbit of the Earth around the sun.",
+                "correct": false
+            },
+            {
+                "text": "the variation of the solar radiation during the year.",
+                "correct": false
+            },
+            {
+                "text": "the inclination of the polar axis to the plane of the ecliptic (plane of the sun's movement in space).",
+                "correct": true
+            },
+            {
+                "text": "the variation of the Earth's orbital speed during the year.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The rotational axis of the Earth crosses the earth at the... ",
+        "answers": [
+            {
+                "text": "geographic North Pole and on the geographic South Pole.",
+                "correct": true
+            },
+            {
+                "text": "magnetic north pole and on the geographic South Pole.",
+                "correct": false
+            },
+            {
+                "text": "geographic North Pole and on the magnetic south pole.",
+                "correct": false
+            },
+            {
+                "text": "magnetic north pole and on the magnetic south pole.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "An observer is located on the North Pole.\nWhich statement is correct with regard to the rotational direction of the Earth?",
+        "answers": [
+            {
+                "text": "The Earth isrotating counterclockwise",
+                "correct": true
+            },
+            { "text": "The Earth is rotating to the north", "correct": false },
+            { "text": "The Earth is rotating to the south", "correct": false },
+            { "text": "The Earth is rotating clockwise", "correct": false }
+        ]
+    },
+    {
+        "question": "Which statement iscorrect? ",
+        "answers": [
+            {
+                "text": "A rhumb line is a great circle perpendicular to the equator",
+                "correct": false
+            },
+            {
+                "text": "A rhumb line cuts each meridian at the same angle",
+                "correct": true
+            },
+            {
+                "text": "A rhumb line has the shortest distance between two points on Earth",
+                "correct": false
+            },
+            {
+                "text": "The center of a complete cycle of a rhumbline is always the Earth's center",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following arcs does not have the Earth's center as its center? ",
+        "answers": [
+            { "text": "Equator", "correct": false },
+            { "text": "Parallel of longitude", "correct": false },
+            { "text": "Great Circle", "correct": false },
+            { "text": "Small Cirle", "correct": true }
+        ]
+    },
+    {
+        "question": "The radius of the Earth at the equator is approximately...",
+        "figure": "nav_16.png",
+        "answers": [
+            { "text": "6400 km.", "correct": true },
+            { "text": "12800 km.", "correct": false },
+            { "text": "6400 NM.", "correct": false },
+            { "text": "40000 km.", "correct": false }
+        ]
+    },
+    {
+        "question": "Which answer contains only small circles? ",
+        "answers": [
+            {
+                "text": "Arctic Circle.\n20\u00b0 S parallel of latitude.\nAntarctic Circle.",
+                "correct": true
+            },
+            {
+                "text": "Arctic Circle.\nGreenwich circle of longitude.\nAntarctic Circle.",
+                "correct": false
+            },
+            {
+                "text": "Circle with its circular plane intersecting the Earth's centre.\n10\u00b0 N parallel of latitude.\nEquator.",
+                "correct": false
+            },
+            {
+                "text": "Greenwich circle of longitude.10\u00b0 N parallel of latitude.\nEquator.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "An aeroplane flies from Hanover (52\u00b028'N, 009\u00b059'E) to Hamburg (53\u00b038'N, 009\u00b059'E) on a northerly heading.\nWhat is the distance between Hanover and Hamburg? ",
+        "answers": [
+            { "text": "70 NM", "correct": true },
+            { "text": "70 km", "correct": false },
+            { "text": "83 NM", "correct": false },
+            { "text": "83 km", "correct": false }
+        ]
+    },
+    {
+        "question": "An aeroplane flies from Hanover (52\u00b028'N, 009\u00b059'E) to Kiel (54\u00b023'N, 009\u00b059'E) on a northerly heading. What is the distance between Hanover and Kiel?",
+        "answers": [
+            { "text": "115 NM", "correct": true },
+            { "text": "115 km", "correct": false },
+            { "text": "83 NM", "correct": false },
+            { "text": "83 km", "correct": false }
+        ]
+    },
+    {
+        "question": "The equator is a... ",
+        "answers": [
+            { "text": "parallel of latitude. ", "correct": true },
+            { "text": "parallel of longitude. ", "correct": false },
+            { "text": "small circle.", "correct": false },
+            { "text": "semi circle.", "correct": false }
+        ]
+    },
+    {
+        "question": "Which climate zones are divided by the polar circle? ",
+        "answers": [
+            { "text": "Subtropical and tropical", "correct": false },
+            { "text": "Temperate and subtropical", "correct": false },
+            { "text": "Polar and subtropical", "correct": false },
+            { "text": "Polar and temperate", "correct": true }
+        ]
+    },
+    {
+        "question": "What is the distance between the parallels of latitude 48\u00b0N and 49\u00b0N? ",
+        "answers": [
+            { "text": "60''", "correct": false },
+            { "text": "60 NM", "correct": true },
+            { "text": "60 SM", "correct": false },
+            { "text": "60 km", "correct": false }
+        ]
+    },
+    {
+        "question": "What is the great circle distance between two parallels of latitude when the difference in between is exactly one degree of latitude? ",
+        "answers": [
+            { "text": "60 NM", "correct": true },
+            { "text": "1 NM", "correct": false },
+            { "text": "60 km", "correct": false },
+            { "text": "30 NM", "correct": false }
+        ]
+    },
+    {
+        "question": "An aeroplane flies from Klagenfurt (46\u00b040'N, 014\u00b020'E) to Linz (48\u00b015'N, 014\u00b020'E).\nWhat is the distance between Klagenfurt and Linz?",
+        "answers": [
+            { "text": "95 NM", "correct": true },
+            { "text": "95 km", "correct": false },
+            { "text": "51 NM", "correct": false },
+            { "text": "51 km", "correct": false }
+        ]
+    },
+    {
+        "question": "What is the distance between the two parallels of longitude 9\u00b0E and 10\u00b0E on the parallel of latitude 50\u00b0N?",
+        "answers": [
+            { "text": "60 NM", "correct": false },
+            { "text": "222 km", "correct": false },
+            { "text": "56 km", "correct": false },
+            { "text": "60'", "correct": true }
+        ]
+    },
+    {
+        "question": "Assume two points A and B,both located on 60\u00b0N. Point A is located on 020\u00b0W, point B on 010\u00b0W.\nThe rhumb line distance between them equals... ",
+        "answers": [
+            { "text": "300 NM.", "correct": true },
+            { "text": "600 NM.", "correct": false },
+            { "text": "600 km.", "correct": false },
+            { "text": "300 km.", "correct": false }
+        ]
+    },
+    {
+        "question": "An aircraft is situated on 60\u00b0N 040\u00b0W.\nThe rhumbline distance to the position 60\u00b0N 000\u00b0W on the Greenwich meridian equals... ",
+        "answers": [
+            { "text": "1200 NM.", "correct": true },
+            { "text": "600 NM.", "correct": false },
+            { "text": "2400 km.", "correct": false },
+            { "text": "1200 km.", "correct": false }
+        ]
+    },
+    {
+        "question": "600 Central European Summer Time (CEST) equals... ",
+        "answers": [
+            { "text": "1500 UTC.", "correct": false },
+            { "text": "1600 UTC.", "correct": false },
+            { "text": "1700 UTC.", "correct": false },
+            { "text": "1400 UTC.", "correct": true }
+        ]
+    },
+    {
+        "question": "700 Central European Time (CET) equals... ",
+        "answers": [
+            { "text": "1500 UTC.", "correct": false },
+            { "text": "1800 UTC.", "correct": false },
+            { "text": "1600 UTC.", "correct": true },
+            { "text": "1700 UTC. ", "correct": false }
+        ]
+    },
+    {
+        "question": "On which position is the Aerodrome of Linz (LOWL) located?",
+        "figure": "nav_2.png",
+        "answers": [
+            { "text": "N48\u00b014', E014\u00b011'.", "correct": true },
+            { "text": "N48\u00b013', E014\u00b006'.", "correct": false },
+            { "text": "N48\u00b010', E014\u00b002'.", "correct": false },
+            { "text": "N48\u00b012', E013\u00b020'.", "correct": false }
+        ]
+    },
+    {
+        "question": "The city of Hamburg is located on meridian 10\u00b0E, using a standard time of UTC + 1 h or UTC + 2 h (summer daylight savings).\nWhich of the following statements is correct for an arbitrary time during one year?UTC: Universal Time CoordinatedLMT: Local mean timeST: Standard time ",
+        "answers": [
+            {
+                "text": "UTC, LMT and ST always have different values during the whole year",
+                "correct": true
+            },
+            {
+                "text": "LMT and ST are always the same, only the value of UTC is different",
+                "correct": false
+            },
+            {
+                "text": "UTC and ST arealways the same, only the value of LMT is different",
+                "correct": false
+            },
+            {
+                "text": "UTC and ST are different, ST equals LMT once a day",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is located at N48\u00b000', E013\u00b016'?",
+        "answers": [
+            { "text": "A compulsory reporting point.", "correct": true },
+            { "text": "A village.", "correct": false },
+            { "text": "A city.", "correct": false },
+            { "text": "A peak.", "correct": false }
+        ]
+    },
+    {
+        "question": "An aircraft is located at a position east of the 180\u00b0 meridian heading towards a position west of this meridian.\nWhich statement is correct? ",
+        "answers": [
+            {
+                "text": "The aircraft passes the dateline and the date increases by one day",
+                "correct": true
+            },
+            {
+                "text": "The aircraft passes the dateline and the date decreases by one day",
+                "correct": false
+            },
+            {
+                "text": "The aircraft passes the dateline and the date decreases by two days",
+                "correct": false
+            },
+            {
+                "text": "The aircraft passes the dateline and the date increases by two days",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The term 'sunrise' is defined as... ",
+        "answers": [
+            {
+                "text": "the point in time when an observer for the first time on the particular day is able to see the upper edge of the sun disk.",
+                "correct": true
+            },
+            {
+                "text": "the point in time when an observer for the first time on the particular day is able to see the full sun disk.",
+                "correct": false
+            },
+            {
+                "text": "the point in time when an observer for the first time on the particular day is able to see half of the sun disk.",
+                "correct": false
+            },
+            {
+                "text": "the point in time when an observer for the first time on the particular day is able to see the centre of the sun disk.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The term 'sunset' is defined as... ",
+        "answers": [
+            {
+                "text": "the point in time when the upper edge of the sun disk disappears below the horizon.",
+                "correct": true
+            },
+            {
+                "text": "the point in time when the lower edge of the sun disk disappears below the horizon.",
+                "correct": false
+            },
+            {
+                "text": "the point in time when the centre of the sun disk disappears below the horizon.",
+                "correct": false
+            },
+            {
+                "text": "the point in time when the first part of the sun disk disappears below the horizon.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Given:TC: 032\u00b0; WCA: +11\u00b0; DEV: 001\u00b0 W; CH: 049\u00b0What are TH, VAR und MH?",
+        "answers": [
+            {
+                "text": "TH: 043\u00b0.\nVAR: 005\u00b0 W.\nMH: 048\u00b0.",
+                "correct": true
+            },
+            {
+                "text": "TH: 043\u00b0.\nVAR: 005\u00b0 E.\nMH: 048\u00b0.",
+                "correct": false
+            },
+            {
+                "text": "TH: 048\u00b0.\nVAR: 005\u00b0 E.\nMH: 050\u00b0.",
+                "correct": false
+            },
+            {
+                "text": "TH: 048\u00b0.\nVAR: 005\u00b0 W.\nMH: 043\u00b0.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Given:TC: 105\u00b0; WCA: +009\u00b0; MH: 119\u00b0; CH: 120\u00b0What are VAR andDEV?",
+        "answers": [
+            { "text": "VAR: 005\u00b0 E.\nDEV: -001\u00b0.", "correct": false },
+            { "text": "VAR: 005\u00b0 E.\nDEV: +001\u00b0.", "correct": false },
+            { "text": "VAR: 005\u00b0 W.\nDEV: +001\u00b0.", "correct": false },
+            { "text": "VAR: 005\u00b0 W.\nDEV: -001\u00b0.", "correct": true }
+        ]
+    },
+    {
+        "question": "Given:TC: 179\u00b0; VAR: 004\u00b0 E; DEV: +002\u00b0What are MC and CC?",
+        "answers": [
+            { "text": "MC: 183\u00b0.\nCC: 185\u00b0.", "correct": false },
+            { "text": "MC: 185\u00b0.\nCC: 183\u00b0.", "correct": false },
+            { "text": "MC: 175\u00b0.\nCC: 173\u00b0.", "correct": true },
+            { "text": "MC: 175\u00b0.\nCC: 177\u00b0.", "correct": false }
+        ]
+    },
+    {
+        "question": "Given:VAR: 005\u00b0 E; MC: 232\u00b0; DEV: +001\u00b0What are TC and CC?",
+        "answers": [
+            { "text": "TC: 227\u00b0.\nCC: 231\u00b0.", "correct": false },
+            { "text": "TC: 227\u00b0.\nCC: 233\u00b0.", "correct": false },
+            { "text": "TC: 237\u00b0.\nCC: 231\u00b0.", "correct": true },
+            { "text": "TC: 237\u00b0.\nCC: 233\u00b0.", "correct": false }
+        ]
+    },
+    {
+        "question": "Which formula is correct to calculate the magnetic course (MC)? ",
+        "answers": [
+            { "text": "MC = CC -DEV", "correct": false },
+            { "text": "MC = TC -VAR", "correct": true },
+            { "text": "MC = TC + VAR", "correct": false },
+            { "text": "MC = TH -VAR", "correct": false }
+        ]
+    },
+    {
+        "question": "Which formula is correct to calculate the magnetic heading (MH)?",
+        "answers": [
+            { "text": "MH = TH + VAR", "correct": false },
+            { "text": "MH = CH + DEV", "correct": true },
+            { "text": "MH = TC -VAR", "correct": false },
+            { "text": "MH = MC -WCA", "correct": false }
+        ]
+    },
+    {
+        "question": "What is the value on the compass card of the direction south-southeast?  ",
+        "answers": [
+            { "text": "135\u00b0", "correct": false },
+            { "text": "157.5\u00b0", "correct": true },
+            { "text": "155.7\u00b0", "correct": false },
+            { "text": "180\u00b0", "correct": false }
+        ]
+    },
+    {
+        "question": "What is the value on the compass card of the direction south-southwest? ",
+        "answers": [
+            { "text": "200\u00b0", "correct": false },
+            { "text": "220\u00b0", "correct": false },
+            { "text": "202.5\u00b0", "correct": true },
+            { "text": "222\u00b0", "correct": false }
+        ]
+    },
+    {
+        "question": "Given:TC: 168\u00b0; WCA: +012\u00b0; MH: 178\u00b0; CH 176\u00b0What are TH and VAR?",
+        "answers": [
+            { "text": "TH: 180\u00b0.\nVAR: 002\u00b0 W.", "correct": false },
+            { "text": "TH: 180\u00b0.\nVAR: 002\u00b0 E.", "correct": true },
+            { "text": "TH: 152\u00b0.\nVAR: 002\u00b0 W.", "correct": false },
+            { "text": "TH: 152\u00b0.\nVAR: 002\u00b0 E.", "correct": false }
+        ]
+    },
+    {
+        "question": "Given:TC: 168\u00b0; WCA: +012\u00b0; MH: 178\u00b0; CH 176\u00b0What are VAR and DEV?",
+        "answers": [
+            { "text": "VAR: 002\u00b0 W.\nDEV: -002\u00b0.", "correct": false },
+            { "text": "VAR: 002\u00b0 E.\nDEV: +002\u00b0.", "correct": true },
+            { "text": "VAR: 002\u00b0 W.\nDEV: +002\u00b0.", "correct": false },
+            { "text": "VAR: 002\u00b0 E.\nDEV: -002\u00b0.", "correct": false }
+        ]
+    },
+    {
+        "question": "What is the correct formula to calculate the magnetic course (MC)? ",
+        "answers": [
+            { "text": "MC = CH + DEV", "correct": false },
+            { "text": "MC = MH -WCA", "correct": true },
+            { "text": "MC = TC + VAR", "correct": false },
+            { "text": "MC = CC -DEV", "correct": false }
+        ]
+    },
+    {
+        "question": "The true course of the direction north-northwest equals... ",
+        "answers": [
+            { "text": "337.5\u00b0", "correct": true },
+            { "text": "315.5\u00b0", "correct": false },
+            { "text": "330.5\u00b0", "correct": false },
+            { "text": "345.5\u00b0", "correct": false }
+        ]
+    },
+    {
+        "question": "The true course of the direction north-northeast equals... ",
+        "answers": [
+            { "text": "022.5\u00b0", "correct": true },
+            { "text": "45.5\u00b0", "correct": false },
+            { "text": "037.5\u00b0", "correct": false },
+            { "text": "067.5\u00b0", "correct": false }
+        ]
+    },
+    {
+        "question": "The term 'compass north' (CN) is defined as... ",
+        "answers": [
+            {
+                "text": "the reading of the northern direction on the magnetic compass on board the aircraft.",
+                "correct": true
+            },
+            {
+                "text": "the angle between the aircraft heading and magnetic north.",
+                "correct": false
+            },
+            {
+                "text": "The most northerly part of the magnetic compass in the aircraft, where the reading takes place.",
+                "correct": false
+            },
+            {
+                "text": "The direction from an arbitrary point on Earth to the geographical North Pole.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5.5 NM equal... ",
+        "answers": [
+            { "text": "10 km.", "correct": true },
+            { "text": "1000 m.", "correct": false },
+            { "text": "3300 m.", "correct": false },
+            { "text": "33 km.", "correct": false }
+        ]
+    },
+    {
+        "question": "The magnetic north pole is located... ",
+        "answers": [
+            { "text": "in the arctis of Canada.", "correct": true },
+            { "text": "south of Newfoundland.", "correct": false },
+            { "text": "east of Norway.", "correct": false },
+            { "text": "in the mountains of Alaska.", "correct": false }
+        ]
+    },
+    {
+        "question": "Which statement is correct with regard to the term 'Variation' (VAR) and its value? ",
+        "answers": [
+            {
+                "text": "Its value depends, among others, on the location",
+                "correct": true
+            },
+            {
+                "text": "Its value is constant everywhere on Earth",
+                "correct": false
+            },
+            {
+                "text": "Its value is a direct function of the longitude",
+                "correct": false
+            },
+            {
+                "text": "Its value depends on the magnetic field of the aircraft",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which are the properties of a conformal projection chart? ",
+        "answers": [
+            {
+                "text": "The scale on an arbitrary point must be independent of direction and the angle between longitudes and latitudes on the chart is always 90\u00b0",
+                "correct": true
+            },
+            {
+                "text": "Great circles must be straight lines, the angle between longitudes and latitudes on the chart is always 90\u00b0 and the scale on an arbitrary point must be independent of direction",
+                "correct": false
+            },
+            {
+                "text": "The scale on an arbitrary point must be independent of direction and great circles must be straight lines out of the centre of the chart",
+                "correct": false
+            },
+            {
+                "text": "The scale on an arbitrary point must be independent of direction and the angle between longitudes and latitudes on the chart is not necessarily equal to 90\u00b0",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which answer states the correct correlation between number and chart symbols?",
+        "figure": "nav_17.png",
+        "answers": [
+            { "text": "1: VOR2: VOR/DME3: VORTAC4: NDB", "correct": true },
+            { "text": "1: VOR/DME2: VOR3: VORTAC4: NDB", "correct": false },
+            { "text": "1: VORTAC2: VOR/DME3: VOR4: NDB", "correct": false },
+            { "text": "1: VOR2: VOR/DME3: NDB4: VORTAC", "correct": false }
+        ]
+    },
+    {
+        "question": "An aeroplane travels 50 NM in 42 minutes.\nThe ground speed (GS) equals... ",
+        "answers": [
+            { "text": "132 km/h.", "correct": true },
+            { "text": "74 km/h.", "correct": false },
+            { "text": "80 km/h.", "correct": false },
+            { "text": "71 km/h.", "correct": false }
+        ]
+    },
+    {
+        "question": "An aircraft travels 10 km in 1 minute and 45 seconds. The ground speed (GS) equals...",
+        "answers": [
+            { "text": "343 km/h.", "correct": true },
+            { "text": "343 kt.", "correct": false },
+            { "text": "185 km/h.", "correct": false },
+            { "text": "100 kt.", "correct": false }
+        ]
+    },
+    {
+        "question": "A climb rate of 900 ft/min equals...",
+        "answers": [
+            { "text": "4.5 m/sec.", "correct": true },
+            { "text": "14.8 m/sec.", "correct": false },
+            { "text": "6.7 m/sec.", "correct": false },
+            { "text": "5.4 m/sec.", "correct": false }
+        ]
+    },
+    {
+        "question": "A climb rate of 2900 ft/min equals...",
+        "answers": [
+            { "text": "4.5 m/sec.", "correct": false },
+            { "text": "14.8 m/sec.", "correct": true },
+            { "text": "6.7 m/sec.", "correct": false },
+            { "text": "16.8 m/sec.", "correct": false }
+        ]
+    },
+    {
+        "question": "A climb rate of 1100 ft/min equals...",
+        "answers": [
+            { "text": "4.5 m/sec.", "correct": false },
+            { "text": "14.8 m/sec.", "correct": false },
+            { "text": "6.7 m/sec.", "correct": false },
+            { "text": "5.6 m/sec.", "correct": true }
+        ]
+    },
+    {
+        "question": "An aircraft is following a true heading (TH) of 250\u00b0 at a ground speed (GS) of 120 kt. The wind vector is 010\u00b0/30 kt. The true course (TC) equals...",
+        "answers": [
+            { "text": "237\u00b0.", "correct": true },
+            { "text": "263\u00b0.", "correct": false },
+            { "text": "257\u00b0.", "correct": false },
+            { "text": "243\u00b0.", "correct": false }
+        ]
+    },
+    {
+        "question": "An aircraft is following a true heading (TH) of 290\u00b0 at a true airspeed (TAS) of 150 kt. The wind vector is 260\u00b0/20 kt. The true course (TC) equals...",
+        "answers": [
+            { "text": "294\u00b0.", "correct": true },
+            { "text": "286\u00b0.", "correct": false },
+            { "text": "297\u00b0.", "correct": false },
+            { "text": "299\u00b0.", "correct": false }
+        ]
+    },
+    {
+        "question": "An aircraft is following a true course (TC) of 140\u00b0 at a ground speed (GS) of 120 kt. The true airspeed (TAS) is 150 kt, the true heading (TH) is 150\u00b0.\nThe wind vector (W/WS) equals...",
+        "answers": [
+            { "text": "183\u00b0 / 38 kts.", "correct": true },
+            { "text": "200\u00b0 / 20 kts.", "correct": false },
+            { "text": "220\u00b0 / 30 kts.", "correct": false },
+            { "text": "225\u00b0 / 16 kts.", "correct": false }
+        ]
+    },
+    {
+        "question": "A well-known ground feature along the flight track is passed 5 minutes ahead of the planned flight schedule. The expected ground speed was 120 kts and the distance of the previously flown leg was 30 NM.\nThe wind component (WC) equals... ",
+        "answers": [
+            { "text": "60 kts tailwind.", "correct": true },
+            { "text": "25 kts tailwind.", "correct": false },
+            { "text": "20 kts tailwind.", "correct": false },
+            { "text": "18 kts tailwind.", "correct": false }
+        ]
+    },
+    {
+        "question": "During a flight the following values are determined:True course (TC): 120\u00b0.\nGround speed (GS): 140 kt.\nTrue heading (TH): 115\u00b0.\nTrue airspeed (TAS): 150 kt.\nThe wind vector equals...",
+        "answers": [
+            { "text": "65\u00b0 / 16 kts.", "correct": true },
+            { "text": "85\u00b0 / 24 kts.", "correct": false },
+            { "text": "65\u00b0 / 24 kts.", "correct": false },
+            { "text": "85\u00b0 / 16 kts.", "correct": false }
+        ]
+    },
+    {
+        "question": "Which answer states kinds of modulation? ",
+        "answers": [
+            {
+                "text": "Amplitude modulation, frequency modulation, phase modulation",
+                "correct": true
+            },
+            {
+                "text": "Frequency modulation, cycle modulation, hertz modulation",
+                "correct": false
+            },
+            {
+                "text": "Phase modulation, hertz modulation, amplitude modulation",
+                "correct": false
+            },
+            {
+                "text": "Cycle modulation, phase modulation, frequency modulation",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Given:QDM: 279\u00b0VAR: 5\u00b0 WDEV: 5\u00b0 E\nThe QDR equals...",
+        "answers": [
+            { "text": "094\u00b0.", "correct": false },
+            { "text": "274\u00b0.", "correct": false },
+            { "text": "089\u00b0.", "correct": false },
+            { "text": "099\u00b0.", "correct": true }
+        ]
+    },
+    {
+        "question": "Given:QDM: 300\u00b0VAR: 5\u00b0 EDEV: 5\u00b0 W\nThe QDR equals...",
+        "answers": [
+            { "text": "125\u00b0.", "correct": false },
+            { "text": "120\u00b0.", "correct": true },
+            { "text": "305\u00b0.", "correct": false },
+            { "text": "130\u00b0.", "correct": false }
+        ]
+    },
+    {
+        "question": "The accuracy of a VHF direction finder (VDF) could be affected by... ",
+        "answers": [
+            { "text": "fading.", "correct": false },
+            { "text": "propagation over irregularsurfaces.", "correct": false },
+            { "text": "coastline effect.", "correct": false },
+            {
+                "text": "propagation errors within the atmosphere.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Fading occurs mainly... ",
+        "answers": [
+            { "text": "in the daytime.", "correct": false },
+            { "text": "at midday.", "correct": false },
+            { "text": "in the late afternoon.", "correct": false },
+            { "text": "during the night.", "correct": true }
+        ]
+    },
+    {
+        "question": "Which phenomenon does NOT affect the accuracy of a VOR? ",
+        "answers": [
+            { "text": "Cone of silence", "correct": false },
+            { "text": "High terrain surrounding the VOR", "correct": false },
+            { "text": "Fading", "correct": true },
+            { "text": "Transmitter altitude", "correct": false }
+        ]
+    },
+    {
+        "question": "In what frequency band do DMEs operate? ",
+        "answers": [
+            { "text": "HF", "correct": false },
+            { "text": "VHF", "correct": false },
+            { "text": "UHF", "correct": true },
+            { "text": "SHF", "correct": false }
+        ]
+    },
+    {
+        "question": "The maximum number of aircraft obtaining a distance from distance measuring equipment (DME) at the same time is approximately... ",
+        "answers": [
+            { "text": "50.", "correct": false },
+            { "text": "70.", "correct": false },
+            { "text": "100.", "correct": true },
+            { "text": "150.", "correct": false }
+        ]
+    },
+    {
+        "question": "The DME distance error increases... ",
+        "answers": [
+            { "text": "when approaching the DME station.", "correct": true },
+            { "text": "when departing the DME station.", "correct": false },
+            {
+                "text": "when circling around the DME station.",
+                "correct": false
+            },
+            { "text": "when descending.", "correct": false }
+        ]
+    },
+    {
+        "question": "Ground radar information is displayed... ",
+        "answers": [
+            {
+                "text": "on a computer display which has to be located next to the secondary surveillance radar screen.",
+                "correct": false
+            },
+            {
+                "text": "on a computer display which is able to display further optional information (e.g. airspaces).",
+                "correct": true
+            },
+            {
+                "text": "on a digital display which shows all relevant aircraft data.",
+                "correct": false
+            },
+            {
+                "text": "on an information strip which is printed on request.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The transponder code in case of an emergency situation is... ",
+        "answers": [
+            { "text": "7000.", "correct": false },
+            { "text": "7500.", "correct": false },
+            { "text": "7600.", "correct": false },
+            { "text": "7700.", "correct": true }
+        ]
+    },
+    {
+        "question": "The \"global positioning system\" (GPS) consists of which segments? ",
+        "answers": [
+            {
+                "text": "Space segment, ground (control) segment, user segment",
+                "correct": true
+            },
+            {
+                "text": "Ground (control) segment, confirmation segment, flight segment",
+                "correct": false
+            },
+            {
+                "text": "User segment, flight segment, space segment",
+                "correct": false
+            },
+            {
+                "text": "Confirmation segment, user segment, space segment",
+                "correct": false
+            }
+        ]
+    },
+    {
         "question": "The rotational axis of the Earth runs through the... ",
         "answers": [
             {

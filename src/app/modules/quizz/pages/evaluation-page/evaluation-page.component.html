@@ -1,6 +1,12 @@
 <div class="container">
-    <h1>Finished!</h1>
-    <p>Total correct: {{ totalCorrect }} out of: {{ total }}</p>
+    <h1 class="passed d-flex align-items-center" *ngIf="hasPassed()">
+        Passed <mat-icon class="ml-3">thumb_up</mat-icon>
+    </h1>
+    <h1 class="failed d-flex align-items-center" *ngIf="!hasPassed()">
+        Failed <mat-icon class="ml-3">thumb_down</mat-icon>
+    </h1>
+    <h2>Score: {{ getScore() }}%</h2>
+    <p>Correct: {{ totalCorrect }} / {{ total }}</p>
     <button routerLink="/" class="mt-5" color="primary" mat-raised-button>
         Go back home
     </button>

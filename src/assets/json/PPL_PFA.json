@@ -1,5 +1,706 @@
 [
     {
+        "question": "With regard to the forces acting, how can stationary gliding be described? ",
+        "answers": [
+            {
+                "text": "The sum of air forces compensates the gravity force",
+                "correct": true
+            },
+            {
+                "text": "The sum of air forces acts along the direction of air flow",
+                "correct": false
+            },
+            {
+                "text": "The lift force compensates the drag force",
+                "correct": false
+            },
+            {
+                "text": "The sum the air forces acts along with the lift force",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the result of extending flaps with increasing aerofoil camber? ",
+        "answers": [
+            { "text": "Minimum speed descreases", "correct": true },
+            { "text": "Minimum speed increases", "correct": false },
+            { "text": "C.\nG. position moves forward", "correct": false },
+            { "text": "Maximum permissable speed increases", "correct": false }
+        ]
+    },
+    {
+        "question": "Following a single-wing stall and pitch-down moment, how can a spin be prevented? ",
+        "answers": [
+            {
+                "text": "Rudder opposite lower wing, releasing elevator to build up speed",
+                "correct": true
+            },
+            {
+                "text": "Pulling the elevator to bring the plane back to normal attitude",
+                "correct": false
+            },
+            {
+                "text": "Pushing the elevator to build up speed to re-attach airflow on wings",
+                "correct": false
+            },
+            {
+                "text": "Deflect all rudders opposite to lower wing",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Considering longitudinal stability, which C.\nG. position is most dangerous with a normal gliding plane? ",
+        "answers": [
+            {
+                "text": "Position beyond the rear C.\nG. limit",
+                "correct": true
+            },
+            {
+                "text": "Position beyond the front C.\nG. limit",
+                "correct": false
+            },
+            {
+                "text": "Position far back within permissable C.\nG. limits",
+                "correct": false
+            },
+            {
+                "text": "Position too far aside permissable C.\nG. limits.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which are the correct parameters of the International Standard Atmosphere (ISA)? ",
+        "answers": [
+            {
+                "text": "1013.25 hPa at MSL, 0\u00b0 C at MSL, environmental lapse rate 2\u00b0/1000 ft",
+                "correct": false
+            },
+            {
+                "text": "1000 hPa at MSL, +15\u00b0 C at MSL, environmental lapse rate 2\u00b0/100 m",
+                "correct": false
+            },
+            {
+                "text": "1013.25 hPa at 36000 ft, -56,5\u00b0 C at the tropopause, environmental lapse rate 2\u00b0/1000 ft",
+                "correct": false
+            },
+            {
+                "text": "1013.25 hPa at MSL, +15\u00b0 C at MSL, environmental lapse rate 2\u00b0/1000 ft",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "The angle between the chord line and the direction of the oncoming airflow is called... ",
+        "answers": [
+            { "text": "angle of stream.", "correct": false },
+            { "text": "angle of incidence.", "correct": false },
+            { "text": "angle of attack.", "correct": true },
+            { "text": "angle of lift.", "correct": false }
+        ]
+    },
+    {
+        "question": "Whichtype of boundary layer does the figure show?",
+        "answers": [
+            { "text": "Laminar boundary layer", "correct": true },
+            { "text": "Turbulent boundary layer", "correct": false },
+            { "text": "Separated boundary layer", "correct": false },
+            { "text": "Interference layer", "correct": false }
+        ]
+    },
+    {
+        "question": "Which type of boundary layer does the figure show?",
+        "figure": "pfa_7.png",
+        "answers": [
+            { "text": "Laminar boundary layer", "correct": true },
+            { "text": "Turbulent boundary layer", "correct": false },
+            { "text": "Separated boundary layer", "correct": false },
+            { "text": "Interference layer", "correct": false }
+        ]
+    },
+    {
+        "question": "Which type of boundary layer does the figure show?",
+        "figure": "pfa_8.png",
+        "answers": [
+            { "text": "Laminar boundary layer", "correct": false },
+            { "text": "Turbulent boundary layer", "correct": true },
+            { "text": "Separated boundary layer", "correct": false },
+            { "text": "Interference layer", "correct": false }
+        ]
+    },
+    {
+        "question": "The start of vortex development is created during which phase of flight? ",
+        "answers": [
+            {
+                "text": "While setting take-off power during take-off run",
+                "correct": false
+            },
+            {
+                "text": "While setting flaps to lower position",
+                "correct": false
+            },
+            {
+                "text": "As soon as the aircraft starts moving",
+                "correct": false
+            },
+            {
+                "text": "When lift is being generated during rotation",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Which property is specific for a streamlined shape as compared to other shapes? ",
+        "answers": [
+            {
+                "text": "With other parameters remaining constant, it shows the lowest drag",
+                "correct": true
+            },
+            {
+                "text": "Besides drag it always produces lift",
+                "correct": false
+            },
+            {
+                "text": "With other parameters remaining constant, it shows the highest drag",
+                "correct": false
+            },
+            {
+                "text": "Its drag is independent of the airflow speed",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following options describes the pressure pattern at a lift-generating wing profile passed by airflow? ",
+        "answers": [
+            {
+                "text": "Pressure below remains unchanged, lower pressure is created above the profile",
+                "correct": false
+            },
+            {
+                "text": "High pressure is created above, lower pressure below the profile",
+                "correct": false
+            },
+            {
+                "text": "Low pressure is created above, higher pressure below the profile",
+                "correct": true
+            },
+            {
+                "text": "Pressure above remains unchanged, higher pressure is created below the profile",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "During a regular flight, shortly before stalling the aircraft, what is approximately directly proportional to the lift of the wing? ",
+        "answers": [
+            { "text": "Angle of attack", "correct": true },
+            { "text": "Angle of incidence", "correct": false },
+            { "text": "Aileron deflection", "correct": false },
+            { "text": "Elevator deflection", "correct": false }
+        ]
+    },
+    {
+        "question": "Witha constant angle of incidence, how is the change of the profile shape called? ",
+        "answers": [
+            { "text": "Aspect ratio", "correct": false },
+            { "text": "Geometric washout", "correct": false },
+            { "text": "Wing span", "correct": false },
+            { "text": "Aerodynamic washout", "correct": true }
+        ]
+    },
+    {
+        "question": "If you double the airflow speed, how does the parasite drag coefficient change? ",
+        "answers": [
+            { "text": "It is quadrupled", "correct": false },
+            { "text": "It is doubled", "correct": false },
+            { "text": "It does not change", "correct": true },
+            { "text": "It is octuplicated", "correct": false }
+        ]
+    },
+    {
+        "question": "Induced drag is generated... ",
+        "answers": [
+            { "text": "at the outer part of the ailerons.", "correct": false },
+            { "text": "at the trailing edge of the wing.", "correct": true },
+            { "text": "at the front part of the aisle.", "correct": false },
+            { "text": "at the lower part of the gear.", "correct": false }
+        ]
+    },
+    {
+        "question": "What statement about parasite drag is correct? ",
+        "answers": [
+            {
+                "text": "Parasite drag increases with increasing airspeed",
+                "correct": true
+            },
+            {
+                "text": "Parasite drag decreases with increasing airspeed",
+                "correct": false
+            },
+            {
+                "text": "Parasite drag has a minimum at a certain speed and increases at higher as well as lower speeds",
+                "correct": false
+            },
+            {
+                "text": "Parasite drag has a maximum at a certain speed and decreases at higher as well as lower speeds",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of drag is directly connected to lift-generation on an aerofoil? ",
+        "answers": [
+            { "text": "Induced drag", "correct": true },
+            { "text": "Skin-friction dra", "correct": false },
+            { "text": "Parasite drag", "correct": false },
+            { "text": "Interference drag", "correct": false }
+        ]
+    },
+    {
+        "question": "The total drag acts in the direction of... ",
+        "answers": [
+            { "text": "the airflow.", "correct": true },
+            { "text": "the chord line.", "correct": false },
+            {
+                "text": "the longitudinal axis of the airplane.",
+                "correct": false
+            },
+            { "text": "the horizon.", "correct": false }
+        ]
+    },
+    {
+        "question": "The total drag consists of which parts of drag? ",
+        "answers": [
+            { "text": "Induced drag and friction drag", "correct": false },
+            { "text": "Parasite drag and interference drag", "correct": false },
+            { "text": "Friction drag and interference drag", "correct": false },
+            { "text": "Parasite drag and induced drag", "correct": true }
+        ]
+    },
+    {
+        "question": "Which statement about total drag is correct? ",
+        "answers": [
+            {
+                "text": "Total drag increases with increasing airspeed",
+                "correct": false
+            },
+            {
+                "text": "Total drag decreases with increasing airspeed",
+                "correct": false
+            },
+            {
+                "text": "Total drag has a minimum at a certain speed and increases at higher as well as lower speeds",
+                "correct": true
+            },
+            {
+                "text": "Total drag has a maximum at a certain speed and decreases at higher as well as lower speeds",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What influence does the ground effect have on the landing distance? ",
+        "answers": [
+            {
+                "text": "The landing distance decreases in any case",
+                "correct": false
+            },
+            {
+                "text": "The landing distance increases in case of tailwind",
+                "correct": false
+            },
+            {
+                "text": "The landing distance increases in any case",
+                "correct": true
+            },
+            {
+                "text": "The landing distance decreases in case of tailwind",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "If the angle of attack increases, at which part of the wing will the stall begin? ",
+        "answers": [
+            { "text": "Bottom side near theleading edge", "correct": false },
+            { "text": "Top side near the trailing edge", "correct": true },
+            { "text": "Bottom side near the trailing edge", "correct": false },
+            { "text": "Top side near the leading edge", "correct": false }
+        ]
+    },
+    {
+        "question": "Stall speed... ",
+        "answers": [
+            { "text": "increases with increasing weight.", "correct": true },
+            { "text": "decreases with increasing weight.", "correct": false },
+            { "text": "doesnot depend on the weight.", "correct": false },
+            { "text": "increases with increasing wing span.", "correct": false }
+        ]
+    },
+    {
+        "question": "Flap extention causes... ",
+        "answers": [
+            {
+                "text": "an increased glide angle and an increased minimum speed.",
+                "correct": false
+            },
+            {
+                "text": "a decreased glide angle and an increased minimum speed.",
+                "correct": false
+            },
+            {
+                "text": "a decreased glide angle and a decreased minimum speed.",
+                "correct": true
+            },
+            {
+                "text": "an increased glide angle and decreased minimum speed.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What kind of landing aids may not be retracted suddenly near the ground? ",
+        "answers": [
+            { "text": "Spoilers", "correct": false },
+            { "text": "Airbrakes", "correct": false },
+            { "text": "Flaps", "correct": true },
+            { "text": "Schempp-Hirth flaps", "correct": false }
+        ]
+    },
+    {
+        "question": "The increase in lift from a landing flap is based on... ",
+        "answers": [
+            {
+                "text": "an increase of the effective angle of attack.",
+                "correct": true
+            },
+            { "text": "a decrease of the form drag.", "correct": false },
+            { "text": "a decrease of the angle of attack.", "correct": false },
+            { "text": "a decrease of the induced drag.", "correct": false }
+        ]
+    },
+    {
+        "question": "Why are the flaps usually not fully extended at take-off? ",
+        "answers": [
+            {
+                "text": "Because the aeroplane would have a too heavy nose-down moment",
+                "correct": false
+            },
+            { "text": "Because the drag would be too high", "correct": true },
+            { "text": "Because the lift would be too high", "correct": false },
+            {
+                "text": "Becasue the flaps could be overstressed",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What has to be considered when flaps are retracted? ",
+        "answers": [
+            {
+                "text": "Retraction of flaps is always possible without any loss of lift",
+                "correct": false
+            },
+            {
+                "text": "Close to the ground, flaps may only be retracted stepwise at a safe height",
+                "correct": true
+            },
+            {
+                "text": "When approaching too low, flaps should be retracted to provide a better gliding angle",
+                "correct": false
+            },
+            {
+                "text": "When going around, flaps should be fully retracted immediately",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The boundary layer turns from laminar to turbulent at the... ",
+        "answers": [
+            { "text": "separation point.", "correct": false },
+            { "text": "transition point.", "correct": true },
+            { "text": "center of pressure.", "correct": false },
+            { "text": "stagnation point.", "correct": false }
+        ]
+    },
+    {
+        "question": "In icing conditions, at which point will the most ice arise on an aeroplane? ",
+        "answers": [
+            {
+                "text": "On the upper and lower side of the control surfaces",
+                "correct": false
+            },
+            {
+                "text": "On the pitot tube and the static pressure ports",
+                "correct": false
+            },
+            {
+                "text": "On the upper und lower side of the wing's trailing edge",
+                "correct": false
+            },
+            {
+                "text": "On all frontal areas of the airframe, the wings, and the tail",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A statically unstable aeroplane... ",
+        "answers": [
+            { "text": "is always dynamically stable.", "correct": false },
+            {
+                "text": "becomes more stable with a rear centre of gravity.",
+                "correct": false
+            },
+            { "text": "can never be dynamically stable.", "correct": true },
+            {
+                "text": "becomes more stable at higher speeds.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which force does NOT act during straight and level flight? ",
+        "answers": [
+            { "text": "Lift force", "correct": false },
+            { "text": "Centrifugal force", "correct": true },
+            { "text": "Gravitational force", "correct": false },
+            { "text": "Drag force", "correct": false }
+        ]
+    },
+    {
+        "question": "Which constructive feature provides longitudinal stability to an airplane in normal configuration (empennage at tail)? ",
+        "answers": [
+            { "text": "Differential aileron deflection", "correct": false },
+            { "text": "Downforce at the elevator", "correct": true },
+            { "text": "Positive wing dihedral", "correct": false },
+            { "text": "Trim plate at the tailfin", "correct": false }
+        ]
+    },
+    {
+        "question": "An aircraft canmove around which axes? ",
+        "answers": [
+            {
+                "text": "Vertical axis, front axis, longitudinal axis",
+                "correct": false
+            },
+            {
+                "text": "Central axis, vertical axis, longitudinal axis",
+                "correct": false
+            },
+            {
+                "text": "Lateral axis, longitudinal axis, vertical axis",
+                "correct": true
+            },
+            {
+                "text": "Longitudinal axis, vertical axis, front axis",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The elevator deflection for a specific maneuver... ",
+        "answers": [
+            {
+                "text": "is increased with a front centre of gravity.",
+                "correct": true
+            },
+            { "text": "is increased at high speeds.", "correct": false },
+            {
+                "text": "is increased with a rear centre of gravity.",
+                "correct": false
+            },
+            { "text": "is independent of the speed.", "correct": false }
+        ]
+    },
+    {
+        "question": "Deflecting the elevator upwards results in... ",
+        "answers": [
+            { "text": "lowering the aircraft's nose.", "correct": false },
+            {
+                "text": "shifting the center of gravity ahead.",
+                "correct": false
+            },
+            {
+                "text": "shifting the center of gravity backwards.",
+                "correct": false
+            },
+            { "text": "raising the aircraft's nose.", "correct": true }
+        ]
+    },
+    {
+        "question": "Which deflection of the ailerons can be observed during a turn to the left? ",
+        "answers": [
+            { "text": "Both ailerons upwards", "correct": false },
+            { "text": "Both ailerons downwards", "correct": false },
+            {
+                "text": "Left aileron upwards, right aileron downwards",
+                "correct": true
+            },
+            {
+                "text": "Left aileron downwards, right aileron upwards",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which deflection of differential ailerons can be observed during a turn to the right? ",
+        "answers": [
+            {
+                "text": "The right aileron moves down more than the left aileron moves up",
+                "correct": false
+            },
+            {
+                "text": "The right aileron moves up more than the left aileron moves down",
+                "correct": true
+            },
+            {
+                "text": "The right aileron moves up more than the left aileron",
+                "correct": false
+            },
+            {
+                "text": "The right aileron moves down more than the left aileron",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which constructive feature reduces adverse yaw? ",
+        "answers": [
+            { "text": "Differential aileron deflection", "correct": true },
+            { "text": "T-tail", "correct": false },
+            { "text": "Winglets", "correct": false },
+            { "text": "Wing dihedral", "correct": false }
+        ]
+    },
+    {
+        "question": "Which constructive feature provides less stick forces?",
+        "answers": [
+            { "text": "Differential aileron deflection", "correct": false },
+            { "text": "Aerodynamic rudder balance", "correct": true },
+            { "text": "Vortex generators", "correct": false },
+            { "text": "T-tail", "correct": false }
+        ]
+    },
+    {
+        "question": "How can flutter at the controls beprevented?",
+        "answers": [
+            { "text": "Static rudder balance", "correct": true },
+            { "text": "Aerodynamic rudder balance", "correct": false },
+            { "text": "Higher speed", "correct": false },
+            { "text": "Lower speed", "correct": false }
+        ]
+    },
+    {
+        "question": "What is a bendable trim tab? ",
+        "answers": [
+            { "text": "A balance mass at a control surface", "correct": false },
+            { "text": "A term for a rudder balance", "correct": false },
+            { "text": "A trim device adjustable in flight", "correct": false },
+            {
+                "text": "A fixed tab attached to the rudder or the aileron",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "What is the task of trim tabs? ",
+        "answers": [
+            { "text": "Reduction of adverse yaw", "correct": false },
+            { "text": "Ensuring dynamic stability", "correct": false },
+            { "text": "Avoiding permanent stick forces", "correct": true },
+            {
+                "text": "Adjusting bank angle to center of gravity position",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What has to be considered regarding VNE? ",
+        "answers": [
+            { "text": "It must not be exceeded in any case", "correct": true },
+            {
+                "text": "It may be exceeded only in smooth air",
+                "correct": false
+            },
+            {
+                "text": "It may be briefly exceeded in turbulent air",
+                "correct": false
+            },
+            {
+                "text": "It depends on loading and turbulence whether it may be exceeded",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the advantage of a \"constant-speed propeller\" compared to a \"fixed-pitch propeller\"? ",
+        "answers": [
+            {
+                "text": "It is more efficient over a greater speed range",
+                "correct": true
+            },
+            {
+                "text": "It is less susceptible to interference by technical defects",
+                "correct": false
+            },
+            {
+                "text": "It is designed to generate a higher thrust",
+                "correct": false
+            },
+            {
+                "text": "It has a larger surface area and produces more thrust",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "To keep speed and altitude constant during a turn, compared to horizontal flight, the pilot has to... ",
+        "answers": [
+            {
+                "text": "increase the angle of attack and increase the thrust.",
+                "correct": true
+            },
+            {
+                "text": "keep the angle of attack constant and increase the thrust.",
+                "correct": false
+            },
+            {
+                "text": "decrease the angle of attack and increase the thrust.",
+                "correct": false
+            },
+            {
+                "text": "increase the angle of attack and keep the thrust constant.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which statement concerning a flight during a turn is correct? ",
+        "answers": [
+            {
+                "text": "More lift than in straight and level flight is needed",
+                "correct": true
+            },
+            {
+                "text": "The same amount of lift as in straight and level flight is needed",
+                "correct": false
+            },
+            {
+                "text": "Less lift than in straight and level flight is needed.",
+                "correct": false
+            },
+            {
+                "text": "Less lift than in a descent is needed.",
+                "correct": false
+            }
+        ]
+    },
+    {
         "question": "Compared to trailing edge flaps, leading edge devices like Slots... ",
         "answers": [
             {
@@ -142,12 +843,22 @@
         ]
     },
     {
+        "question": "Number 1 in the drawing corresponds to the...",
+        "figure": "pfa_1.png",
+        "answers": [
+            { "text": "chord." },
+            { "text": "chord line.", "correct": true },
+            { "text": "tailing edge." },
+            { "text": "camber line." }
+        ]
+    },
+    {
         "question": "Number 2 in the drawing corresponds to the...",
         "figure": "pfa_1.png",
         "answers": [
+            { "text": "angle of attack." },
             { "text": "chord line." },
             { "text": "chord.", "correct": true },
-            { "text": "angle of attack." },
             { "text": "profile thickness." }
         ]
     },
@@ -155,10 +866,20 @@
         "question": "Number 3 in the drawing corresponds to the...",
         "figure": "pfa_1.png",
         "answers": [
-            { "text": "chord." },
-            { "text": "thickness." },
             { "text": "camber line.", "correct": true },
-            { "text": "chord line." }
+            { "text": "chord. line" },
+            { "text": "chord." },
+            { "text": "thickness." }
+        ]
+    },
+    {
+        "question": "Number 4 in the drawing corresponds to the...",
+        "figure": "pfa_1.png",
+        "answers": [
+            { "text": "camber." },
+            { "text": "thickness.", "correct": true },
+            { "text": "chord line." },
+            { "text": "trailing edge." }
         ]
     },
     {
@@ -232,6 +953,16 @@
         "answers": [
             { "text": "Transition point" },
             { "text": "Stagnation point", "correct": true },
+            { "text": "Center of pressure" },
+            { "text": "Separation point" }
+        ]
+    },
+    {
+        "question": "Which point on the aerofoil is represented by number 2?",
+        "figure": "pfa_2.png",
+        "answers": [
+            { "text": "Transition point", "correct": true },
+            { "text": "Stagnation point" },
             { "text": "Center of pressure" },
             { "text": "Separation point" }
         ]
@@ -468,6 +1199,26 @@
             { "text": "4" },
             { "text": "2" },
             { "text": "3" }
+        ]
+    },
+    {
+        "question": "Which curve represents the parasite drag?",
+        "figure": "pfa_4.png",
+        "answers": [
+            { "text": "1" },
+            { "text": "4" },
+            { "text": "2", "correct": true },
+            { "text": "3" }
+        ]
+    },
+    {
+        "question": "Which curve represents the total drag?",
+        "figure": "pfa_4.png",
+        "answers": [
+            { "text": "1" },
+            { "text": "4" },
+            { "text": "2" },
+            { "text": "3", "correct": true }
         ]
     },
     {
@@ -1207,6 +1958,26 @@
             { "text": "Inverted flight", "correct": true },
             { "text": "Best gliding angle" },
             { "text": "Slow flight" }
+        ]
+    },
+    {
+        "question": "Point number 3 in the figure indicates which flight state?",
+        "figure": "pfa_6.png",
+        "answers": [
+            { "text": "Minimum drag", "correct": true },
+            { "text": "Best gliding angle" },
+            { "text": "Inverted flight" },
+            { "text": "Stall" }
+        ]
+    },
+    {
+        "question": "Point number 4 in the figure indicates which flight state?",
+        "figure": "pfa_6.png",
+        "answers": [
+            { "text": "Minimum drag" },
+            { "text": "Best gliding angle", "correct": true },
+            { "text": "Inverted flight" },
+            { "text": "Stall" }
         ]
     },
     {

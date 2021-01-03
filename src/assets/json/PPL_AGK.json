@@ -1,5 +1,444 @@
 [
     {
+        "question": "What number marks the shock absorber?",
+        "figure": "agk_3.png",
+        "answers": [
+            { "text": "1", "correct": false },
+            { "text": "2", "correct": false },
+            { "text": "3", "correct": false },
+            { "text": "4", "correct": true }
+        ]
+    },
+    {
+        "question": "What is a disadvantage of a retractable landing gear? ",
+        "answers": [
+            { "text": "Higher weight", "correct": true },
+            { "text": "More drag during flight", "correct": false },
+            { "text": "Higher fuel burn", "correct": false },
+            { "text": "Higher approach speed", "correct": false }
+        ]
+    },
+    {
+        "question": "How is the movement of an aircraft around its lateral axis called and by which flight control is this movement primarily initiated? ",
+        "answers": [
+            {
+                "text": "Pitch and it is primarily controlled by the elevator",
+                "correct": true
+            },
+            {
+                "text": "Roll and it is primarily controlled by the ailerons",
+                "correct": false
+            },
+            {
+                "text": "Roll and it is primarily controlled by the rudder",
+                "correct": false
+            },
+            {
+                "text": "Yaw and it is primarily controlled by the rudder",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "In a fuel pump system, what has to be considered, in accordance with the respective manual, before switching to another tank? ",
+        "answers": [
+            { "text": "Shut off ignition", "correct": false },
+            { "text": "Switch on carburettor heating", "correct": false },
+            { "text": "Switch on fuel pump", "correct": true },
+            { "text": "Switch on primer", "correct": false }
+        ]
+    },
+    {
+        "question": "The voltmeter provides an indication of... ",
+        "answers": [
+            {
+                "text": "the electric potential difference in a system in Volt [V].",
+                "correct": true
+            },
+            {
+                "text": "the electric current in a system in Amp\u00e9re [A].",
+                "correct": false
+            },
+            {
+                "text": "the system voltage in Amp\u00e9re [A].",
+                "correct": false
+            },
+            {
+                "text": "the electric current in a system in Volt [V].",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which flight instrument (depending on construction) can be supplied by the onboard power supply? ",
+        "answers": [
+            { "text": "Altimeter", "correct": false },
+            { "text": "Magnetic compass", "correct": false },
+            { "text": "Airspeed indicator", "correct": false },
+            { "text": "Horizontal situation indicator", "correct": true }
+        ]
+    },
+    {
+        "question": "Electrically driven flight instruments are marked with... ",
+        "answers": [
+            { "text": "\"DC\".", "correct": true },
+            { "text": "\"EL\".", "correct": false },
+            { "text": "\"CO\".", "correct": false },
+            { "text": "\"AL\".", "correct": false }
+        ]
+    },
+    {
+        "question": "The \"drain\" procedure should be done in accordance with the flight manual... ",
+        "answers": [
+            { "text": "once a week.", "correct": false },
+            { "text": "before each flight.", "correct": false },
+            { "text": "before the first flight of each day.", "correct": true },
+            { "text": "before each landing.", "correct": false }
+        ]
+    },
+    {
+        "question": "What is the measure of anti-knock restistance in fuel? ",
+        "answers": [
+            { "text": "Heating value", "correct": false },
+            { "text": "Octane rating", "correct": true },
+            { "text": "Flash point", "correct": false },
+            { "text": "Ignition timing", "correct": false }
+        ]
+    },
+    {
+        "question": "What does the octane rating give information about? ",
+        "answers": [
+            { "text": "Suppression of microorganisms", "correct": false },
+            { "text": "Influence on ignition temperature", "correct": true },
+            { "text": "Degradation of static electricity", "correct": false },
+            { "text": "Improvement of storability", "correct": false }
+        ]
+    },
+    {
+        "question": "A result of carburettor icing is...",
+        "answers": [
+            { "text": "a reduction of engine power.", "correct": true },
+            { "text": "an increase of engine power.", "correct": false },
+            { "text": "a dropping oil pressure.", "correct": false },
+            { "text": "a rising oil pressure.", "correct": false }
+        ]
+    },
+    {
+        "question": "Which actions shall be taken if the carburettor temperature gauge migrates into the yellow range? ",
+        "answers": [
+            { "text": "Find cooler air layers", "correct": false },
+            { "text": "Lean the mixture", "correct": false },
+            { "text": "Enrich the mixture", "correct": false },
+            { "text": "Use the carburettor heat", "correct": true }
+        ]
+    },
+    {
+        "question": "What is the advantage of a constant-speed propeller over a fixed propeller? ",
+        "answers": [
+            {
+                "text": "The angleof attack can be manually varied",
+                "correct": false
+            },
+            {
+                "text": "The propeller is optimized for slow and acrobatic flights",
+                "correct": false
+            },
+            {
+                "text": "The angle of attack is adjusted to the flight phase",
+                "correct": true
+            },
+            {
+                "text": "The propeller is optimized for cruise flight",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "With increasing altitude the engine power of a not turbo charged piston engine decreases because the... ",
+        "answers": [
+            { "text": "air temperature decreases.", "correct": false },
+            { "text": "air density decreases.", "correct": true },
+            { "text": "air humidity decreases.", "correct": false },
+            { "text": "atmospheric pressure decreases.", "correct": false }
+        ]
+    },
+    {
+        "question": "With increasing altitude, the air / fuel mixture... ",
+        "answers": [
+            { "text": "becomes richer.", "correct": true },
+            { "text": "becomes more lean.", "correct": false },
+            { "text": "stays constant.", "correct": false },
+            { "text": "becomes liquid.", "correct": false }
+        ]
+    },
+    {
+        "question": "A Bourdon tube is suitable for the measurement of... ",
+        "answers": [
+            { "text": "temperature.", "correct": false },
+            { "text": "weight.", "correct": false },
+            { "text": "pressure.", "correct": true },
+            { "text": "speed.", "correct": false }
+        ]
+    },
+    {
+        "question": "Which value can the pilot derive from the fuel flow gauge? ",
+        "answers": [
+            { "text": "The volume of fuel used per time", "correct": true },
+            { "text": "The fuel pressure", "correct": false },
+            { "text": "The fuel quantity", "correct": false },
+            { "text": "The fuel temperature", "correct": false }
+        ]
+    },
+    {
+        "question": "In case of a blockage of the static ports, the following instruments become unusable:\n\n1. Altimeter\n2. Vertical speed indicator\n3. Airspeed indicator\n4. Artificial horizon ",
+        "answers": [
+            { "text": "1, 2, 4", "correct": false },
+            { "text": "1, 3, 4", "correct": false },
+            { "text": "2, 3, 4", "correct": false },
+            { "text": "1, 2, 3", "correct": true }
+        ]
+    },
+    {
+        "question": "What instrument is connected with the Pitot tube? ",
+        "answers": [
+            { "text": "Airspeed indicator", "correct": true },
+            { "text": "Altimeter", "correct": false },
+            { "text": "Turn coordinator", "correct": false },
+            { "text": "Vertical speed indicator", "correct": false }
+        ]
+    },
+    {
+        "question": "An aircraft cruises at altitude 5000ft on a heading of 180\u00b0 with an indicated airspeed of 100 kt. The wind vector is 180\u00b0 with 30 kt. Neglecting instrument and position errors, which will be the approximate true airspeed (TAS)? ",
+        "answers": [
+            { "text": "110 kt", "correct": true },
+            { "text": "80 kt", "correct": false },
+            { "text": "121 kt", "correct": false },
+            { "text": "70 kt", "correct": false }
+        ]
+    },
+    {
+        "question": "Equal magnetic poles... ",
+        "answers": [
+            { "text": "attract each other.", "correct": false },
+            { "text": "repel each other.", "correct": true },
+            { "text": "do not show a reaction.", "correct": false },
+            { "text": "reverse the polarity.", "correct": false }
+        ]
+    },
+    {
+        "question": "The earth's magnetic field is referenced to... ",
+        "answers": [
+            { "text": "the magnetic north pole.", "correct": true },
+            { "text": "the geographic north pole.", "correct": false },
+            { "text": "the equator.", "correct": false },
+            { "text": "the prime meridian.", "correct": false }
+        ]
+    },
+    {
+        "question": "A magnetic compass is subject to which of the following errors? ",
+        "answers": [
+            {
+                "text": "Variation, deviation, turning and acceleration errors",
+                "correct": true
+            },
+            { "text": "Inclination and declination", "correct": false },
+            {
+                "text": "Declination, conjugation, turning and acceleration errors",
+                "correct": false
+            },
+            { "text": "Gravity and magnetism", "correct": false }
+        ]
+    },
+    {
+        "question": "An aircraft in the northern hemisphere accelerates on a magnetic heading of 090\u00b0.\nThe indication of the direct reading compass... ",
+        "answers": [
+            { "text": "indicates a greater heading.", "correct": false },
+            { "text": "indicates a smaller heading.", "correct": true },
+            { "text": "remains constant.", "correct": false },
+            { "text": "indicates the opposite course.", "correct": false }
+        ]
+    },
+    {
+        "question": "How does the static air pressure change when airflow speed (True Airspeed) is doubled? ",
+        "answers": [
+            { "text": "By a factor of 4", "correct": true },
+            { "text": "By a factor of 2", "correct": false },
+            { "text": "By a factor of 1/2", "correct": false },
+            { "text": "By a factor of 8", "correct": false }
+        ]
+    },
+    {
+        "question": "An aircraft in the northern hemisphere accelerates on a magnetic heading of 270\u00b0.\nWhich reaction do you expect from the the magnetic compass indication? ",
+        "answers": [
+            {
+                "text": "An indication of approximately 300\u00b0",
+                "correct": true
+            },
+            {
+                "text": "An indication of approximately 240\u00b0",
+                "correct": false
+            },
+            {
+                "text": "An indication of approximately 270\u00b0",
+                "correct": false
+            },
+            {
+                "text": "An indication of approximately 090\u00b0",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "An aircraft in the northern hemisphere decelerates on a magnetic heading of 270\u00b0.\nWhich reaction do you expect from the the magnetic compass indication? ",
+        "answers": [
+            {
+                "text": "An indication of approximately 240\u00b0",
+                "correct": true
+            },
+            {
+                "text": "An indication of approximately 300\u00b0",
+                "correct": false
+            },
+            {
+                "text": "An indication of approximately 270\u00b0",
+                "correct": false
+            },
+            {
+                "text": "An indication of approximately 090\u00b0",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What are the reasons for the rotation error of a compass?\n\n1. Deviation\n2. Inclination\n3. Acceleration in a curve\n4. Declination ",
+        "answers": [
+            { "text": "1 and 4", "correct": false },
+            { "text": "3 and 4", "correct": false },
+            { "text": "1 and 2", "correct": false },
+            { "text": "2 and 3", "correct": true }
+        ]
+    },
+    {
+        "question": "The apparent drift of a gyro equals... ",
+        "answers": [
+            { "text": "15\u00b0/h x cos(longitude).", "correct": false },
+            { "text": "13\u00b0/h x sin(latitude).", "correct": false },
+            { "text": "13\u00b0/h x cos(longitude).", "correct": false },
+            { "text": "15\u00b0/h x sin(latitude).", "correct": true }
+        ]
+    },
+    {
+        "question": "The static ports of an airplane are blocked.\nWhich instruments may show wrong indications? ",
+        "answers": [
+            {
+                "text": "Altimeter, vertical speed indicator, airspeed indicator ",
+                "correct": true
+            },
+            {
+                "text": "Airspeed indicator, vertical Speed indicator, slip indicator ",
+                "correct": false
+            },
+            {
+                "text": "Altimeter, slip indicator, direct-reading compass ",
+                "correct": false
+            },
+            {
+                "text": "Vertical speed indicator, altimeter, slip indicator",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The artificial horizon belongs to the... ",
+        "answers": [
+            { "text": "capsule instruments.", "correct": false },
+            { "text": "gyro instruments.", "correct": true },
+            { "text": "engine monitoring instruments. ", "correct": false },
+            { "text": "electrical systems.", "correct": false }
+        ]
+    },
+    {
+        "question": "What error is subjected to the artificial horizon? ",
+        "answers": [
+            { "text": "Gimbal error", "correct": false },
+            { "text": "Hysteresis error", "correct": false },
+            { "text": "Acceleration error", "correct": true },
+            { "text": "Blockage of the Pitot tube", "correct": false }
+        ]
+    },
+    {
+        "question": "Gyros suffer from what kinds of errors? ",
+        "answers": [
+            { "text": "Hysteresis error", "correct": false },
+            { "text": "Gimbal errors", "correct": true },
+            { "text": "Acceleration errors", "correct": false },
+            { "text": "Deviation", "correct": false }
+        ]
+    },
+    {
+        "question": "Unless a directional gyro is slaved to a magnetic sensor (flux gate), its reading needs to be checked and corrected at regular intervals.\nThe main reason for this is... ",
+        "answers": [
+            {
+                "text": "the apparent drift caused by the earth'srotation.",
+                "correct": true
+            },
+            {
+                "text": "the change in magnetic variation as the aircraft changes its position.",
+                "correct": false
+            },
+            {
+                "text": "the precession with which it responds to a force applied to it.",
+                "correct": false
+            },
+            {
+                "text": "the change in power provided to the suction pump as the engine power setting is changed.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The primary flight display (PFD) of an EFIS system may include which of the following information? ",
+        "answers": [
+            {
+                "text": "Attitude, heading, radial, track, approach course, flight director",
+                "correct": true
+            },
+            {
+                "text": "Navigational information, heading and track, bearings, wind direction and speed.",
+                "correct": false
+            },
+            {
+                "text": "Engine oil pressure and temperature, cylinder head temperature, exhaust gas temperature",
+                "correct": false
+            },
+            {
+                "text": "ATC flight plan, active flight management system flight plan, communicatons",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The navigation display (ND) of an EFIS system may include which of the following information? ",
+        "answers": [
+            {
+                "text": "Navigational information, heading and track, bearings, wind, position",
+                "correct": true
+            },
+            {
+                "text": "Attitude, indicated airspeed (IAS), speed trend vector, altitude, vertical speed",
+                "correct": false
+            },
+            {
+                "text": "Engine oil pressure and temperature, cylinder head temperature, exhaust gas temperature",
+                "correct": false
+            },
+            {
+                "text": "ATC flight plan, communicatons with air traffic control (ATC)",
+                "correct": false
+            }
+        ]
+    },
+    {
         "question": "The thickness of the wing is defined as the distance between the lower and the upper side of the wing at the... ",
         "answers": [
             { "text": "most inner part of the wing." },
@@ -624,6 +1063,16 @@
         ]
     },
     {
+        "question": "Which part of the cycle of a four-stroke Otto engine can be seen in the attachment?",
+        "figure": "agk_8.png",
+        "answers": [
+            { "text": "Second stroke -compression" },
+            { "text": "Third stroke -power" },
+            { "text": "Fourth stroke -exhaust", "correct": true },
+            { "text": "First stroke -induction" }
+        ]
+    },
+    {
         "question": "What is likely to be the cause if the engine runs unusually rough while checking the magnetos? ",
         "answers": [
             { "text": "Starter is faulty" },
@@ -800,19 +1249,29 @@
         ]
     },
     {
+        "question": "The angle indicated by arrow number 3 shows the propeller's...",
+        "figure": "agk_7.png",
+        "answers": [
+            { "text": "angle of incidence." },
+            { "text": "angle of attack.", "correct": true },
+            { "text": "geometric wing twist." },
+            { "text": "aerodynamic wing twist." }
+        ]
+    },
+    {
         "question": "How should a power increase be executed on a constant-speed propeller, provided that no other procedure is described in the flight manual? ",
         "answers": [
             {
-                "text": "1) Decrease manifold pressure2) Increase RPM"
+                "text": "1) Decrease manifold pressure 2) Increase RPM"
             },
             {
-                "text": "1) Decrease RPM2) Increase manifold pressure"
+                "text": "1) Decrease RPM 2) Increase manifold pressure"
             },
             {
-                "text": "1) Increase manifold pressure2) Increase RPM"
+                "text": "1) Increase manifold pressure 2) Increase RPM"
             },
             {
-                "text": "1) Increase RPM2) Increase manifold pressure",
+                "text": "1) Increase RPM 2) Increase manifold pressure",
                 "correct": true
             }
         ]
@@ -821,22 +1280,22 @@
         "question": "How should a power decrease be executed on a constant-speed propeller, provided that no other procedure is described in the flight manual?",
         "answers": [
             {
-                "text": "1) Decrease RPM2) Decreasemanifold pressure"
+                "text": "1) Decrease RPM 2) Decreasemanifold pressure"
             },
             {
-                "text": "1) Decrease manifold pressure2) Increase RPM"
+                "text": "1) Decrease manifold pressure 2) Increase RPM"
             },
             {
-                "text": "1) Decrease RPM2) Increase manifold pressure"
+                "text": "1) Decrease RPM 2) Increase manifold pressure"
             },
             {
-                "text": "1) Decrease manifold pressure2) Decrease RPM",
+                "text": "1) Decrease manifold pressure 2) Decrease RPM",
                 "correct": true
             }
         ]
     },
     {
-        "question": "With increasing altitude and unchanged mixture setting, the air/fuel mixture... ",
+        "question": "With increasing altitude and unchanged mixture setting, the air / fuel mixture... ",
         "answers": [
             { "text": "becomes more lean." },
             { "text": "stays constant." },

@@ -1,5 +1,253 @@
 [
     {
+        "question": "The \"E\" in the SHELL model means...",
+        "figure": "hpl_2.png",
+        "answers": [
+            { "text": "effective.", "correct": false },
+            { "text": "enroute.", "correct": false },
+            { "text": "equipment.", "correct": false },
+            { "text": "environment.", "correct": true }
+        ]
+    },
+    {
+        "question": "The \"L\" in the SHELL model means...",
+        "figure": "hpl_2.png",
+        "answers": [
+            { "text": "lift.", "correct": false },
+            { "text": "liveware.", "correct": true },
+            { "text": "loss of control.", "correct": false },
+            { "text": "line check.", "correct": false }
+        ]
+    },
+    {
+        "question": "Which two parameters have to be considered in a risk assessment? ",
+        "answers": [
+            {
+                "text": "Probability of occurrence and own experience",
+                "correct": false
+            },
+            {
+                "text": "Level of familiarity and regulations",
+                "correct": false
+            },
+            {
+                "text": "Severity of outcome and amount insured",
+                "correct": false
+            },
+            {
+                "text": "Probability of occurrence and severity of outcome",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Which gas law is responsible for the decompression sickness (DCS)? ",
+        "answers": [
+            { "text": "Dalton's gas law", "correct": false },
+            { "text": "Bohr's gas law", "correct": false },
+            { "text": "Boyle-Mariotte's gas law", "correct": false },
+            { "text": "Henry's gas law", "correct": true }
+        ]
+    },
+    {
+        "question": "Which kind of risks are associated with the use of handheld pulse oximeters? ",
+        "answers": [
+            {
+                "text": "Pulse oximeters do not work below 10000 ft",
+                "correct": false
+            },
+            {
+                "text": "Hyperventilation is not detected by a pulse oximeter",
+                "correct": true
+            },
+            {
+                "text": "A pulse oximeter can be only used twice",
+                "correct": false
+            },
+            {
+                "text": "Pulse oximeters can interfere with the avionics",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of hypoxia can be caused by high altitude? ",
+        "answers": [
+            { "text": "Hypoxic hypoxia", "correct": true },
+            { "text": "Anaemic hypoxia", "correct": false },
+            { "text": "Histotoxic hypoxia", "correct": false },
+            { "text": "Stagnating hypoxia", "correct": false }
+        ]
+    },
+    {
+        "question": "From about which altitude on does the night vision capability start to diminish? ",
+        "answers": [
+            { "text": "3000 ft", "correct": false },
+            { "text": "5000 ft", "correct": true },
+            { "text": "7000 ft", "correct": false },
+            { "text": "10000 ft", "correct": false }
+        ]
+    },
+    {
+        "question": "Which statement is correct concerning laser attacks on aircraft? ",
+        "answers": [
+            {
+                "text": "There will be an immediate complete loss of eyesight",
+                "correct": false
+            },
+            {
+                "text": "The safe continuation of the flight is endangered",
+                "correct": true
+            },
+            {
+                "text": "The impact is more serious during daytime than during nighttime",
+                "correct": false
+            },
+            {
+                "text": "Electronic systems can be damaged or blocked",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What time is required approximately for the eyes to adapt to brightness? ",
+        "answers": [
+            { "text": "1 minute", "correct": false },
+            { "text": "10 seconds", "correct": true },
+            { "text": "1 second", "correct": false },
+            { "text": "10 minutes", "correct": false }
+        ]
+    },
+    {
+        "question": "What is a Coriolis illusion? ",
+        "answers": [
+            {
+                "text": "Wrong interpretation of altitude during approach",
+                "correct": false
+            },
+            {
+                "text": "Apparent movement of static objects at night",
+                "correct": false
+            },
+            {
+                "text": "False perception of colour due to strong accelerations",
+                "correct": false
+            },
+            {
+                "text": "Heavy vertigo due to head movements during turns",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "The human circadian cycle is based on a cycle of approximately... ",
+        "answers": [
+            { "text": "13 hours.", "correct": false },
+            { "text": "25 hours.", "correct": true },
+            { "text": "10 hours.", "correct": false },
+            { "text": "22 hours.", "correct": false }
+        ]
+    },
+    {
+        "question": "What has to be taken into consideration when comparing medication which is only available on prescription with medication that is available over the counter? ",
+        "answers": [
+            {
+                "text": "Generally both types of medication have to be handled in the same way",
+                "correct": true
+            },
+            {
+                "text": "Medication which is only available on prescription is considered to have an impact on flight performance only if explicitly noted on the package insert",
+                "correct": false
+            },
+            {
+                "text": "Medication which is available over the counter is safe as long asa doctor has not expressed an opinion to the contrary",
+                "correct": false
+            },
+            {
+                "text": "There is a notification requirement for medication which is sold over the counter if it is taken for a period exceeding 10 days",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the follwing documents contain a list of criteria which have an influence on the aeronautical medical certificate or which at least demand an immediate consultation of an aeromedical examiner? ",
+        "answers": [
+            { "text": "Medical certificate", "correct": true },
+            { "text": "Licence", "correct": false },
+            { "text": "Flight log", "correct": false },
+            { "text": "Log book", "correct": false }
+        ]
+    },
+    {
+        "question": "Which of the following options does NOT require an immendiate consultation of an aeromedical examiner? ",
+        "answers": [
+            { "text": "Pregnancy", "correct": false },
+            { "text": "Regular intake of medication", "correct": false },
+            { "text": "Preventive dental screening", "correct": true },
+            { "text": "First prescription of glasses", "correct": false }
+        ]
+    },
+    {
+        "question": "Which statement is correct with regard to the interaction between perception and experience? ",
+        "answers": [
+            {
+                "text": "Experience has a significant influence to our perception",
+                "correct": true
+            },
+            {
+                "text": "The interaction between perception and experience is limited to optical illusions",
+                "correct": false
+            },
+            {
+                "text": "Experience and perception are totally different parts of the perception process",
+                "correct": false
+            },
+            {
+                "text": "The interaction has no relevance for flight safety",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What does the abbreviation \"CFIT\" mean? ",
+        "answers": [
+            { "text": "Controlled Flight Into Terrain", "correct": true },
+            { "text": "Central Flight Instructor Training", "correct": false },
+            { "text": "Cargo Fire in Tail Compartment", "correct": false },
+            { "text": "Company Fuel Index Tool", "correct": false }
+        ]
+    },
+    {
+        "question": "Which of the following attitudes are not hazardous when piloting an aircraft? ",
+        "answers": [
+            { "text": "Macho", "correct": false },
+            { "text": "Impulsivity", "correct": false },
+            { "text": "Infallibility", "correct": false },
+            { "text": "Synergetic", "correct": true }
+        ]
+    },
+    {
+        "question": "Which answer is correct concerning stress? ",
+        "answers": [
+            {
+                "text": "Stress and its different symptoms are irrelevant for flight safety",
+                "correct": false
+            },
+            {
+                "text": "Everybody reacts to stress in the same manner",
+                "correct": false
+            },
+            {
+                "text": "Stress can occur if there seems to be no solution for a given problem",
+                "correct": true
+            },
+            {
+                "text": "Training and experience have no influence on the occurence of stress",
+                "correct": false
+            }
+        ]
+    },
+    {
         "question": "The majority of aviation accidents are caused by... ",
         "answers": [
             { "text": "technical failure." },

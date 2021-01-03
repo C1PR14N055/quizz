@@ -1,4 +1,5 @@
 @import '../../../../themes/vars.scss';
+@import '../../../../themes/colors.scss';
 
 .x-of-y {
     color: #999;
@@ -36,10 +37,10 @@
     .answer {
         pointer-events: none;
         &.correct {
-            background: rgba($color: lime, $alpha: 0.3);
+            background: rgba($color: $success, $alpha: 0.2);
         }
         &.incorrect {
-            background: rgba($color: red, $alpha: 0.3);
+            background: rgba($color: $error, $alpha: 0.2);
         }
     }
 }

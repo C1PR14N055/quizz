@@ -16,4 +16,12 @@ export class EvaluationPageComponent implements OnInit {
         this.totalCorrect = this._quizzService.getTotalCorrect();
         this.total = this._quizzService.getTotal();
     }
+
+    getScore(): number {
+        return Math.round((this.totalCorrect / this.total) * 100);
+    }
+
+    hasPassed(): boolean {
+        return this.getScore() >= 75;
+    }
 }

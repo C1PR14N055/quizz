@@ -1,5 +1,251 @@
 [
     {
+        "question": "How do air density and flight performance change with decreasing temperature (at constant pressure)? ",
+        "answers": [
+            {
+                "text": "Air density increases, flight performance increases",
+                "correct": true
+            },
+            {
+                "text": "Air density decreases, flight performance decreases",
+                "correct": false
+            },
+            {
+                "text": "Air density increases, flight performance decreases",
+                "correct": false
+            },
+            {
+                "text": "Air density decreases, flight performance increases",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "With regard to global circulation and air masses, what are the air masses that Central Europe is mainly influenced by? ",
+        "answers": [
+            { "text": "Tropical and arctic cold air", "correct": false },
+            { "text": "Arctic and polar cold air", "correct": false },
+            { "text": "Tropical and substropical warm air", "correct": false },
+            {
+                "text": "Polar cold air and subtropical warm air",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "The \"dew point\" is defined as... ",
+        "answers": [
+            {
+                "text": "temperature below which air has to be cooled to obtain condensation.",
+                "correct": true
+            },
+            {
+                "text": "temperature to which air has to be cooled to obtain condensation.",
+                "correct": false
+            },
+            {
+                "text": "temperature to which air has to be heated to obtain vaporisation.",
+                "correct": false
+            },
+            {
+                "text": "temperature above which air has to be heated to obtain vaporisation.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What change in aggregate state releases the biggest amount of energy? ",
+        "answers": [
+            { "text": "Solid -> liquid", "correct": false },
+            { "text": "Liquid -> gaseous", "correct": false },
+            { "text": "Gaseous -> liquid", "correct": true },
+            { "text": "Liquid -> solid", "correct": false }
+        ]
+    },
+    {
+        "question": "What conditions may be expected when flying through Cumulonimbus clouds (Cb)? ",
+        "answers": [
+            {
+                "text": "Low precipitation, calm air, light turbulence",
+                "correct": false
+            },
+            {
+                "text": "Medium precipitation, medium turbulence, icing",
+                "correct": false
+            },
+            {
+                "text": "Visibility more than 1.5 km, no turbulence, no icing",
+                "correct": false
+            },
+            {
+                "text": "Heavy rain, hail, heavy turbulence, heavy icing",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "What conditions may be expected when flying through stratiform clouds (St)? ",
+        "answers": [
+            {
+                "text": "Low precipitation, calm air, light turbulence",
+                "correct": false
+            },
+            {
+                "text": "Medium precipitation, medium turbulence, icing",
+                "correct": true
+            },
+            {
+                "text": "Visibility more than 1.5 km, no turbulence, no icing",
+                "correct": false
+            },
+            {
+                "text": "heavy rain, hail, heavy turbulence, heavy icing",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The character of a continental air mass can change by moving across widespread... ",
+        "answers": [
+            { "text": "snow-covered areas.", "correct": false },
+            { "text": "hot areas.", "correct": false },
+            { "text": "desert areas.", "correct": false },
+            { "text": "humid areas.", "correct": true }
+        ]
+    },
+    {
+        "question": "The front shown in the picture is a / an...",
+        "figure": "met_5.png",
+        "answers": [
+            { "text": "warm front.", "correct": false },
+            { "text": "front aloft.", "correct": false },
+            { "text": "occlusion.", "correct": false },
+            { "text": "cold front.", "correct": true }
+        ]
+    },
+    {
+        "question": "The front shown in the picture is a / an...",
+        "figure": "met_6.png",
+        "answers": [
+            { "text": "warm front.", "correct": true },
+            { "text": "front aloft.", "correct": false },
+            { "text": "occlusion.", "correct": false },
+            { "text": "cold front.", "correct": false }
+        ]
+    },
+    {
+        "question": "The front shown in the picture is a / an...",
+        "figure": "met_7.png",
+        "answers": [
+            { "text": "warm front.", "correct": false },
+            { "text": "front aloft.", "correct": false },
+            { "text": "occlusion.", "correct": true },
+            { "text": "cold front.", "correct": false }
+        ]
+    },
+    {
+        "question": "An occlusion line is formed by succeeding... ",
+        "answers": [
+            { "text": "warm air and preceeding cold air.", "correct": false },
+            { "text": "cold air and preceeding cold air.", "correct": true },
+            { "text": "cold air and preceeding warm air.", "correct": false },
+            { "text": "warm air and preceeding warm air.", "correct": false }
+        ]
+    },
+    {
+        "question": "High pressure areas can be found predominantly... ",
+        "answers": [
+            {
+                "text": "in polar front areas at 60\u00b0 N/S.",
+                "correct": false
+            },
+            {
+                "text": "in tropical areas, close to the equator.",
+                "correct": false
+            },
+            {
+                "text": "in subtropical areas at 30\u00b0 N/S.",
+                "correct": true
+            },
+            { "text": "overhead large ocean areas.", "correct": false }
+        ]
+    },
+    {
+        "question": "What weather characteristic results from the \"westerly\" situation? ",
+        "answers": [
+            {
+                "text": "Calm weather and cloud dissipation, few high Cu",
+                "correct": false
+            },
+            { "text": "Calm winds and widespread high fog", "correct": false },
+            {
+                "text": "Changingweather with passing of frontal lines",
+                "correct": true
+            },
+            { "text": "Clear skies and moderate winds", "correct": false }
+        ]
+    },
+    {
+        "question": "What wind conditions can be expected in areas with no prevailing pressure gradient? ",
+        "answers": [
+            {
+                "text": "Variable winds, formation of local wind systems",
+                "correct": true
+            },
+            {
+                "text": "Formation of local wind systems with strong prevailing westerly winds",
+                "correct": false
+            },
+            {
+                "text": "Strong prevailing westerly winds with rapid veering",
+                "correct": false
+            },
+            {
+                "text": "Strong prevailing easterly winds with rapid backing",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What kind of reduction in visibility is not affected by temperature? ",
+        "answers": [
+            { "text": "Patches of fog (BCFG)", "correct": false },
+            { "text": "Radiation fog (FG)", "correct": false },
+            { "text": "Mist (BR)", "correct": false },
+            { "text": "Haze (HZ)", "correct": true }
+        ]
+    },
+    {
+        "question": "Pressure and frontal information are stated in the... ",
+        "answers": [
+            { "text": "surface weather chart.", "correct": true },
+            { "text": "hypsometric chart.", "correct": false },
+            { "text": "wind chart.", "correct": false },
+            { "text": "Significant Weather Chart (SWC).", "correct": false }
+        ]
+    },
+    {
+        "question": "What information can NOT be obtained from a Significant Weather Chart (SWC)? ",
+        "answers": [
+            { "text": "Temperature at planned flight level", "correct": true },
+            { "text": "Height of the tropopause", "correct": false },
+            {
+                "text": "Areas with expected icing conditions",
+                "correct": false
+            },
+            { "text": "Areas with expected turbulence", "correct": false }
+        ]
+    },
+    {
+        "question": "What message should be checked before each flight to be informed about flight hazards? ",
+        "answers": [
+            { "text": "TAF", "correct": false },
+            { "text": "SIGMET", "correct": true },
+            { "text": "GAFOR", "correct": false },
+            { "text": "GAMET", "correct": false }
+        ]
+    },
+    {
         "question": "What clouds and weather may result from an humid and instable air mass, that is  pushed against a chain of mountains by the predominant wind and forced to rise? ",
         "answers": [
             {

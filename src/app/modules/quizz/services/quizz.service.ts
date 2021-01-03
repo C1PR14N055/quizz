@@ -64,6 +64,15 @@ export class QuizzService {
             .length;
     }
 
+    private _shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+
+        return array;
+    }
+
     private _getQuizzById(id: string): Observable<Quizz> {
         const url = `assets/json/PPL_${id.toUpperCase()}.json`;
 
@@ -71,7 +80,10 @@ export class QuizzService {
             map((qas) => {
                 return {
                     state: QuizzState.LOADED,
-                    qas: qas,
+                    qas: qas.map((qa) => {
+                        this._shuffleArray(qa.answers);
+                        return qa;
+                    }),
                     qaIndex: 0
                 };
             })

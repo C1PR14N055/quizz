@@ -1,5 +1,32 @@
 [
     {
+        "question": "After a transmission the other station does not answer. How long should you wait until transmitting again? ",
+        "answers": [
+            { "text": "10 seconds", "correct": true },
+            { "text": "20 seconds", "correct": false },
+            { "text": "30 seconds", "correct": false },
+            { "text": "5 seconds", "correct": false }
+        ]
+    },
+    {
+        "question": "How long should a test transmission to check the equipment take as a maximum? ",
+        "answers": [
+            { "text": "5 seconds", "correct": false },
+            { "text": "10 seconds", "correct": true },
+            { "text": "15 seconds", "correct": false },
+            { "text": "20 seconds", "correct": false }
+        ]
+    },
+    {
+        "question": "What is the correct way to transmit a visibility of 12 km? ",
+        "answers": [
+            { "text": "12 kilometers", "correct": false },
+            { "text": "Very good", "correct": false },
+            { "text": "10 kilometers", "correct": true },
+            { "text": "Good", "correct": false }
+        ]
+    },
+    {
         "question": "In which situations should a pilot use blind transmissions? ",
         "answers": [
             {

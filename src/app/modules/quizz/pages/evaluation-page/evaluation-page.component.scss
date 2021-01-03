@@ -1,1 +1,27 @@
 @import '../../../../themes/vars.scss';
+@import '../../../../themes/colors.scss';
+
+h1 {
+    font-size: 4em;
+}
+
+h2 {
+    font-size: 2.5em;
+    font-weight: normal;
+    font-style: italic;
+    color: #333;
+}
+
+mat-icon {
+    font-size: 1em;
+    width: 1em;
+    height: 1em;
+}
+
+.passed {
+    color: $success;
+}
+
+.failed {
+    color: $error;
+}

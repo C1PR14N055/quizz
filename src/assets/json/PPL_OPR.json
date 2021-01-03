@@ -1,5 +1,68 @@
 [
     {
+        "question": "How is a halon fire extinguisher used correctly? ",
+        "answers": [
+            {
+                "text": "Disarm the safeguard.\nHold upright.\nFrom a distance of 1 m to1.5 m aim at the source of the fire and activate the trigger.",
+                "correct": true
+            },
+            {
+                "text": "Disarm the safeguard.\nHold upright.\nBring the nozzle as closely as possible to the source of the fire and activate the trigger.",
+                "correct": false
+            },
+            {
+                "text": "Disarm the safeguard.\nHold horizontally.\nBring the nozzle as closely as possible to the source of the fire and activate the trigger.",
+                "correct": false
+            },
+            {
+                "text": "Disarm the safeguard.\nHold horizontally.\nFrom a distance of 1 m to 1.5 m aim at the source of the fire and activate the trigger.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which precautions need to be taken when a halon fire extinguisher is used inside an aircraft cabin? ",
+        "answers": [
+            {
+                "text": "The extinguishing agent may decompose into poisonous components when heated; therefore the aircraft cabin must be ventilated well",
+                "correct": true
+            },
+            {
+                "text": "Halon has a cooling effect. Once the fire has been extinguished, the source of the fire should not be cooled down further using non-flammable liquids",
+                "correct": false
+            },
+            {
+                "text": "Halon suffocates the fire and additionally has a cooling effect. Aircraft occupants should be protected against the resulting cold and hypoxia",
+                "correct": false
+            },
+            {
+                "text": "Halon fireextinguishers must be emptied in one single swell to avoid that the residual halon forms toxic components",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What does the brake coefficient specify? ",
+        "answers": [
+            {
+                "text": "The proportion between friction force and contact pressing force between two objects",
+                "correct": true
+            },
+            {
+                "text": "The proportion between Coriolis force and contact pressing force between two objects",
+                "correct": false
+            },
+            {
+                "text": "The proportion between brake force applied and landing distance",
+                "correct": false
+            },
+            {
+                "text": "The proportion between brake force applied and landing ground roll",
+                "correct": false
+            }
+        ]
+    },
+    {
         "question": "The term \"flight time\" is defined as... ",
         "answers": [
             {
