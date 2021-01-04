@@ -377,7 +377,7 @@
         ]
     },
     {
-        "question": "Given:TC: 032\u00b0; WCA: +11\u00b0; DEV: 001\u00b0 W; CH: 049\u00b0What are TH, VAR und MH?",
+        "question": "Given:\n\nTC: 032\u00b0; WCA: +11\u00b0; DEV: 001\u00b0 W; CH: 049\u00b0\n\nWhat are TH, VAR und MH?",
         "answers": [
             {
                 "text": "TH: 043\u00b0.\nVAR: 005\u00b0 W.\nMH: 048\u00b0.",
@@ -398,7 +398,7 @@
         ]
     },
     {
-        "question": "Given:TC: 105\u00b0; WCA: +009\u00b0; MH: 119\u00b0; CH: 120\u00b0What are VAR andDEV?",
+        "question": "Given:\n\nTC: 105\u00b0; WCA: +009\u00b0; MH: 119\u00b0; CH: 120\u00b0\n\nWhat are VAR andDEV?",
         "answers": [
             { "text": "VAR: 005\u00b0 E.\nDEV: -001\u00b0.", "correct": false },
             { "text": "VAR: 005\u00b0 E.\nDEV: +001\u00b0.", "correct": false },
@@ -407,7 +407,7 @@
         ]
     },
     {
-        "question": "Given:TC: 179\u00b0; VAR: 004\u00b0 E; DEV: +002\u00b0What are MC and CC?",
+        "question": "Given:\n\nTC: 179\u00b0; VAR: 004\u00b0 E; DEV: +002\u00b0\n\nWhat are MC and CC?",
         "answers": [
             { "text": "MC: 183\u00b0.\nCC: 185\u00b0.", "correct": false },
             { "text": "MC: 185\u00b0.\nCC: 183\u00b0.", "correct": false },
@@ -416,7 +416,7 @@
         ]
     },
     {
-        "question": "Given:VAR: 005\u00b0 E; MC: 232\u00b0; DEV: +001\u00b0What are TC and CC?",
+        "question": "Given:\n\nVAR: 005\u00b0 E; MC: 232\u00b0; DEV: +001\u00b0\n\nWhat are TC and CC?",
         "answers": [
             { "text": "TC: 227\u00b0.\nCC: 231\u00b0.", "correct": false },
             { "text": "TC: 227\u00b0.\nCC: 233\u00b0.", "correct": false },
@@ -461,7 +461,7 @@
         ]
     },
     {
-        "question": "Given:TC: 168\u00b0; WCA: +012\u00b0; MH: 178\u00b0; CH 176\u00b0What are TH and VAR?",
+        "question": "Given:\n\nTC: 168\u00b0; WCA: +012\u00b0; MH: 178\u00b0; CH 176\u00b0\n\nWhat are TH and VAR?",
         "answers": [
             { "text": "TH: 180\u00b0.\nVAR: 002\u00b0 W.", "correct": false },
             { "text": "TH: 180\u00b0.\nVAR: 002\u00b0 E.", "correct": true },
@@ -470,7 +470,7 @@
         ]
     },
     {
-        "question": "Given:TC: 168\u00b0; WCA: +012\u00b0; MH: 178\u00b0; CH 176\u00b0What are VAR and DEV?",
+        "question": "Given:\n\nTC: 168\u00b0; WCA: +012\u00b0; MH: 178\u00b0; CH 176\u00b0\n\nWhat are VAR and DEV?",
         "answers": [
             { "text": "VAR: 002\u00b0 W.\nDEV: -002\u00b0.", "correct": false },
             { "text": "VAR: 002\u00b0 E.\nDEV: +002\u00b0.", "correct": true },
@@ -590,10 +590,10 @@
         "question": "Which answer states the correct correlation between number and chart symbols?",
         "figure": "nav_17.png",
         "answers": [
-            { "text": "1: VOR2: VOR/DME3: VORTAC4: NDB", "correct": true },
-            { "text": "1: VOR/DME2: VOR3: VORTAC4: NDB", "correct": false },
-            { "text": "1: VORTAC2: VOR/DME3: VOR4: NDB", "correct": false },
-            { "text": "1: VOR2: VOR/DME3: NDB4: VORTAC", "correct": false }
+            { "text": "1: VOR 2: VOR/DME 3: VORTAC 4: NDB", "correct": true },
+            { "text": "1: VOR/DME 2: VOR 3: VORTAC 4: NDB", "correct": false },
+            { "text": "1: VORTAC 2: VOR/DME 3: VOR 4: NDB", "correct": false },
+            { "text": "1: VOR 2: VOR/DME 3: NDB 4: VORTAC", "correct": false }
         ]
     },
     {
@@ -708,7 +708,7 @@
         ]
     },
     {
-        "question": "Given:QDM: 279\u00b0VAR: 5\u00b0 WDEV: 5\u00b0 E\nThe QDR equals...",
+        "question": "Given:\n\nQDM: 279\u00b0VAR: 5\u00b0 WDEV: 5\u00b0 E\nThe QDR equals...",
         "answers": [
             { "text": "094\u00b0.", "correct": false },
             { "text": "274\u00b0.", "correct": false },
@@ -717,7 +717,7 @@
         ]
     },
     {
-        "question": "Given:QDM: 300\u00b0VAR: 5\u00b0 EDEV: 5\u00b0 W\nThe QDR equals...",
+        "question": "Given:\n\nQDM: 300\u00b0VAR: 5\u00b0 EDEV: 5\u00b0 W\nThe QDR equals...",
         "answers": [
             { "text": "125\u00b0.", "correct": false },
             { "text": "120\u00b0.", "correct": true },
@@ -1180,7 +1180,7 @@
         ]
     },
     {
-        "question": "Given: WCA: -012\u00b0; TH: 125\u00b0; MC: 139\u00b0; DEV: 002\u00b0EWhat are: TC, MH und CH?",
+        "question": "Given:\n\n WCA: -012\u00b0; TH: 125\u00b0; MC: 139\u00b0; DEV: 002\u00b0E\n\nWhat are: TC, MH und CH?",
         "answers": [
             {
                 "text": "TC: 113\u00b0.\nMH: 127\u00b0.\nCH: 129\u00b0."
@@ -1198,7 +1198,7 @@
         ]
     },
     {
-        "question": "Given: TC: 179\u00b0; WCA: -12\u00b0; VAR: 004\u00b0 E; DEV: +002\u00b0What are MH and MC?",
+        "question": "Given:\n\n TC: 179\u00b0; WCA: -12\u00b0; VAR: 004\u00b0 E; DEV: +002\u00b0\n\nWhat are MH and MC?",
         "answers": [
             { "text": "MH: 163\u00b0.\nMC: 175\u00b0.", "correct": true },
             { "text": "MH: 163\u00b0.\nMC: 161\u00b0." },
@@ -1261,7 +1261,7 @@
         ]
     },
     {
-        "question": "Given: TC: 183\u00b0; WCA: +011\u00b0; MH: 198\u00b0; CH: 200\u00b0What are TH and VAR?",
+        "question": "Given:\n\n TC: 183\u00b0; WCA: +011\u00b0; MH: 198\u00b0; CH: 200\u00b0\n\nWhat are TH and VAR?",
         "answers": [
             { "text": "TH: 194\u00b0.\nVAR: 004\u00b0 E" },
             { "text": "TH: 172\u00b0.\nVAR: 004\u00b0 W" },
@@ -1270,7 +1270,7 @@
         ]
     },
     {
-        "question": "Given:  TC: 183\u00b0; WCA: +011\u00b0; MH: 198\u00b0; CH: 200\u00b0What are the TH and the DEV?",
+        "question": "Given:\n\n  TC: 183\u00b0; WCA: +011\u00b0; MH: 198\u00b0; CH: 200\u00b0\n\nWhat are the TH and the DEV?",
         "answers": [
             { "text": "TH: 194\u00b0.\nDEV: +002\u00b0." },
             { "text": "TH: 172\u00b0.\nDEV: +002\u00b0." },
@@ -1279,7 +1279,7 @@
         ]
     },
     {
-        "question": "Given: TC: 183\u00b0; WCA: +011\u00b0; MH: 198\u00b0; CH: 200\u00b0What are the VAR and the DEV?",
+        "question": "Given:\n\n TC: 183\u00b0; WCA: +011\u00b0; MH: 198\u00b0; CH: 200\u00b0\n\nWhat are the VAR and the DEV?",
         "answers": [
             { "text": "VAR: 004\u00b0 E.\nDEV: -002\u00b0." },
             { "text": "VAR: 004\u00b0 W.\nDEV: +002\u00b0." },
@@ -1489,7 +1489,7 @@
         ]
     },
     {
-        "question": "For a short flight from A to B the pilot extracts the following information from an aeronautical chart:True course: 245\u00b0.\nMagnetic variation: 7\u00b0 WThe magnetic course (MC) equals... ",
+        "question": "For a short flight from A to B the pilot extracts the following information from an aeronautical chart:True course: 245\u00b0.\nMagnetic variation: 7\u00b0 W\n\nThe magnetic course (MC) equals... ",
         "answers": [
             { "text": "252\u00b0.", "correct": true },
             { "text": "245\u00b0." },
@@ -1507,7 +1507,7 @@
         ]
     },
     {
-        "question": "Given: True course from A to B: 250\u00b0.\nGround distance: 210 NM. TAS: 130 kt.\nHeadwind component: 15 kt.\nEstimated time of departure (ETD): 0915 UTC.\nThe estimated time of arrival (ETA) is... ",
+        "question": "Given:\n\n True course from A to B: 250\u00b0.\nGround distance: 210 NM. TAS: 130 kt.\nHeadwind component: 15 kt.\nEstimated time of departure (ETD): 0915 UTC.\nThe estimated time of arrival (ETA) is... ",
         "answers": [
             { "text": "1005 UTC." },
             { "text": "1105 UTC.", "correct": true },
@@ -1516,7 +1516,7 @@
         ]
     },
     {
-        "question": "Given: True course from A to B: 283\u00b0.\nGround distance: 75 NM. TAS: 105 kt.\nHeadwind component: 12 kt.\nEstimated time of departure (ETD): 1242 UTC.\nThe estimated time of arrival (ETA) is... ",
+        "question": "Given:\n\n True course from A to B: 283\u00b0.\nGround distance: 75 NM. TAS: 105 kt.\nHeadwind component: 12 kt.\nEstimated time of departure (ETD): 1242 UTC.\nThe estimated time of arrival (ETA) is... ",
         "answers": [
             { "text": "1356 UTC" },
             { "text": "1320 UTC" },
@@ -1525,7 +1525,7 @@
         ]
     },
     {
-        "question": "Given: True course from A to B: 352\u00b0.\nGround distance: 100 NM. GS: 107 kt.\nEstimated time of departure (ETD): 0933 UTC.\nThe estimated time of arrival (ETA) is...",
+        "question": "Given:\n\n True course from A to B: 352\u00b0.\nGround distance: 100 NM. GS: 107 kt.\nEstimated time of departure (ETD): 0933 UTC.\nThe estimated time of arrival (ETA) is...",
         "answers": [
             { "text": "1029 UTC.", "correct": true },
             { "text": "1045 UTC." },
@@ -1628,7 +1628,7 @@
         ]
     },
     {
-        "question": "Given:  Calibrated airspeed (CAS): 155 kt.\nFlight level (FL) 80.\nOutside air temperature (OAT): +15\u00b0 C. The true airspeed (TAS) equals... ",
+        "question": "Given:\n\n  Calibrated airspeed (CAS): 155 kt.\nFlight level (FL) 80.\nOutside air temperature (OAT): +15\u00b0 C. The true airspeed (TAS) equals... ",
         "answers": [
             { "text": "134 kts." },
             { "text": "170 kts." },
@@ -1714,7 +1714,7 @@
         ]
     },
     {
-        "question": "Given: True course: 255\u00b0.\nTAS: 100 kt.\nWind: 200\u00b0/10 kt.\nThe true heading equals... ",
+        "question": "Given:\n\n True course: 255\u00b0.\nTAS: 100 kt.\nWind: 200\u00b0/10 kt.\nThe true heading equals... ",
         "answers": [
             { "text": "250\u00b0.", "correct": true },
             { "text": "275\u00b0. " },
@@ -1733,7 +1733,7 @@
         ]
     },
     {
-        "question": "Given: True course: 165\u00b0.\nTAS: 90 kt.\nWind: 130\u00b0/20 kt.\nDistance: 153 NM.\nThe true heading equals... ",
+        "question": "Given:\n\n True course: 165\u00b0.\nTAS: 90 kt.\nWind: 130\u00b0/20 kt.\nDistance: 153 NM.\nThe true heading equals... ",
         "answers": [
             { "text": "165\u00b0." },
             { "text": "158\u00b0.", "correct": true },
@@ -1761,7 +1761,7 @@
         ]
     },
     {
-        "question": "Given: Ground speed (GS): 160 kt.\nTrue course (TC): 177\u00b0.\nWind vector (W/WS): 140\u00b0/20 kt.\nThe true heading (TH) equals...",
+        "question": "Given:\n\n Ground speed (GS): 160 kt.\nTrue course (TC): 177\u00b0.\nWind vector (W/WS): 140\u00b0/20 kt.\nThe true heading (TH) equals...",
         "answers": [
             { "text": "169\u00b0." },
             { "text": "184\u00b0." },
@@ -1847,7 +1847,7 @@
         ]
     },
     {
-        "question": "Given: True course: 270\u00b0.\nTAS: 100 kt.\nWind: 090\u00b0/25 kt.\nDistance: 100 NM.\nThe ground speed (GS) equals... ",
+        "question": "Given:\n\n True course: 270\u00b0.\nTAS: 100 kt.\nWind: 090\u00b0/25 kt.\nDistance: 100 NM.\nThe ground speed (GS) equals... ",
         "answers": [
             { "text": "120 kt." },
             { "text": "131 kt." },
@@ -1866,7 +1866,7 @@
         ]
     },
     {
-        "question": "Given: True course: 270\u00b0.\nTAS: 100 kt.\nWind: 090\u00b0/25 kt.\nDistance: 100 NM.\nThe flight time equals... ",
+        "question": "Given:\n\n True course: 270\u00b0.\nTAS: 100 kt.\nWind: 090\u00b0/25 kt.\nDistance: 100 NM.\nThe flight time equals... ",
         "answers": [
             { "text": "48 Min.", "correct": true },
             { "text": "37 Min." },
@@ -1894,7 +1894,7 @@
         ]
     },
     {
-        "question": "Given:  True course: 120\u00b0.\nTAS: 120 kt.\nWind: 150\u00b0/12 kt.\nThe WCA equals... ",
+        "question": "Given:\n\n  True course: 120\u00b0.\nTAS: 120 kt.\nWind: 150\u00b0/12 kt.\nThe WCA equals... ",
         "answers": [
             { "text": "6\u00b0 to the right." },
             { "text": "3\u00b0 to the right.", "correct": true },
@@ -2069,7 +2069,7 @@
         ]
     },
     {
-        "question": "Given: QDM: 138\u00b0VAR: 10\u00b0 EThe QUJ equals... ",
+        "question": "Given:\n\n QDM: 138\u00b0VAR: 10\u00b0 E\n\nThe QUJ equals... ",
         "answers": [
             { "text": "148\u00b0.", "correct": true },
             { "text": "168\u00b0." },
@@ -2078,7 +2078,7 @@
         ]
     },
     {
-        "question": "Given: QTE: 229\u00b0VAR: 10\u00b0 WThe QDM equals...",
+        "question": "Given:\n\n QTE: 229\u00b0VAR: 10\u00b0 W\n\nThe QDM equals...",
         "answers": [
             { "text": "049\u00b0." },
             { "text": "059\u00b0.", "correct": true },
@@ -2087,7 +2087,7 @@
         ]
     },
     {
-        "question": "Given: QDR: 022\u00b0VAR: 10\u00b0 EThe QTE equals...",
+        "question": "Given:\n\n QDR: 022\u00b0VAR: 10\u00b0 E\n\nThe QTE equals...",
         "answers": [
             { "text": "212\u00b0." },
             { "text": "032\u00b0.", "correct": true },
@@ -2096,7 +2096,7 @@
         ]
     },
     {
-        "question": "Given: QDM: 248\u00b0VAR: 10\u00b0 WThe QTE is...",
+        "question": "Given:\n\n QDM: 248\u00b0VAR: 10\u00b0 W\n\nThe QTE is...",
         "answers": [
             { "text": "078\u00b0." },
             { "text": "238\u00b0." },
@@ -2105,7 +2105,7 @@
         ]
     },
     {
-        "question": "Given: QDR: 067\u00b0VAR: 5\u00b0 EThe QDM equals...",
+        "question": "Given:\n\n QDR: 067\u00b0VAR: 5\u00b0 E\n\nThe QDM equals...",
         "answers": [
             { "text": "072\u00b0." },
             { "text": "257\u00b0." },
@@ -2114,7 +2114,7 @@
         ]
     },
     {
-        "question": "Given: QDR: 152\u00b0VAR: 5\u00b0 WDEV: 5\u00b0 EThe QUJ equals... ",
+        "question": "Given:\n\n QDR: 152\u00b0VAR: 5\u00b0 WDEV: 5\u00b0 E\n\nThe QUJ equals... ",
         "answers": [
             { "text": "332\u00b0." },
             { "text": "147\u00b0." },
@@ -2123,7 +2123,7 @@
         ]
     },
     {
-        "question": "Given: QTE: 203\u00b0VAR: 10\u00b0 EThe QDR equals...",
+        "question": "Given:\n\n QTE: 203\u00b0VAR: 10\u00b0 E\n\nThe QDR equals...",
         "answers": [
             { "text": "193\u00b0.", "correct": true },
             { "text": "023\u00b0." },
@@ -2132,7 +2132,7 @@
         ]
     },
     {
-        "question": "Given: QTE: 248\u00b0VAR: 10\u00b0 WThe QDR equals...",
+        "question": "Given:\n\n QTE: 248\u00b0VAR: 10\u00b0 W\n\nThe QDR equals...",
         "answers": [
             { "text": "258\u00b0.", "correct": true },
             { "text": "078\u00b0." },
@@ -2141,7 +2141,7 @@
         ]
     },
     {
-        "question": "Given: QDM: 134\u00b0VAR: 5\u00b0 WThe QTE equals...",
+        "question": "Given:\n\n QDM: 134\u00b0VAR: 5\u00b0 W\n\nThe QTE equals...",
         "answers": [
             { "text": "314\u00b0." },
             { "text": "309\u00b0.", "correct": true },
