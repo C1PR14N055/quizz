@@ -182,7 +182,7 @@
     {
         "question": "What does the abbreviation \"QTE\" stand for? ",
         "answers": [
-            { "text": "Magnetic bearing to thestation" },
+            { "text": "Magnetic bearing to the station" },
             { "text": "Magnetic bearing from the station" },
             { "text": "True bearing from the station", "correct": true },
             { "text": "True bearing to the station" }
@@ -230,7 +230,7 @@
     {
         "question": "What is the correct term for a message used for air traffic control? ",
         "answers": [
-            { "text": "Flight regularitymessage" },
+            { "text": "Flight regularity message" },
             { "text": "Meteorological message" },
             {
                 "text": "Message related to direction finding"
@@ -287,7 +287,7 @@
                 "text": "sent by an aircraft operating agency or an aircraft of immediate concern to an aircraft in flight. "
             },
             {
-                "text": "concerning the operation or maintenance of facilities essential for the safety or regularity ofaircraft operation.",
+                "text": "concerning the operation or maintenance of facilities essential for the safety or regularity of aircraft operation.",
                 "correct": true
             }
         ]
@@ -658,7 +658,7 @@
                 "correct": true
             },
             {
-                "text": "DZF after lift-offclimb straight ahead 2500 feet, then turn right heading 220, 090 degrees, 5 knots"
+                "text": "DZF after lift-off climb straight ahead 2500 feet, then turn right heading 220, 090 degrees, 5 knots"
             },
             {
                 "text": "DZF after lift-off climb straight ahead 2500 feet, then turn right heading 220, 090 degrees, 5 knots, cleared for take-off"
