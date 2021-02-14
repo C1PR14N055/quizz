@@ -944,7 +944,7 @@
         ]
     },
     {
-        "question": "An aeroplane's current supply is carried out by the:\\n1. Battery\n2. Generator\n3. Relay\n4. Circuit breaker ",
+        "question": "An aeroplane's current supply is carried out by the:\n\n1. Battery\n2. Generator\n3. Relay\n4. Circuit breaker ",
         "answers": [
             { "text": "1 and 4" },
             { "text": "3 and 4" },

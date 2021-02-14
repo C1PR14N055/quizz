@@ -861,7 +861,7 @@
         ]
     },
     {
-        "question": "Which of the following qualities are influenced by stress?\\n1. Attention\n2. Concentration\n3. Responsiveness\n4. Memory ",
+        "question": "Which of the following qualities are influenced by stress?\n\n1. Attention\n2. Concentration\n3. Responsiveness\n4. Memory ",
         "answers": [
             { "text": "2, 4" },
             { "text": "1" },
