@@ -17,11 +17,10 @@ export class QuizzService {
 
     constructor(private _http: HttpClient) {}
 
-    loadQuizz(id: string): Observable<boolean> {
-        return this._getQuizzById(id).pipe(
+    loadQuizz(id: string, chapter: number): Observable<boolean> {
+        return this._getQuizzById(id, chapter).pipe(
             tap((quizz: any) => {
                 this._currentQuizz = quizz;
-                console.log(this._currentQuizz);
             }),
             switchMap(() => of(true))
         );
@@ -64,7 +63,13 @@ export class QuizzService {
             .length;
     }
 
-    private _shuffleArray(array) {
+    getQuizzRaw(id: string): Observable<QA[]> {
+        const url = `assets/json/PPL_${id.toUpperCase()}.json`;
+
+        return this._http.get<QA[]>(url);
+    }
+
+    private _shuffleArray(array): void {
         for (let i = array.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
             [array[i], array[j]] = [array[j], array[i]];
@@ -73,17 +78,30 @@ export class QuizzService {
         return array;
     }
 
-    private _getQuizzById(id: string): Observable<Quizz> {
+    private _getQuizzById(id: string, chapter: number): Observable<Quizz> {
+        // check chapter is valid
+        if (
+            !chapter ||
+            !Number.isInteger(chapter) ||
+            chapter < 1 ||
+            chapter > 30
+        ) {
+            chapter = 1;
+        }
+
         const url = `assets/json/PPL_${id.toUpperCase()}.json`;
 
         return this._http.get<QA[]>(url).pipe(
             map((qas) => {
                 return {
                     state: QuizzState.LOADED,
-                    qas: qas.map((qa) => {
-                        this._shuffleArray(qa.answers);
-                        return qa;
-                    }),
+                    qas: qas
+                        .map((qa) => {
+                            this._shuffleArray(qa.answers);
+
+                            return qa;
+                        })
+                        .slice((chapter - 1) * 10, (chapter - 1) * 10 + 10),
                     qaIndex: 0
                 };
             })

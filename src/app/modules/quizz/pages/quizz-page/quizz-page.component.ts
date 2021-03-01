@@ -19,7 +19,6 @@ export class QuizzPageComponent implements OnInit {
 
     selectedAnswerIndex = null;
     verified = false;
-
     constructor(
         private _quizzService: QuizzService,
         private _router: Router,
@@ -33,7 +32,9 @@ export class QuizzPageComponent implements OnInit {
     ngOnInit(): void {
         this._route.paramMap.subscribe((p) => {
             const id = p.get('id');
-            this._quizzService.loadQuizz(id).subscribe((_) => {
+            const chapter = parseInt(p.get('chapter'));
+
+            this._quizzService.loadQuizz(id, chapter).subscribe((_) => {
                 this.loading = false;
             });
         });

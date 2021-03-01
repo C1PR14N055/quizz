@@ -1,0 +1,25 @@
+<mat-card
+    *ngIf="chapter"
+    (click)="openRoute()"
+    class="mat-elevation-z4"
+    [ngClass]="{ 'mat-elevation-z16': isHovered }"
+>
+    <p class="subject-chapter">
+        {{ chapter.subject | uppercase }} {{ chapter.nr }}
+    </p>
+    <p
+        class="last-score"
+        [ngClass]="{
+            failed: chapter.lastScore && chapter.lastScore < 75,
+            passed: chapter.lastScore && chapter.lastScore >= 75
+        }"
+    >
+        <ng-container *ngIf="chapter.lastScore; else noScore">
+            <mat-icon *ngIf="chapter.lastScore >= 75">thumb_up</mat-icon>
+            <mat-icon *ngIf="chapter.lastScore < 75">thumb_down</mat-icon>
+            {{ chapter.lastScore || 0 }}%
+        </ng-container>
+        <ng-template #noScore>???</ng-template>
+    </p>
+    <p class="questions">{{ chapter.nrQuestions }} questions</p>
+</mat-card>

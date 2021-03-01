@@ -31,7 +31,6 @@ export class SubjectCardV2Component implements OnInit {
     @HostListener('mouseenter')
     onMouseEnter(): void {
         this.isHovered = true;
-        console.log('enter');
     }
 
     @HostListener('mouseleave')

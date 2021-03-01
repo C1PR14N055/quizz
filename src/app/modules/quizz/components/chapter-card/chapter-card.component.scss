@@ -1,0 +1,30 @@
+@import '../../../../themes/colors.scss';
+
+mat-card {
+    cursor: pointer;
+    .subject-chapter {
+        font-size: 2em;
+        font-weight: 100;
+        margin: 0;
+        text-align: center;
+    }
+
+    .last-score {
+        text-align: center;
+        font-weight: bold;
+        font-size: 1.8em;
+        &.failed {
+            color: $error;
+        }
+        &.passed {
+            color: $success;
+        }
+    }
+
+    .questions {
+        text-align: center;
+        font-weight: 300;
+        margin: 0;
+        color: #999;
+    }
+}
