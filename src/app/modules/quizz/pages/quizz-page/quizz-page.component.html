@@ -24,7 +24,7 @@
                 >
                     <div class="d-flex flex-column">
                         <div
-                            class="answer"
+                            class="answer mb-2"
                             [ngClass]="{
                                 correct: a.correct,
                                 incorrect:
@@ -32,14 +32,14 @@
                             }"
                             *ngFor="let a of currentQA.answers; let i = index"
                         >
-                            <mat-radio-button [value]="i">{{
-                                a.text
-                            }}</mat-radio-button>
+                            <mat-radio-button [value]="i" class="w-100">
+                                <span class="ml-2">{{ a.text }}</span>
+                            </mat-radio-button>
                         </div>
                     </div>
                 </mat-radio-group>
             </form>
-            <mat-card-actions align="end">
+            <mat-card-actions align="end" class="mt-3">
                 <button
                     *ngIf="!verified"
                     [disabled]="selectedAnswerIndex == null"

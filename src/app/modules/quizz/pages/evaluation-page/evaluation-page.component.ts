@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
 import { ChapterScore } from 'src/app/shared/models/chapter-score.interface';
 
 import { QuizzService } from '../../services/quizz.service';
@@ -17,7 +17,8 @@ export class EvaluationPageComponent implements OnInit {
     constructor(
         private _quizzService: QuizzService,
         private _route: ActivatedRoute,
-        private _storage: StorageService
+        private _storage: StorageService,
+        private _router: Router
     ) {}
 
     ngOnInit(): void {
@@ -35,6 +36,12 @@ export class EvaluationPageComponent implements OnInit {
             chapterScore.lastScore = this.getScore();
 
             this.saveChapterScore(chapterScore);
+        });
+    }
+
+    goBack(): void {
+        this._route.params.subscribe((p) => {
+            this._router.navigate(['q', p.id]);
         });
     }
 

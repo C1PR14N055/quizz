@@ -6,10 +6,9 @@ import { MatIconModule } from '@angular/material/icon';
 import { RouterModule } from '@angular/router';
 
 import { SubjectCardV2Component } from './subject-card-v2/subject-card-v2.component';
-import { SubjectCardComponent } from './subject-card/subject-card.component';
 
 @NgModule({
-    declarations: [SubjectCardComponent, SubjectCardV2Component],
+    declarations: [SubjectCardV2Component],
     imports: [
         CommonModule,
         MatCardModule,
@@ -17,6 +16,6 @@ import { SubjectCardComponent } from './subject-card/subject-card.component';
         MatIconModule,
         RouterModule
     ],
-    exports: [SubjectCardComponent, SubjectCardV2Component]
+    exports: [SubjectCardV2Component]
 })
 export class SubjectsOverviewModule {}

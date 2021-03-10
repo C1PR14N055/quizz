@@ -7,7 +7,7 @@
     </h1>
     <h2>Score: {{ getScore() }}%</h2>
     <p>Correct: {{ totalCorrect }} / {{ total }}</p>
-    <button routerLink="/" class="mt-5" color="primary" mat-raised-button>
-        Go back home
+    <button (click)="goBack()" class="mt-5" color="primary" mat-raised-button>
+        Go back
     </button>
 </div>
